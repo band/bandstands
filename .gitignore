@@ -9,5 +9,12 @@
 .obsidian/*
 !.obsidian/README.md
 
+# Python
+__pycache__
+venv
+
+# node
+node_modules
+
 # Massive Wiki Builder
 .massivewikibuilder/output/*

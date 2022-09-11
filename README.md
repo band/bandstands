@@ -1,46 +1,23 @@
-# Our Massive Wiki
+# bandstands
 
-## For Editing Wiki Files
+A [Massive Wiki](https://massive.wiki/) housing Bill Anderson's (a.k.a. "band") past and current web and wiki experiments, assorted notes on readings, day-oriented journal and blog entries, and whatever else shows up. The repository name is shared with a now dormant Tumblr blog, some of whose entries are posted and maintained here.
 
-Welcome to the home page of this wiki. Edit to make it your own! You can delete all the sample content on this page, and replace it with yours.
+For now, use the "Search" and "All Pages" buttons at the top to find your way around.
 
-Use Markdown, or just type text -- either way works.
+**Comments welcome!** Click the "<" icon in the upper right to open the Hypothesis annotation/highlights panel.  Sign up or log into Hypothesis in that panel to add comments and annotations to the pages in this wiki.
 
-Use double square brackets around words to make links to other pages in this wiki.
+-----
 
-## For Publishing Wiki To Website
+ Climate warming update from the Scripps Mauna Loa Observatory:
 
-### Massive Wiki Builder
+![Image file not available](https://scripps.ucsd.edu/bluemoon/co2_400/daily_value.png)
 
-**THIS FOLLOWING IS AN ADVANCED TOPIC.** You do not need the following information if you just want to edit your wiki.
+-----
 
-You can use [Massive Wiki Builder](https://github.com/peterkaminski/massivewikibuilder) to publish (export) any Massive Wiki to static HTML files. The wiki is then in a format viewable by anyone with a web browser.
 
-Massive Wiki Builder (MWB) and [Massive Wiki Themes](https://github.com/peterkaminski/massive-wiki-themes) are included in this repo as Git submodules.
+  
 
-If your website host has build automation, you can adapt the included `netlify.toml` file to drive the build automation, and the build automation should automatically use the Git submodule mechanism to retrieve the MWB code it will need.
 
-If you are using MWB locally on your computer, you will need to retrieve MWB, and optionally, the themes.
 
-When cloning this repo using Git, you can use the `--recurse-submodules` flag to also clone the Massive Wiki Builder and Massive Wiki Themes submodules.
 
-The full command:
 
-```shell
-git clone --recurse-submodules git@github.com:Massive-Wiki/massive-wiki-starter.git
-```
-
-Or, you can clone the submodules with these commands:
-
-```shell
-git submodule init
-git submodule update
-```
-
-See the [Submodules chapter of the Git Book](https://git-scm.com/book/en/v2/Git-Tools-Submodules) for more information about Git submodules.
-
-### Themes
-
-This starter wiki is set up with two MWB / MWT themes, Alto and Basso, in the `.massivewikibuilder/this-wiki-themes` folder. We suggest you continue to use and customize your wiki's themes in the `this-wiki-themes` folder.
-
-The Massive Wiki Themes repo is updated from time to time, and when you refresh your local Git submodule in `.massivewikibuilder/massive-wiki-themes`, you'll receive those updates. Rather than use those themes directly, though, it is suggested to copy what you want into your `this-wiki-themes` folder, and customize and use your copy of the themes from there.

@@ -1,11 +1,16 @@
 # Site Navigation
-[[README|Home]]  
 
-<!-- This comment is not rendered visibly to web.
+#### Selected Content
 
-This file is published as the sidebar in the Basso theme.
+[[Journal-like notes]]  
+[[Notes from and on readings]]  
+[[the Drawing Board]]  
+[[Tumblr repostings]]  
 
-Feel free to edit this page to customize your sidebar.
+[[Einstein & Infeld on Physical Concepts]]  
+[[Jiddu Krishnamurti on Truth]]
 
-Remember to add two space characters to the end of lines to make a line break, or separate menu links will run together one one line.
--->
+#### General Navigation
+
+[All Pages](/all-pages.html)  
+_maybe someday, Random Article!_
