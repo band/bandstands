@@ -1,3 +1,5 @@
+# Some notes on S Zuboff Surveillance Capitalism
+
 Shoshana Zuboff, "The Age of Surveillance Capitalism: The fight for a human future at the new frontier of power", 2019, Public Affairs, Hachette Book Group, New York.
 ISBN: 978-1-61039-569-4
 <http://www.worldcat.org/oclc/1194529251>
