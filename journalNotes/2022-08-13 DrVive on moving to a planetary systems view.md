@@ -72,7 +72,7 @@ CCS: Carbon Capture and Storage
 CDR: Carbon Dioxide Removal
 
 
-#thread #tweet #EndClimateSilence 
+ #EndClimateSilence 
 
 See also:  
 [[eco-modernism defense (wtfit)]]

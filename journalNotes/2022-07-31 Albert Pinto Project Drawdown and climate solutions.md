@@ -95,4 +95,4 @@ Attempted rationally refuting Doomers in our essay here. : https://policytensor.
 
 21/ https://twitter.com/GlobalEcoGuy/status/1553567537228554241
 
-#thread #climate  
+#climate   

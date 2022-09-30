@@ -9,5 +9,5 @@ Dr. Genevieve Guenther (@DoctorVive): The idea that we can "overshoot" 1.5 C and
 
 Or maybe the claim that externalities can be overcome by innovation is true, but the reality is that a functioning planetary ecosystem is not an "externality," but the very pre-requisite of scientific and economic activity.
 
-#thread #climate  
+ #climate  
 

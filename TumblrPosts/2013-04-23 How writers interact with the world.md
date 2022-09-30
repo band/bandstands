@@ -1,4 +1,4 @@
-Posted 2013-04-23:
+# Posted 2013-04-23:
 
 Matthew Battles has an engaging and informative blog post in the New York Times titled [How Writers Interact With the World](http://opinionator.blogs.nytimes.com/2013/04/22/how-writers-interact-with-the-world/).
 

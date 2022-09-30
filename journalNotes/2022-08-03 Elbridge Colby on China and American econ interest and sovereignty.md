@@ -41,4 +41,4 @@ Elbridge Colby (@ElbridgeColby): Success would be laser-focusing on being able t
 
 Elbridge Colby (@ElbridgeColby): If we could convince Beijing they'd fail now, they'd be unlikely to try. Then our anti-hegemonic coalition in Asia would stand up and survive. Then we'd have a good power balance. Then we'd have a strong basis for our economy to prosper: market share, a strong dollar, etc. 15/
 
-#thread #tweet #poli-sci
+ #poli-sci

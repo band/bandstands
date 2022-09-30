@@ -37,4 +37,3 @@ https://bostonreview.net/articles/gregg-gonsalves-amy-kapczynski-new-deal-public
 
 Two million community health+safety workers in America might sound unrealistically ambitious. But consider that it would be still only half the number employed by the law enforcement industry and less than half the number of nurses we have in the US. It’s a very realistic goal. 13/
 
-#tweet #thread 

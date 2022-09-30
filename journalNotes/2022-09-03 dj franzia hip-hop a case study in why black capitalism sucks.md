@@ -15,4 +15,3 @@ note before i mute this thread: when I said “all the og’s” it was obvious 
 
 <https://twitter.com/hawillisdc/status/1565551397441085440>
 
-#thread #econtwitter  

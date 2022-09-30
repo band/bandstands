@@ -25,6 +25,5 @@ and as someone who likes eating food and doesn't get hung up on the politics of 
 
 anyway the good news is that none of this matters and that while the galleries have only cardboard, art is not dead, it's still beautiful and alive, truly democratised on the internet
 
-#thread  #tweet 
 
 /ht @BillSeitz

@@ -41,4 +41,4 @@ masking, with a well-fitted, high quality mask like an N95. It means using venti
 publicly. Overall, it means telling the fucking truth, and pulling our collective heads out of our asses and working towards a better, brighter, and healthier future for everyone. 
 MY LIFE IS NOT EXPENDABLE SO WEAR A FUCKING MASK. 15/15 <https://twitter.com/_shelse_/status/1545871059672616964/photo/1>
 
-#thread 
+

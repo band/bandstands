@@ -1,4 +1,4 @@
-Posted 2009-12-06:
+# Posted 2009-12-06:
 
 In a [letter to the New Yorker](http://www.newyorker.com/magazine/letters/2009/12/07/091207mama_mail4) on a review of a biography of Ayn Rand, Lisa Turner writes,  
 

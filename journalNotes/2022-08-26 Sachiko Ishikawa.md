@@ -13,4 +13,4 @@ I was taught the language of Shakespeare’s descendants.
 
 They have beautiful words and concepts such as “fuck off into the sun” which alude to the brilliance of the brightest star in our galaxy and bids the addressee to part and journey to the center of the solar system.
 
-#tweet 
+

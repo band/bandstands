@@ -75,7 +75,7 @@ Many people developing advanced AI systems feel they're in a race with one anoth
 
 In AI, like in any field, most of the people who hold power are people who have been very good at winning a bunch of races. It's hard for these people to not want to race and they privately think they should win the race.
 
-Doing interdisciplinary work in AI policy is incredibly difficult. Corporate culture pushes against it, and to bring on actual subject-matter experts you need to invest tons of $$$ in systems to make your infrastructure easier to deal with. It requires huge, sustained effort.
+Doing interdisciplinary work in AI policy is incredibly difficult. Corporate culture pushes against it, and to bring on actual subject-matter experts you need to invest tons of money in systems to make your infrastructure easier to deal with. It requires huge, sustained effort.
 
 Most universities are wildly behind the private labs in terms of infrastructure and scale. Huge chunks of research have, effectively, become private endeavors due to the cost of scale. This is also making universities MORE dependent on corporations (e.g for API access).
 
@@ -163,4 +163,4 @@ If you see a person a bit you can learn to identify them _even with some outfit 
 
 Trivia: the original developer of YOLO ceased developing it after V3 [2018: https://arxiv.org/abs/1804.02767] due to reasons outlined below -  - yolo (now v7) has subsequently been pushed forward by Taiwan/Russia/China. Some things are kind of locked-in... [Amazing paper overall btw!] https://twitter.com/jackclarkSF/status/1556199730312425477/photo/1
 
-#tweet #thread
+

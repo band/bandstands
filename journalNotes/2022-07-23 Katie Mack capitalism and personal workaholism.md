@@ -15,4 +15,3 @@ Anyway no it is not reassuring to me to see my elderly president sitting at a de
 
 Prof. Katharine Hayhoe (@KHayhoe): @AstroKatie 💯 someone here connected the dots for me recently between capitalism and personal workaholism and it was a good wake up call for me personally.
 
-#thread #tweet  
