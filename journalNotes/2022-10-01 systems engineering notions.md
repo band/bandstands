@@ -1,6 +1,6 @@
 # 2022-10-01 systems engineering notions
 
-- Following a lead from [Mathew Lowry] into an [INCOSE Chesapeake Chapter[(https://www.incose-cc.org/blog/) [post on emergence](https://www.incose-cc.org/blog/who-said-the-whole-is-greater-than-the-sum-of-the-parts):
+- Following a lead from [Mathew Lowry] into an [INCOSE Chesapeake Chapter](https://www.incose-cc.org/blog/) [post on emergence](https://www.incose-cc.org/blog/who-said-the-whole-is-greater-than-the-sum-of-the-parts):
 
 > So we have found two quotes by Aristotle that are very close to the phrase, “The whole is greater than the sum of the parts” but not quite. And we now can see that Aristotle was mainly concerned with explaining the multifaceted aspects of definition (object) and terms (parts). But this concept about the whole, and its relationship to its parts, is the beginning of thinking about Systems and that very difficult and mysterious property of Emergence.
 > 
