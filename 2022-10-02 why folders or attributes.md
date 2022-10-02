@@ -1,0 +1,3 @@
+# 2022-10-02 why folders or attributes
+
+[[Bill Kent]] published a short piece titled "Why Attributes" that I want to re-read and maybe understand better. For many years I have held the view that there are two primary properties when talking about data elements, namely, kinship relations or attribute relations. This notion is from a 1967 paper by George Mealy "Another Look at Data" (citation req'd). (Looking at Mealy's theory of data leads to further thinking about relations and attributes.)

@@ -28,7 +28,7 @@ It's the decision of the traditionally white and male establishment
 leaders to invest in white voters versus the Democratic voters of the
 future, which they shy away from, so they can pretend we still live in
 the status quo. We don't live there anymore, and we shouldn't be
-afraid of the future.
+afraid of the future. ^b6cd0e
 
 ### Chapter 2 Bernie Bros Exist and So Does White Privilege
 
