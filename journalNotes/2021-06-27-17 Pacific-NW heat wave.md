@@ -42,4 +42,4 @@ I've no doubt there will be several such attribution studies on the Pac NW/SW Ca
 
 For now, if you're in the affected area, please take care and stay safe as best you can. 7/7
 
-#thread 
+

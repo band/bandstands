@@ -153,4 +153,4 @@ History teaches us that change happens slowly and with great effort because ther
 https://twitter.com/boardingsoon/status/1556449445713252353
 20/
 
-#thread #tweet 
+

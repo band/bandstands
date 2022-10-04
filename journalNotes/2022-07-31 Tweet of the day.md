@@ -4,6 +4,5 @@ The New Yorker - @NewYorker: The main reason that the British Empire was able to
 
 <https://twitter.com/NewYorker/status/1553837899774394368>
 
-#tweet 
 
 [[Khilnani_2022_theBritishEmpireWasMuchWorse]]

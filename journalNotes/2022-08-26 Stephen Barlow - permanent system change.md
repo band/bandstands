@@ -66,4 +66,4 @@ To enable the neoliberal agenda, selfishness and the tendency to lay violent bla
 
 @GeorgeMonbiot @JKSteinberger @novaramedia @AyoCaesar @PeterStefanovi2 @eiecampaign @ExtinctionR
 
-#thread #tweet  
+

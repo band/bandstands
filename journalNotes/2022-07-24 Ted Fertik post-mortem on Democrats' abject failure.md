@@ -49,4 +49,4 @@ in which the corporate-aligned faction sets hard limits on the party's ambitions
 
 Perhaps the biggest gap between Biden and a "Rooseveltian presidency" is that unlike Roosevelt, he couldn't read the political field to be able to see who were really his friends and who were not. /fin
 
-#thread #tweet #poli-sci  
+#poli-sci  

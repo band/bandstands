@@ -13,4 +13,3 @@ When the mechanism design people write their self-congratulatory books & article
 
 The neoliberalization of telecoms policy: under-appreciated cause of the current predicament in which we find ourselves. From media consolidation in the hands of right-wing ideologues, to the abolition of content regulation, to the sale of the public square to the highest bidder.
 
-#thread

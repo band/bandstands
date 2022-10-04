@@ -6,7 +6,7 @@
 
 /threads on imagination, storytelling, politics, and revolution //
 
-/ the main crux for me //
+/ the main crux for me is in this one paragraph //
 
 In truth, however, Emezi’s body of work is exactly that: a body, a coherent organism, bound by common aesthetic and political preoccupations. Especially in the three books published in 2022, a distinctive Emezi vision of a better world can be discerned. Although each is a self-standing text, all reshape our imaginations in service of the same revolution: the liberation of Black peoples from the literal and mental chains of white colonial capitalism. ==It’s a revolution against violent white institutions—police, prisons, the patriarchal family—but, just as importantly, it’s an uprising against white ways of being. The revolution will be ontological or it will be bullshit.==
 

@@ -20,4 +20,4 @@ The reality is that our interwoven policing, carceral, and economic systems in A
 
 Scholars should stop hiding behind evidence as substitute for ethical politics and political struggle. The biggest source of violence today is not ignorance; it’s simply entrenched reactionary, neoliberal ideology. Our world is shaped by ideological warfare, not evidence. /6
 
-#tweet #thread  
+

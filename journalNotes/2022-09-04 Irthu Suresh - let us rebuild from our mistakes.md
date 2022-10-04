@@ -17,6 +17,6 @@ Joe Brewer (@cognitivepolicy): @sellieyoung @IrthuSuresh Totally with you both i
 
 Irthu (@IrthuSuresh): @cognitivepolicy @sellieyoung 💯💯 let us rebuild from our mistakes. No one to blame. A lot to do and achieve through compassion, camaraderie & collaboration
 
-#thread #tweet  
+
 
 (2022-09-05: can we remain positive and avoid being pollyanna-ish?)

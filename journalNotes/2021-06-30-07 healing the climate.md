@@ -16,4 +16,4 @@ For me, it's a few simple things:
 Tim Patterson (@TCPatterson):
 @bethsawin There's no point where it makes sense to give up - every fraction of a degree of heating that we can prevent makes a difference, and is worth working for.
 
-#thread 
+

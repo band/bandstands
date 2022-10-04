@@ -39,4 +39,4 @@ Let me be clear: I’m so grateful for my journey, my job, managers & mentors. I
 
 I’m scared for the industry I love.
 
-#thread #tweet 
+
