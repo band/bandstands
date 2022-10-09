@@ -14,9 +14,9 @@ For now, use the "Search" and "All Pages" buttons at the top to find your way ar
 
 -----
 
-[[rodantheNC-200901191504.jpg]]
+[[rodantheNC-200901191504.jpg]]  
+  Rodanthe, North Carolina, USA  2009-01-19, UTC: 20:04  
   
-
 
 
 
