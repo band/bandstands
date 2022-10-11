@@ -3,6 +3,8 @@ created: 2022-10-10T17:49:43-05:00
 modified: 2022-10-10T17:49:59-05:00
 ---
 
+# 2022-10-10 Jean Russell - hot chocolate-y savoring pragmatism
+
 Jean M Russell (@NurtureGirl): I don't want to trudge with willful determination. Or grudge with vengeful inspiration. I don't want to curmudge with disdainful disillusion.
 I want vibrant, vigorous fudge. Hot chocolate-y savoring pragmatism. Fierce gratitude. Facing grief but not devoured by guilt. Whole.
 
