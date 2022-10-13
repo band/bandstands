@@ -1,4 +1,4 @@
-# 2022-10-01 systems engineering notions
+# 2022-10-01 systems and elements
 
 - Following a lead from [Mathew Lowry] into an [INCOSE Chesapeake Chapter](https://www.incose-cc.org/blog/) [post on emergence](https://www.incose-cc.org/blog/who-said-the-whole-is-greater-than-the-sum-of-the-parts):
 
