@@ -1,0 +1,396 @@
+# 2022 The Dawn of Everything underlined sections and passages
+
+(Bill Anderson's idiosyncratic selected underlinings)
+
+Title: The Dawn of Everything: A new history of humanity
+
+Authors: David Graeber and David Wengrow
+
+Published: 2021
+
+Links:
+- <https://worldcat.org/en/title/1289231491>
+
+### Chapter 1 Farewell to Humanity's Childhood
+  *Or why this is not a book about the origins of inequality*
+
+Page 9:
+
+> Framing human history in this way -- which necessarily means assuming humanity once existed in an idyllic state, and that a specific point can be identified at which everything started to go wrong -- made it almost impossible to ask any of the questions we felt were genuinely interesting.
+
+Page 21:
+
+> One of the most pernicious aspects of standard world-historical narratives is precisely that they dry everything up, reduce people to cardboard stereotypes, simplify the issues (are we inherently selfish and violent, or innately kind and co-operative?) in ways that themselves undermine, possible even destroy, or sense of human possibility.
+
+> One must simplify the world to discover something new about it. The problem comes when, long after the disocovery has been made, people continue to simplify.
+
+Page 22: from a section describing how precious objects moved long
+distances, for example, shells from the Gulf of Mexico transported to
+Ohio, narratives often take those facts to infer that "markets are
+universal" ...
+
+> All such authors are really saying is that they themselves cannot personally imagine any other way that precious objects might move about.
+
+Page 23:
+
+> But we often find such regional networks developing largely for the sake of creating friendly mutual relations, or having an excuse to visit one another from time to time.
+
+### Chapter 2 Wicked Liberty
+  *The indigenous critique and the myth of progress*
+
+Page 47:
+
+> ... at first neither -- not the colonists of New France, or their indigenous interlocutors -- had much to say about 'equality.' Rather, the argument was about liberty and mutual aid, or what might even be better called freedom and communism.
+
+> ... There's a certain minimal, 'baseline' communism which applies to all societies; a feeling that if another person's needs are great enough ..., and the cost of meeting them is modest enough ..., then any decent person would comply. Baseline communism of this sort could even be considered the very grounds of human sociability, since it is only one's bitter enemies who would not be treated this way.
+
+Page 50:
+
+> ... a chapter on the subject of law, where Kandiaronk takes the position that European-style punitive law, like the religious doctrine of eternal damnation, is not necessitated by any inherent corruption of human nature, but rather by a form of social organization that encourages selfish and acquisitive behaviour.
+
+Page 51:
+
+> In conclusion, he swings back to his original observation: the whole apparatus of trying to force people to behave well would be unnecessary if France did not also maintain a contrary apparatus that encourages people to behave badly. That apparatus consisted of money, propery rights and the resultant pursuit of material self-interest.
+
+Pages 60-61:
+
+> (A.R.J.) Turgot ... had been arguing ... for the primacy of technological progress as a driver for overall social improvement. ... he developed this argument into an explicit theory of stages of economic development: social evolution, he reasoned, always begins with hunters, then moves on to a stage of pastoralism, then farming, and only then finally passes to the contemporary stage of urban commercial civilization.
+  
+> In this way, theories of social evolution -- now so familiar that we rarely dwell on their origins -- first came to be articulated in Europe as a direct response to the power of indigeneous critique.
+
+> ... most indigeneous Americans saw individual autonomy and freedom of action as consummate values -- organizing their own lives in such a way as to minimize any possibility of one human being becoming subordinated to the will of another ....
+
+Page 62:
+
+> Turgot's case reveals just how much those particular notions of civilization, evolution and progress -- which we've come to think of as the very core of Enlightenment thought -- are, in fact, relative latecomers to that critical tradtion.
+
+Pages 66-67:
+
+> ... the constant indigeneous exclamations of dismay to be found in those books: that Europeans just don't seem to care about each other; that they are 'neither generous nor kind'.
+  
+> In the  (indigeneous) American view, the freedom of the individual was assumed to be premised on a certain level of 'baseline communism', since, after all, people who are starving or lack adequate clothes or shelter in a snowstorm are not really free to do much of anything, other than whatever it takes to stay alive.
+
+> The European conception of individual freedom was, by contrast, tied ineluctably to notions of private property. ... What's more, there was strong emphasis in ancient Roman (and modern European) law on the self-sufficiency of households; hence, true freedom meant autonomy in the radical sense, not just autonomy of the will, but being in no way dependent on other human beings (except those under one's direct control).
+
+> Rousseau ... insisted, any ongoing human relationship, even one of mutual aid, is itself a restraint on liberty.
+
+Page 73:
+
+> What if the sort of people we like to imagine as simple and innocent are free of rulers, governments, bureaucracies, ruling classes and the like, not because they are lacking in imagination, but because they're actually *more* imaginative than we are?
+
+
+### Chapter 3 Unfreezing the Ice Age
+  *In and out of chains: the protean possibilities of human politics*
+
+Page 81:
+
+> Perhaps the only thing we can say with real certainty is that, in terms of ancestry, we are all Africans.
+
+Page 86:
+
+> ... (Christopher Boehm) argues that while humans do have an instinctual tendency to engage in dominance-submissive behavior, no doubt inherited from our simian ancestors, what makes societies distinctively human is our ability to make the conscious decision *not* to act that way.
+
+> This, he concludes, is the essence of politics: the ability to reflect consciously on different directions one's society could take, and to make explicit arguments why it should take one path rather than another. In this sense, once could say Aristotle was right when he described human beings as 'political animaals' -- since this is precisely what other primates never do, at least not to our knowledge.
+
+Page 111:
+
+> ... it's worth pointing out .... the much deeper sillinessof the initial assumption: that societies must necessarily progress through a series of evolutionary stages to begin with. You can't speak of an evolution from band to tribe to chiefdom to state if your starting points are groups that move fluidly between them as a matter of habit.
+
+Pages 118-119:
+
+> Let us bid farewell to the 'childhood of Man' and acknowledge (as Levi-Strauss insisted) that our early ancestors were not just our cognitive equals, but our intellectual peers too. ... They were, as Helena Valero said of the Yanomami, just people, like us; equally perceptive, equally confused.
+
+### Chapter 4 Free People, the Origin of Cultures, and the Advent of Private Property
+  *(Not necessarily in that order)*
+
+Page 126:
+
+> So, as a first approximation, we can speak of an eglitarian society if (1) most people in a given society feel they really ought to be the same in some specific way, or ways, that are agreed to be particularly important; and (2) that ideal can be said to be largely achieved in practice.
+
+Page 139 (Sahlins is Marshall Sahlins, author of 'The Original Affluent Society'):
+
+> It's not that Sahlins is suggesting that his own phrase 'original affluent society' is incorrect. Rather, he acknowledges that, just as there might have been many ways for free people to be free, there might have been more than just one way for (original) affluent societies to be affluent.
+
+Page 143:
+
+> If anything was being stockpiled at Poverty Point, it may well have been knowledge: the intellectual propperty of rituals, vision quests, songs, dances and images.
+
+Page 159:
+
+> To recognize the close parallels between private property and notions of the sacred is also to recognize what is so historically odd about European social thought. Which is that -- quite unlike free societies -- we take this absolute, sacred quality in private property as a paradigm for *all* human rights and freedoms. This is what the political scientist C.B. Macpherson meant by 'possessive individualism'.
+
+Page 160:
+
+> ... what the anthropologist Robert Lowie termed 'sacra' when he pointed out long ago that many of the most important forms of indigenous property were immaterial or incorporeal: magic formulae, stories, medical knowledge, the right to perform a certain dance, or stitch a certain pattern on one's mantle.
+
+
+### Chapter 5 Many Seasons Ago
+*Why Canadian foragers kept slaves and their Californian neighbors didn't; or, the problem with 'modes of production'*
+
+Pages 174-175:
+
+> 'Societies', wrote (Thomas) Mauss, 'live by borrowing from each other, but they define themselves rather by the refusal of borrowing than by its acceptance.' ...
+> In fact, Mauss concluded, it is precisely in comparing themselves with their neighbours that people come to think of themselves as distinct groups.
+> Framed in this way, the qustion of how 'culture areas' formed is necessarily a political one. ... decisions such as whether or not to adopt agriculture ... also reflected questions about values, about what humans really are (and consider themselves to be), and how they should properly relate to one another.
+
+Page 187:
+
+> ... let's define slavery itself. What makes a slave different from a serf, a peon, captive or inmate is their lalck of social ties. In legal terms, at least, a slave has no family, no kin, no community; they can make no promises and forge no ongoing connections with other human beings.
+
+Page 191:
+
+> Amerindian societies typically referred to themselves by some term that can roughtly translated as 'human beings' .... Almost all these societies took pride in their ability to adopt children or captives -- even from among those whom they considered the most benighted of their neighbours -- and, through care and  education, turn them into what they considered to be proper human beings.
+
+Page 203:
+
+> ... the process by which cultures define themselves against one another is always, at root, political, since it involves self-conscious arguments about the proper way to live.
+
+Pages 205-206:
+
+> ... the intricate webs of cultural difference that came to characterize human societies after the end of the last Ice Age must surely have invovled a degree of political introspection. ... our intention is simply to treat those who created these forms of culture as intelligent adults, capable of reflection on the social worlds they were building or rejecting.
+
+Pages 207-208:
+
+> ... domination begins at home. ... everywhere we encounter it slavery is also, at first, a domestic institution. Hierarchy and property may derive from notions of the sacred, but the most brutal forms of explotitation have their origins in the most intimate of social relations: as perversions of nurtue, love and caring.
+> Finally, all this suggests that, historically speaking, hierachy and equality tend to emerge together, as complements to one another.
+
+
+### Chapter 6 Gardens of Adonis
+ *The revolution that never happened: how Neolithic peoples avoided agriculture*
+
+Page 236:
+
+> Early cultivators, it seems, were doing the minimum abount of subsistence work needed to say in their given locations, which they occupied for reasons other than farming: hunting, foraging, fishing, trading and more.
+
+Page 237:
+
+> By plant-based knowledge we ... mean new ways of working with wild flora to produce foods, spices, medicines, pigments or poisons. We also mean the development of fibre-based crafts and industries, and the more abstract forms of knowledge these tend to generate about properties of time, space and structure.
+> ... Women's association with such knowledge extends back to some of the earliest surviving depictions of the human form: the ubiquitous sculpted female figurines of the last Ice Age ....
+
+Page 239:
+
+> Neolithic ecology ... was not a science of domination and classification, but one of bending and coaxing, nurturing and cajoling, or even tricking the forces of nature, to increase the likelihood of securing a favourable outcome. Their 'laboratory' was the real world of plants and animals, whose innate tendencies they exploited through close observation and experimentation.
+
+Page 248:
+
+> The transition from living mainly on wild resources to a life based on food production took something in the order of 3,000 years. ...
+> Clearly, it no longer makes any sense to use phrases like 'the Agricultural Revolution' when dealing with processes of such inordinate length and complexity. And since there was no Eden-like state ... it makes even less sense to talk about agriculture as marking the origins of social rank, inequality or private property.
+
+
+### Chapter 7 The Ecology of Freedom
+*How farming first hopped, stumbled and bluffed its way around the world*
+
+Page 250:
+
+> Communal tenure, 'open field' principles, periodic redistribution of plots and co-operative management of pasture are not particularly exceptional and were often practised for centuries in the same locations.
+
+Page 258:
+
+> ... the legacy of the Holocene Age ....
+> For many historians, the onset of the Holocene ... created conditions for the origins of agriculture. ... it was also a Golden Age for foragers, and it's important to remember that this forager paradise was the context in which the first farmers set up shop.
+
+Page 260:
+
+> The ecology of freedom describes the proclivity of human societies to move (freely) in and out of farming; to farm without fully becoming farmers; ... and retain a food web sufficiently broad as to prevent cultivation from becoming a matter of life and death.
+
+Page 270:
+
+> ... some early inhabitatnts of Amazonia were well aware of plant domestication but did not select it as the basis of their economy, opting instead for a more flexible kind of agroforestry.
+
+Page 273:
+
+> Neollithic farming was an experiment that could fail -- and, on occasion, did.
+
+Page 274:
+
+> ... imaginative infilling is necessary if we want to avoid missing the action goiing on in much richer environments at the same time, among populations still largely reliant on wild resources.
+
+
+### Chapter 8 Imaginary Cities
+_Eurasia's first urbanites -- in Mesopotamia, the Indus valley, Ukraine and China -- and how they built cities without kings_
+
+Page 276:
+
+> Cities begin in the mind. (Elias Canetti)
+
+Page 280-281:
+
+> It is as though modern forager societies exist simultaneously at two radically different scales: one small and intimate, the other spanning vast territories, even continents. This might seem odd, but from the perspective of cognitive science it makes perfect sense. It's precisely this capacity to shift between scales that most obviously separates human social cognition from that of other primates.
+> 
+> Foragers may sometimes exist in small groups, but they do not -- and probably have not ever -- live in small-scale societies.
+> 
+> ... Canetti had it right. Mass society exists in the mind before it becomes a physical reality. And, crucially, it also exists in the mind *after* it becomes physical reality.
+
+
+Page 319:
+
+> ... it seems very difficult for most of us even to imagine how self-conscious egalitariansism on a large scale would work. ... this ... serves to demonstrate how automatically we have come to accept an evolutionary narrative in which authoiriatarian rule is somehow the natural outcome whenever a large enough group of people are brought together ....
+
+Page 321:
+
+> ... there is no necessary correspondence between overarching concepts of social hierarchy and the practical mechanics of local governance.
+
+
+### Chapter 9 Hiding in Plain Sight
+*The indigenous origins of social housing and democracy in the Americas*
+
+Page 332:
+
+> Teotihuacan, in (Esther) Pasztory's view, created a newe tradtion of art to express the ways in which its society was different that of its contemporaries in Mesoamerica.
+> If the visual arts of Teotihuacan celebrated anything, Pasztory insisted, then in was the community as a whole and its collective values, which -- over a period of some centuries -- successfully prevented the emergence of 'dynastic personality cults'.
+
+> What we propose to do in the chapter, then, is bring to the surface this neglected strand of Mesoamerican history: one of urban republics, large-scale projects of social welfare, and indigenous forms of democracy ....
+
+Page 349 - 350
+
+> Tlaxcalteca cultivated a civic ethos that worked against the emergence of ambitious leaders, and hence potential quislings ....
+
+> ... Enlightenment philosophers, who were more inclined to think their ideals of freedom and equality owed much to the peoples of the New World and were by no means certain if those ideals were at all compatible with industrial advance. We are dealing, again, with powerful modern myths. Such myths don't merely inform what people say: to an even greater extent, they ensure certain things go unnoticed.
+
+Page 355:
+
+> But a strong case can be made that the deliberations recorded in Spanish sources are exactly what they seem to be -- a glimpse into the mechanics of collective indigenous government -- and if the deliberations bear any superficial resemblance to debates recorded in Thucydides or Xenophon, this is because, well, there are really only so many ways to conduct a political debate.
+
+
+### Chapter 10 Why the State Has No Origin
+*The humble beginnings of sovereignty, bureaucracy and politics*
+
+Page 359:
+
+> ... the first to attempt a systematic definition was a German philosopher named Rudolf von Ihering, who, in the late nineteenth century, proposed that a state should be defined as any institution that claims a monopoly on the legitimate use of coercive force within a given territory ....
+
+Page 361:
+
+> ... all these 'classic' theoretical formulations of the last centry started off from exactly this assumption: that any large and complex society necessarily required a state.
+
+Page 362:
+
+> ... fundamental, even primary, forms of freedom: the freedom to move; the freedom to disobey orders; the freedom to reorganize social relations. Can we speak similarly about elementary forms of domination?
+
+Page 365:
+
+> We would like to suggest that these three principles -- call them control of violence, control of information, and individual charisma -- are also the three possible bases of social power.
+
+Page 366:
+
+> What really concerns us about these three principles is that each has become the basis for institutions now seen as foundational to the modern state.
+
+Page 367:
+
+> ... democracy, as we have come to know it is effectively a game of winners and losers played out among larger-than-life individuals, with the rest of us reduced largely to onlookers.
+> Just as access to violence, information and charisma defines the very possibilities of social domination, so the modern state is defined as a combination of sovereignty, bureaurcracy and a competitive political field.
+
+
+### Chapter 11 Full Circle
+*On the historical foundations of the indigenous critique*
+
+Page 441-442:
+
+> What was new in the version of world history put forward by European writers of that century (the 18th Century) was an insistence on classifying societies by mean of subsistence (so that agriculture could be seen as a fundamental break in the history of human affairs); an assumption that as societies grew larger, they inevitably grew more complex; and that 'complexity' means not just a greater differentiation of functions, but also the reorganization of human societies in hierarchical ranks, governed from the top down.
+
+Page 446:
+
+> How inevitable, really, were the type of governments we have today, with their particular fusion of terrritorial sovereignty, intense adminstration and competitive politics? Was that really the culmination of human history?
+
+> One problem with evolutionism is that it takes ways of life that developed in symbiotic relation with each other and reorganizes them into separate stages of human history.
+
+Page 449:
+
+> The reason why these ways of thinking remain in place, no matter how many times people point out their incoherence, is precisely because ==we find it so difficult to imagine history that isn't teleological==.
+
+> A properly historical event has, perhaps, two qualities: it could not have been predicted beforehand, but it only happens once. ... 
+> The best we can do, when confronted with unique historical events or configurations, such as the Persian or Hellenistic empires, is to engage in a project of comparison. ... ==The problem is that ever since the Iberian invasion of the Americas, and subsequent European colonial empires, we can't even really do that, because there's ultimately been just one political-economic system and it is global.==
+
+Page 456:
+
+> ... Elizabeth Tooker ... pointed out back in the 1970's ... it's not exactly clear if North American clans should strictly be considered 'kinship' groups at all. They are more like ritual societies, each dedicated to maintaining a spiritual relation with a different totem animal which is usually only figuratively their 'ancestor'.
+> There wasn't even much in the way of collective property other than certain forms of ritual knowledge, dances or chants, bundles of sacred objects and also a collection of names.
+
+Page 474:
+
+> The arts of administration are really only learned later on and through more traditional means: by practice, apprenticeship or informal mentoring.
+
+Page 480:
+
+> ... a common story among the descendants of groups that had formerly come under the influence of Mississippian civilization. In the process of co-opting their leader, the destructive ritual knowledge once held by the Isolated Earth People was, eventually, distributed to everyone, along with elaborate checks and balances concerning its use. ... even the Osage, who ascribed key roles to sacred knowledge in their political affairs, in no sense saw their social structure as something given from on high but rather as a series of legal and intellectual discoveries -- even breakthroughs.
+
+Page 482:
+
+> As we've said before, there are certain freedoms -- to move, to disobey, to rearrange social ties -- that tend to be taken for granted by anyone who has not been specifically trained into obedience (as anyone reading this book, for instance, is likely to have been). ...
+> The societies that European settlers encountered, and the ideals expressed by Kandiaronk, only really make sense as the product of a specific political history ... in which questions of hereditary power, revealed religion, personal freedom, and the independence of women were still very much matters of self-conscious debate, and in which the overall direction, for the last three centuries at least, had been explicity anti-authoritarian.
+
+> ... a careful review of oral traditions, historical accounts and the ethnographic record shows that those who framed what we call the 'indigenous critique' of European civilization were not only keenly aware of alternative political possibilities, but for the most part saw their own social orders as self-conscious creations, designed as a barrier against ... all those qualities they were later to find so objectionable in the French.
+
+Page 486:
+
+> Dreams were treated as if they were commands, delivered either by one's own soul or possibly, in the case of a particularly vivd or portentous dream, by some greater spirit.
+
+> In other words, the image of the witch was at the centre of a complex of ideas that had everything to do with unconscious desire, including the unconscious desire to dominate, and the need both to realize it and to keep it under control.
+
+
+### Chapter 12 Conclusion
+*The dawn of everything*
+
+Page 495:
+
+> ... few nowadays read the 'traditionalists' of the nineteenth century, but they're actually important since it is they, not the Enlightenment *philosophes*, who are really responsible for modern social theory.
+
+Page 496:
+
+> ... most modern thinkers have clearly found it bizarre to attribute self-concious social projects or historical designs to people of earlier epochs. Generally, such 'non-modern' folk were considered too simple-minded (not having achieved 'social complexity'); or to be living in a kind of mystical dreamworld; or, at best, were thought to be simply adapting themselves to their environment ....
+
+Page 499:
+
+> ... innovation in Neolithic societies was based on a collective body of knowledge accumulated over centuries, largely by women, in an endless series of apparently humble but in fact enormously significant discoveries.
+
+Page 501:
+
+> If we are trying to frame more interesting questions to ask of history, this might be one: is there a positive correlation between what is usually called 'gender equality' (which might better be termed, simply, 'women's freedom') and the degree of innovation in a given society?
+> 
+> ... time and again in human history, that zone of ritual play has also acted as a site of social experimentation -- even, in some ways, as an encyclopedia of social possibilities.
+
+Page 502:
+
+> Nowadays, most of us find it increasingly difficult even to picture what an alternative economic or social order would be like. Our distant ancestors seem, by contrast, to have moved regularly back and forth between them.
+
+Page 503:
+
+> Over the course of these chapters we have ... talked about basic forms of social liberty which might be put into practice: (1) the freedom to move away or relocate from one's surroundings; (2) the freedom to ignore or disobey commands issued by others; and (3) the freedom to shape entirely new social realities, or shift back and forth between different ones.
+
+Page 507:
+
+> The state, as we know it today, results from a distinct combination of elements -- sovereignty, bureaucracy and a competitive political field -- which entirely separate origins. ... Sovereignty, bureaucracy and politics are magnifications of elementary types of domination, grounded respectively in the use of violence, knowledge and charisma. ("axes of social power")
+
+Page 510:
+
+> ... how in Roman jurisprudence the logic of war ... and, therefore, the potential for arbitrary violence was inserted into the most intimate sphere of social relations, including the relations of care that made domestic life possible....
+> Rome took the entanglement (of violence and care) to new extremes, and its legacy still shapes our basic concepts of social structure.
+
+Page 514:
+
+> It seems to us that this connection -- or better, perhaps, confusion -- between care and domination is utterly critical to the larger question of how we lost the ability freely to recreate ourselves by recreating our relations with one another.
+
+Page 515:
+
+> Perhaps the most stubborn misconception we've been tackling has to do with scale. ... Time and again we found ourselves confronted with writing that simply assumes tha the larger and more densely populated the social group, the more 'complex' the system needed to keep it organized. Complexity, in turn, is still often used as a synonym  for hierarchy. Hierarchy, in turn, is used as a euphemism for chains of command (the 'origins of the state'), which means that as soon as large numbers of people decided to live in one place or join a common project, the must necessarily abandon the second freedom -- to refuse orders -- and replace it with legal mechanisms for say, beating or locking up those who don't do as they're told.
+> As we've seen, none of these assumptions are theoretically essential, and history tends not to bear them out.
+
+Page 518:
+
+> In structural terms, and as against almost everyone else in society, kings and slaves effectively inhabit the same ground. The difference lies in which end of the power spectrum they happen to occupy.
+
+Page 519:
+
+> If there is a particular story we should be telling, a big question we should be asking of human history (instead of the 'origins of social inequality'), it is precisely this: how did we find ourselves stuck in just one form of social reality, and how did relations based ultimately on violence and domination come to be normalized within it?
+
+Page 524:
+
+> We began this book with a quote which refers to the Greek notion of *kairos* as one of those occasional moments in a society's history when its frames of reference undergo a shift -- a metamorphosis of the fundamental principles and symbols, when the lines between myth and history, science and magic become blurred -- and, therefore, real change is possible. ... *kairos* is the kind of time in which Events are prone to happen.
+
+Page 525:
+
+> In developing the scientific means to kow our own past, we have exposed the mythical substructure of our 'social science' ....
+> What is the purpose of all this new knowledge, if not to reshape our conceptions of who we are and what we might yet become? If not, in other words, to rediscover the meaning of our third basic freedom: the freedom to create new and different forms of social reality?
+
+
+
