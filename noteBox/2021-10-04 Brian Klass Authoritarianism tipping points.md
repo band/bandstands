@@ -4,7 +4,8 @@ modified: 2021-10-04T21:14:19-05:00
 ---
 # 2021-10-04 Brian Klass Authoritarianism tipping points
 
-Brian Klaas (@brianklaas):
+Brian Klaas (@brianklaas):  
+
 1. A lot of my academic research has involved travelling to places where political violence has led to the breakdown of democracy and the rise of authoritarianism. And a dynamic I’m not sure is fully appreciated in the US is how small numbers of people can create tipping points.
 
 2. I’ve interviewed coup plotters who organized a few dozen soldiers to take over a government. Some militias that grow into rebel movements start as tiny amateur outfits. But with the right timing, or the right turn of events, democracy can still die at the hands of small groups
