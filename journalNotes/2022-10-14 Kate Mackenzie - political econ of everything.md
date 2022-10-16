@@ -3,6 +3,8 @@ created: 2022-10-14T21:57:32-05:00
 modified: 2022-10-14T21:57:38-05:00
 ---
 
+# 2022-10-14 Kate Mackenzie - political econ of everything
+
 Kate Mackenzie (@kmac): 1/ Interested in the political economy of climate+everything? Me, @70sBachchan & @phenomenalworld launched the Polycrisis project last Thursday with an awesome panel. Listen to @triofrancos @IrvingSwisher @TheStalwart discuss the Geopolitics of Stuff here: https://www.youtube.com/watch?v=6J5yBzsmdow
 
 [You can READ a lightly edited transcript here: https://www.phenomenalworld.org/interviews/geopolitics-of-stuff/ ]

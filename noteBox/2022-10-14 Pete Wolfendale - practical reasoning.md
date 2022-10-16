@@ -3,6 +3,8 @@ created: 2022-10-14T19:22:46-05:00
 modified: 2022-10-14T19:22:52-05:00
 ---
 
+# 2022-10-14 Pete Wolfendale - practical reasoning
+
 pete wolfendale (@deontologistics): So, I'm reading MacAskill's 'What We Owe The Future', and though I'll have some more things to say about it at a later date, I have to stop and address what I take to be a truly, characteristically bad argument he makes therein (p. 176-177 for anyone interested).
 
 At this point M is trying to argue against what he calls 'the intuition of neutrality' in population ethics, which is essentially that it is neither better nor worse to bring new people into existence. He has more to say about this intuition, but I'll stick to this one argument.
