@@ -1,13 +1,10 @@
-# 2022 The Dawn of Everything underlined sections and passages
+# 2022 The Dawn of Everything highlighted sections and passages
 
-(Bill Anderson's idiosyncratic selected underlinings)
+(Bill Anderson's idiosyncratic selected underlinings and highlights)  
 
-Title: The Dawn of Everything: A new history of humanity
-
-Authors: David Graeber and David Wengrow
-
-Published: 2021
-
+Title: The Dawn of Everything: A new history of humanity  
+Authors: David Graeber and David Wengrow  
+Published: 2021  
 Links:
 - <https://worldcat.org/en/title/1289231491>
 
@@ -22,12 +19,9 @@ Page 21:
 
 > One of the most pernicious aspects of standard world-historical narratives is precisely that they dry everything up, reduce people to cardboard stereotypes, simplify the issues (are we inherently selfish and violent, or innately kind and co-operative?) in ways that themselves undermine, possible even destroy, or sense of human possibility.
 
-> One must simplify the world to discover something new about it. The problem comes when, long after the disocovery has been made, people continue to simplify.
+> One must simplify the world to discover something new about it. The problem comes when, long after the discovery has been made, people continue to simplify.
 
-Page 22: from a section describing how precious objects moved long
-distances, for example, shells from the Gulf of Mexico transported to
-Ohio, narratives often take those facts to infer that "markets are
-universal" ...
+Page 22: from a section describing how precious objects moved long distances, for example, shells from the Gulf of Mexico transported to Ohio, narratives often take those facts to infer that "markets are universal" ...
 
 > All such authors are really saying is that they themselves cannot personally imagine any other way that precious objects might move about.
 
@@ -393,4 +387,65 @@ Page 525:
 > What is the purpose of all this new knowledge, if not to reshape our conceptions of who we are and what we might yet become? If not, in other words, to rediscover the meaning of our third basic freedom: the freedom to create new and different forms of social reality?
 
 
+## Notes from *Notes*
 
+Chapter 3, note 54, page 545:
+
+54. This is hardly the place to go into detail about the history of these debates, but it's interesting to observe that they emerge directly from Mauss's research on seasonality, which he carried out in coordination with his uncle, Émile Durkheim, who is considered the founder of French sociology in the same sense that Mauss is of French anthropology. In 1912, in *The Elementary Forms of Religious Life*, Durkheim relied upon Mauss's research on indigenous Australian societies to contrast what they described as the ordinary economic existence of Australian bands - concerned mostly with getting food - with the 'effervescence' of their seasonal gatherings, called *corroboree*. It was in the excitement of *corroboree*, he argued, that the power to create society appeared to them, as if it were an alien force projected into totemic spirits and their emblems. This was the first formulation of the basic problematic that almost all theorists have been forced to grapple with ever since: that rituals are simultaneously moments where social structure is manifested and moments of "anti-structure' in which new social forms can pop up. British social anthropology, which took its initial theoretical inspiration primarily from Durkheim, worked through the problem in various ways (notably the work of Edmund Leach, Victor Turner or Mary Douglas). The most sophisticated, and to our minds compelling, proposals for how to resolve the dilemma are currently Maurice Bloch's (2008) notion of the 'transcendental' versus 'transactional' realms;and Seligman et al.'s (2008) argument that ritual creates a 'subjunctive' or 'as if' domain of order, consciously set apart from a reality that is always seen in a contrasting light, as fragmented and chaotic. Ritual creates a world which is marked off as standing apart from ordinary life, but is also where essentially imaginary, ongoing institutions (like clans, empires, etc.) exist and are maintained.
+
+Chapter 6, note 50, pages 563-564:
+
+50. We find ourselves reminded of Silvia Federici's *Caliban and the Witch* (1998), where she showed how, in Europe, such 'magical' approaches to production came to be associated not just with women but with witchcraft. Federici argues that the elimination of such attitudes was essential for the establishment of modern (male-dominated) science, and also for the growth of capitalist wage labour: 'This is how we must read the attack against witchcraft and against that magical view of the world which, despite the best efforts of the Church, had continued to prevail on a popular level through the Middle Ages ... In this perspective ...  every element - herbs, plants, metals, and most of all the human body had virtues and powers peculiar to it ... From palmistry to divination, from the use of charms to sympathetic healing, magic opened a vast number of possibilities ... Eradicating these practices was a necessary condition for the capitalist rationalisation of work, since magic appeared as an illicit form of power and an instrument *to obtain what one wanted without work* . . . "Magic kills industry," lamented Francis Bacon, admitting that nothing repelled him so much as the assumption that one could obtain results with a few idle experiments, rather than with the sweat of one's brow.' (Federici 1998: 142)
+
+Chapter 7, note 9, page 567:
+
+9. For a review of how such processes played out in various parts of the world see Fuller and Lucas 2017. None of this is to deny the fact that crops 'got around' various parts of the Old World, and often on a surprising scale, as with the westward transfer of Chinese millets to the Indus, mirrored by the eastward dissemination of western/central Asian bread wheat to China around 2000 BC. But efforts (notably by Jones et al. 2011) to characterize such early crop transfers as precursors to the 'Columbian exchange' of the sixteenth century AD (see below) are misplaced, since they ignore a number of important contrasts. These are spelled out by Boivin, Fuller and Crowther (2012), who note that early crop transfers in Eurasia took place within a 'long-term, slow-growing network of connections and exchanges' over many millennia, often initially in small and experimental quantities, and driven not by centres of urban expansion but by highly mobile and often small-scale intermediary groups such as the mounted pastoralists of the Eurasian steppe or the maritime nomads of the Indian Ocean. It was precisely this slow millennial history of cultural exchange and gene-flow between Eurasian species that prevented the kind of major ecological ruptures which occurred once those same species were unleashed upon the Americas and Oceania.
+
+Chapter 7, note 17, page 568:
+
+17. Bookchin 1982. In adopting the title of Bookchin’s landmark volume on social ecology, we cannot follow his own ideas about human prehistory or the origins of agriculture, which are based on information that is now many decades out of date. We do, however, find much to learn much from his basic insight: that human engagements with the biosphere are always strongly conditioned by the types of social relationships and social systems that people form among themselves. The mutual differentiation of forager ecologies on the American West Coast, discussed in Chapter Five, would be another excellent example of the same principle.
+
+Chapter 8, note 29, page 572:
+
+29. The people of the mega-sites had a tradition of deliberately burning their houses, which complicates matters for modern analysts, trying to ascertain how much of each site was in use simultaneously. It’s not known why this burning was done (for ritual purposes, or hygiene, or both?). Did it take place routinely within settlements, so part of the mega-site was living and growing, with the other part lingering on as a sort of ‘house-cemetery’? Ordinarily, careful modelling of high-precision radiocarbon dates would allow archaeologists to resolve such issues. Frustratingly, in this case, an anomaly in the calibration curve for the fourth millennium BC is preventing them from doing so.
+
+Chapter 8, note 38, page 573:
+
+38. The people of the mega-sites had a tradition of deliberately burning their houses, which complicates matters for modern analysts, trying to ascertain how much of each site was in use simultaneously. It’s not known why this burning was done (for ritual purposes, or hygiene, or both?). Did it take place routinely within settlements, so part of the mega-site was living and growing, with the other part lingering on as a sort of ‘house-cemetery’? Ordinarily, careful modelling of high-precision radiocarbon dates would allow archaeologists to resolve such issues. Frustratingly, in this case, an anomaly in the calibration curve for the fourth millennium BC is preventing them from doing so.
+
+Chapter 10, note 52, page 591:
+
+52. These are precisely the sort of highly complex images studied by the anthropologist Carlo Severi (2015) in his classic analysis of the 'chimera principle'.
+
+Chapter 10, note 102, page 596:
+
+102. The people of the mega-sites had a tradition of deliberately burning their houses, which complicates matters for modern analysts, trying to ascertain how much of each site was in use simultaneously. It’s not known why this burning was done (for ritual purposes, or hygiene, or both?). Did it take place routinely within settlements, so part of the mega-site was living and growing, with the other part lingering on as a sort of ‘house-cemetery’? Ordinarily, careful modelling of high-precision radiocarbon dates would allow archaeologists to resolve such issues. Frustratingly, in this case, an anomaly in the calibration curve for the fourth millennium BC is preventing them from doing so.
+
+Chapter 11, note 74, page 608:
+
+74. Fremin in Wallace (1958: 235): ‘The Iroquois have, properly speaking, only a single Divinity – the dream. To it they render their submission, and follow all its orders with the utmost exactness. The Tsonnontouens [Seneca] are more attached to this superstition than any of the others; their Religion in this respect becomes even a matter of scruple; whatever it be that they think they have done in their dreams, they believe themselves absolutely obliged to execute at the earliest moment. The other nations content themselves with observing those of their dreams which are the most important; but this people, which has the reputation of living more religiously than its neighbors, would think itself guilty of a great crime if it failed in its observance of a single dream. The people think only of that, they talk about nothing else, and all their cabins are filled with their dreams … Some have been known to go as far as Quebec, traveling a hundred and fifty leagues, for the sake of getting a dog, that they had dreamed of buying there…’. Wallace argues that this is a direct psychological consequence of the stoicism and importance of personal freedom and autonomy in Iroquoian societies. See also Blau 1963; Graeber 2001: 136–9.
+
+Chapter 12, note 3, page 609:
+
+3. On reflection, many of what we consider to be quintessential freedoms – such as ‘freedom of speech’ or ‘the pursuit of happiness’ – are not really social freedoms at all. You can be free to say whatever you like, but if nobody cares or listens, it hardly matters. Equally, you can be as happy as you like, but if that happiness comes at the price of another’s misery, it hardly amounts to much either. Arguably, the things often quoted as quintessential freedoms are based on the very illusion created by Rousseau in his second Discourse: the illusion of a human life that is solitary.
+
+Chapter 12, note 12, pages 609-610:
+
+12. For a period of perhaps five centuries or more, human remains across the whole of Eastern North America display remarkably little evidence of traumatic injuries, scalping or other forms of interpersonal violence (Milner et al. 2013). Evidence for interpersonal violence and warfare exists in both earlier and later periods, the most famous later examples being a mass grave excavated at Crow Creek and an Oneota village cemetery with extensive evidence of trauma, both dating to around 700 years ago. Such evidence accounts for perhaps a few decades or more of social history – a century at most – and is fairly localized. There is absolutely no reason to believe that the entire region somehow existed in a Hobbesian state for millennia, as contemporary theorists of violence blandly assume.
+
+Chapter 12, note 15, page 610:
+
+15. In a (1995) article that has undoubtedly been influential, but still not nearly as influential as it deserves, Crumley pointed out the need for alternatives to hierarchical models of social complexity in archaeological interpretation. As she noted, the archaeological record is full of evidence for the development of social and ecological systems that were complex and highly structured, just not according to hierarchical principles. ‘Heterarchy’ – the umbrella term she introduced for those other types of systems – was borrowed from cognitive science. Many of the societies we’ve focused on in this book – from Upper Palaeolithic mammoth hunters to the shifting coalitions and confederacies of sixteenth-century Iroquoia – could be described in these terms (had we chosen to adopt the language of systems theory), on the basis that power was dispersed or distributed in flexible ways across different elements of society, or at different scales of integration, or indeed across different times of year within the same society.
+
+----------
+#### Pages 46 - 48 (marked as worth re-reading and reflecting on):
+
+Let’s gather together the strands of our argument so far. 
+
+By the mid seventeenth century, legal and political thinkers in Europe were beginning to toy with the idea of an egalitarian State of Nature; at least in the minimal sense of a default state that might be shared by societies which they saw as lacking government, writing, religion, private property or other significant means of distinguishing themselves from one another. Terms like ‘equality’ and ‘inequality’ were just beginning to come into common usage in intellectual circles – around the time, indeed, that the first French missionaries set out to evangelize the inhabitants of what are now Nova Scotia and Quebec.(27) Europe’s reading public was growing increasingly curious about what such primordial societies might have been like. But they had no particular disposition to imagine men and women living in a State of Nature as especially ‘noble’, let alone as rational sceptics and champions of individual liberty.(28) This latter perspective was the product of a dialogic encounter.
+
+As we’ve seen, at first neither side – not the colonists of New France, nor their indigenous interlocutors – had much to say about ‘equality’. Rather, the argument was about liberty and mutual aid, or what might even be better called freedom and communism. We should be clear about what we mean by the latter term. Since the early nineteenth century, there have been lively debates about whether there was ever a thing that might legitimately be referred to as ‘primitive communism’. At the centre of these debates, almost invariably, were the indigenous societies of the Northeast Woodlands – ever since Friedrich Engels used the Iroquois as a prime example of primitive communism in his The Origin of the Family, Private Property and the State (1884). Here, ‘communism’ always refers to communal ownership, particularly of productive resources. As we’ve already observed, many American societies could be considered somewhat ambiguous in this sense: women owned and worked the fields individually, even though they stored and disposed of the products collectively; men owned their own tools and weapons individually, even if they typically shared out the game and spoils.
+
+However, there’s another way to use the word ‘communism’: not as a property regime but in the original sense of ‘from each according to their abilities, to each according to their needs’. There’s also a certain minimal, ‘baseline’ communism which applies in all societies; a feeling that if another person’s needs are great enough (say, they are drowning), and the cost of meeting them is modest enough (say, they are asking for you to throw them a rope), then of course any decent person would comply. Baseline communism of this sort could even be considered the very grounds of human sociability, since it is only one’s bitter enemies who would not be treated this way. What varies is just how far it is felt such baseline communism should properly extend. In many societies – and American societies of that time appear to have been among them – it would have been quite inconceivable to refuse a request for food. For seventeenth-century Frenchmen in North America, this was clearly not the case: their range of baseline communism appears to have been quite restricted, and did not extend to food and shelter – something which scandalized Americans. But just as we earlier witnessed a confrontation between two very different concepts of equality, here we are ultimately witnessing a clash between very different concepts of individualism. Europeans were constantly squabbling for advantage; societies of the Northeast Woodlands, by contrast, guaranteed one another the means to an autonomous life – or at least ensured no man or woman was subordinated to any other. Insofar as we can speak of communism, it existed not in opposition to but in support of individual freedom.
+
+The same could be said of indigenous political systems that Europeans encountered across much of the Great Lakes region. Everything operated to ensure that no one’s will would be subjugated to that of anyone else. It was only over time, as Americans learned more about Europe, and Europeans began to consider what it would mean to translate American ideals of individual liberty into their own societies, that the term ‘equality’ began to gain ground as a feature of the discourse between them.
