@@ -18,17 +18,17 @@
         <a class="button is-primary" href="/">
           <strong>Home</strong>
         </a>
-        <a class="button is-light" href="/all-pages.html">
-          All Pages
-        </a>
 	{% if lunr_posts_sitepath != '' %}
-        <a class="button is-light" onclick="location.href=lunr_posts[Math.floor(Math.random() * lunr_posts.length)].link">
-          Random Page
-        </a>
         <a class="button is-light" href="/search.html">
           Search
         </a>
+        <a class="button is-light" onclick="location.href=lunr_posts[Math.floor(Math.random() * lunr_posts.length)].link">
+          Random Page
+        </a>
         {% endif %}
+        <a class="button is-light" href="/all-pages.html">
+          All Pages
+        </a>
 
       </div>
     </div>
