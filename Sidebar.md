@@ -13,5 +13,6 @@
 #### General Navigation
 
 [Recent Pages](/recent-pages.html)  
+
 [All Pages](/all-pages.html)  
-_maybe someday, Random Article!_
+
