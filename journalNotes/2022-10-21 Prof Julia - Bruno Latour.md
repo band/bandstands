@@ -3,6 +3,8 @@ created: 2022-10-21T16:29:56-05:00
 modified: 2022-10-21T16:30:05-05:00
 ---
 
+# 2022-10-21 Prof Julia - Bruno Latour
+
 Prof Julia 🌍🌹🌱 she/her #StandWithUkraine 🇺🇦 (@JKSteinberger): I have a confession to make. I never was interested in learning what Bruno Latour had to say, in social science or specifically on ecology, because I was prejudiced against him because of the "Sokal Hoax". For those of you too young to remember 👇👇👇
 https://en.wikipedia.org/wiki/Sokal_affair
 
