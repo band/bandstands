@@ -8,8 +8,6 @@ modified: 2022-06-22T22:02:28-05:00
 Andrew Akbashev (@Andrew_Akbashev): PhD students don’t want to be postdocs. Faculties are leaving academia...    Intriguing discussions are published by both Nature and Science.
 Key points are:
 
-#science #research #engineering #academia #PhD #AcademicTwitter
-
 1. U.S.-based researchers reported challenges recruiting in all #STEM fields: “This year … we received absolutely zero response from our posting,” one wrote. “The number of applications is 10 times less than 2018-2019,” another wrote.
 
 2. Faculty: “It took 2 months to receive a single application [for a postdoc position]. Money is just sitting there that isn’t being used … and there’s these projects that aren’t moving anywhere as a result”.

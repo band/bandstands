@@ -3,9 +3,9 @@
 #### Selected Content
 
 [[Journal-like notes]]  
-[[Notes from and on readings]]  
+[[_Index_of_readingNotes|Notes on what I am reading]]  
 [[the Drawing Board]]  
-[[Tumblr repostings]]  
+[[_Index_of_TumblrPosts|Tumblr repostings]]  
 
 [[Einstein & Infeld on Physical Concepts]]  
 [[Jiddu Krishnamurti on Truth]]
