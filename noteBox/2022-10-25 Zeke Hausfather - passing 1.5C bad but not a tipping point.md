@@ -3,6 +3,8 @@ created: 2022-10-25T21:12:58-05:00
 modified: 2022-10-25T21:13:08-05:00
 ---
 
+# 2022-10-25 Zeke Hausfather - passing 1.5C bad but not a tipping point
+
 Zeke Hausfather (@hausfath): To elaborate, the world will likely pass 1.5C in the 2030s. This will be bad: impacts we see from climate change today will be notably worse.
 
 But its not a climatic tipping point that makes additional warming inevitable, and we do the public a disservice when we frame it as such https://twitter.com/hausfath/status/1584940190946054144
