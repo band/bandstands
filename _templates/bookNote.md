@@ -1,8 +1,3 @@
----
-type: #book-note
-date: {{date}}
-time: {{time}}
----
 
 # {{title}}
 
