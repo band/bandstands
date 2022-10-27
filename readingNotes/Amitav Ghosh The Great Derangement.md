@@ -1,14 +1,11 @@
 # The Great Derangement
 
-Title: The Great Derangement: Climate change and the unthinkable
 
-Author: Amitav Ghosh
-
-Published: 2016
-
-Link:
-
-[The Great Derangement: Climate change and the unthinkable](http://www.worldcat.org/oclc/1081118824)
+**Author:**  Amitav Ghosh  
+**Title:**  The Great Derangement: Climate change and the unthinkable
+**Publisher:**  University of Chicago Press  
+**Year:** 2016
+**Link:**  [The Great Derangement: Climate change and the unthinkable](http://www.worldcat.org/oclc/1081118824)
 
 
 We need to un-learn many things to make progress on climate change, but my imagination can be limited by what I know. As Amitav Ghosh writes in The Great Derangement (p.20),  "... one of modernity's most effective weapons: the insistence that it has rendered other forms of knowledge obsolete."

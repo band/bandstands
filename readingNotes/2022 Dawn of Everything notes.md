@@ -2,11 +2,11 @@
 
 (Bill Anderson's idiosyncratic selected underlinings and highlights)  
 
-Title: The Dawn of Everything: A new history of humanity  
-Authors: David Graeber and David Wengrow  
-Published: 2021  
-Links:
-- <https://worldcat.org/en/title/1289231491>
+**Authors**: David Graeber and David Wengrow  
+**Title:** The Dawn of Everything: A new history of humanity  
+**Publisher:**  Farrar, Straus and Giroux  
+**Year:** 2021  
+**Link:**   <https://worldcat.org/en/title/1289231491>  
 
 ### Chapter 1 Farewell to Humanity's Childhood
   *Or why this is not a book about the origins of inequality*
