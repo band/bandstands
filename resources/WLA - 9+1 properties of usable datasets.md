@@ -2,4 +2,4 @@
 
 From 2017 a two-slide deck on metrics for scientific dataset usability.
 
-![[Anderson_2017_usableDataProperties.pdf]]
+[[Anderson_2017_usableDataProperties.pdf]]
