@@ -1,12 +1,11 @@
 # Ruth Ben-Ghiat Strongmen - Mussolini to the Present
 
-Title: Strongmen - Mussolini to the Present
 
-Author: Ruth Ben-Ghiat 
-
-Publisher: W. W. Norton & Company, 2020, ISBN: 9781324001546
-
-Link: <https://worldcat.org/en/title/1233267123>
+**Author:**  Ben-Ghiat, Ruth  
+**Title:**  Strongmen - Mussolini to the Present  
+**Publisher:**  W. W. Norton & Company  
+**Year:**  2020  
+**Link:**  <https://worldcat.org/en/title/1233267123>  
 
 Page 21: (excerpts that reflect 2022 sentiment in the USA)
 
