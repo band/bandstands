@@ -3,6 +3,8 @@ created: 2022-10-27T10:08:00-05:00
 modified: 2022-10-27T10:08:09-05:00
 ---
 
+# 2022-10-27 David Wallace-Wells climate change warming world
+
 David Wallace-Wells (@dwallacewells): Just ahead of COP27, the climate future looks both better and worse than it a few years ago. Belated action has made worst-case scenarios much less likely, but delay has made best-case outcomes impossible, too. So where are we headed? A long thread (1/x) https://www.nytimes.com/interactive/2022/10/26/magazine/climate-change-warming-world.html
 
 David Wallace-Wells (@dwallacewells): "Just a few years ago, climate projections for this century looked quite apocalyptic, with most scientists warning that continuing 'business as usual' would bring the world four or even five degrees Celsius of warming..."
