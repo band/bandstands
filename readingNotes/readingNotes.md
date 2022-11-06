@@ -25,7 +25,6 @@
  - [[Graeber and Grubacic anarchist critique of liberal state]]  
  - [[Einstein & Infeld on Physical Concepts]]  
  - [[Steve Lewis - art on the other side]]  
- - [[_Index_of_readingNotes]]  
  - [[Paul Mason 2021 The Future is Over]]  
  - [[Jiddu Krishnamurti on Truth]]  
  - [[Against Algebra]]  
