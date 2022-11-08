@@ -4,7 +4,7 @@
 
 [[journalNotes|Journal-like notes]]  
 [[readingNotes|Reading notes]]  
-[[the Drawing Board]]  
+[[drawingBoard|the Drawing Board]]  
 [[TumblrPosts|Tumblr repostings]]  
 
 [[Einstein & Infeld on Physical Concepts]]  
