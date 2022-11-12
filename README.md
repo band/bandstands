@@ -1,6 +1,6 @@
 # bandstands
 
-A [Massive Wiki](https://massive.wiki/) housing Bill Anderson's (a.k.a. "band") past and current web and wiki experiments, assorted notes on readings, day-oriented journal and blog entries, and whatever else shows up. The wiki name is shared with a now dormant Tumblr blog, some of whose entries are posted and maintained here.
+A [Massive Wiki](https://massive.wiki/) housing [[Bill Anderson]]'s (a.k.a. "band") past and current web and wiki experiments, assorted notes on readings, day-oriented journal and blog entries, and whatever else shows up. The wiki name is shared with a now dormant Tumblr blog, some of whose entries are posted and maintained here.
 
 Use the "Recent Pages" sidebar link, and the "Search", "Random Page", and "All Pages" buttons at the top to find your way around.
 
