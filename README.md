@@ -12,7 +12,6 @@ Use the "Recent Pages" sidebar link, and the "Search", "Random Page", and "All P
 
 ![Image file not available](https://scripps.ucsd.edu/bluemoon/co2_400/daily_value.png)  
 
-Keeling_Curve - @Keeling_curve: Communication down since 02-Dec-2022 https://keelingcurve.ucsd.edu/ Mauna Loa Observatory without power due to volcanic activity.
 -----
 
 [[rodantheNC-200901191504.jpg]]  
