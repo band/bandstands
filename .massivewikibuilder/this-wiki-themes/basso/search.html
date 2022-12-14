@@ -75,6 +75,7 @@
       document.addEventListener('DOMContentLoaded', () => {
 	// search on Enter
 	var input_id = document.getElementById('inputID')
+	input_id.focus()
 	input_id.addEventListener('keypress', function(event) {
 	  if (event.key === "Enter") {
 	    event.preventDefault();
