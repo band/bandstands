@@ -1,18 +1,18 @@
 # 2022-12-24 Bob Wachter covid practical actions
 
-Bob Wachter (@Bob_Wachter): Covid (@UCSF) Chronicles, Day 1006 (!)
+Bob Wachter (@Bob_Wachter): Covid (@UCSF) Chronicles, Day 1006 (!)  
 There’s an awful lot of Covid confusion & misinformation out there, particularly around these three topics: masks, vaccines, and home tests. Let’s look at them in today’s thread. (1/24)
 
 To start, these statements are correct:  
-• Wearing the wrong mask, or wearing a mask incorrectly, doesn’t work
-• Vaccination/boosters don’t work as well as they used to in preventing infection
-• Home tests yield more false negative results than they used to. 
+• Wearing the wrong mask, or wearing a mask incorrectly, doesn’t work  
+• Vaccination/boosters don’t work as well as they used to in preventing infection   
+• Home tests yield more false negative results than they used to.   
 (2/24)
 
 But these statements are unambiguously wrong:  
-• Masks don’t work
-• Vaccines/boosts don’t work
-• Home tests don’t work
+• Masks don’t work  
+• Vaccines/boosts don’t work  
+• Home tests don’t work  
 
 This is confusing enough that it’s an easy mark for those who want to spread misinformation. Here’s how I interpret the science to inform my decisions: (3/24)
 
@@ -50,10 +50,10 @@ Rather, it’s at the onset of symptoms where home tests’ lower sensitivity mi
 Does this render the home test useless? Absolutely not. In fact, if I I wake up tomorrow with new symptoms consistent with Covid, I’ll do a home test. (By the way, the govt. has made more free ones available: https://www.covid.gov/tests)  
 What will I do with the results? (18/24)
 
-• If +, I have Covid. I’ll isolate & start Paxlovid 
-• If -, I could still have Covid – I’ll mask up & plan to retest tomorrow 
-• If repeat test is -, I’ll assume I don’t have Covid (& probably test for flu) 
-• If repeat is +, I have Covid & will isolate & start Pax (19/24)
+• If +, I have Covid. I’ll isolate & start Paxlovid   
+• If -, I could still have Covid – I’ll mask up & plan to retest tomorrow   
+• If repeat test is -, I’ll assume I don’t have Covid (& probably test for flu)   
+• If repeat is +, I have Covid & will isolate & start Pax (19/24)  
 
 Since a single home test can be negative yet you still can be infectious, this also influences how you should interpret group testing before an event. In a region in which case rates are moderately high but not off the charts (such as in SF now, with 24 cases/100K/day),… (20/24)
 
@@ -64,5 +64,6 @@ If case rates were higher (ie, >30/100K/d), testing wouldn’t reassure me enoug
 I appreciate how confusing this all is, and it’s easy to see how the nuance can be lost – sometimes by well-meaning people who simply don’t understand the science, and sometimes by people who – for reasons I don’t profess to understand – want to… (23/24) https://twitter.com/EricTopol/status/1604552103959048192
 
  ... encourage their fellow human beings to put their health at risk. 
-I hope this is helpful to you as you try to enjoy yourself and stay safe during this holiday season. (24/end)
+I hope this is helpful to you as you try to enjoy yourself and stay safe during this holiday season. (24/end)  
+
 
