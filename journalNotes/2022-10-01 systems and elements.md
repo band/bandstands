@@ -12,3 +12,6 @@
 
 What I like about this expression is that the whole (system) is not just a collection of independent elements, but is also comprised of the many-faceted relations amongst the elements and the relations. So, yeah, that seems like a thing that can be observed and experienced.
 
+2023-01-12 update: Observations and experiences of such a system arise from my participation in a work group or a community of practice, and these can be recounted in stories and artifacts that are created and maintained by members of such a collective.
+
+#systemsThinking
