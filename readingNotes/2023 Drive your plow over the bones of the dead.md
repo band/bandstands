@@ -13,7 +13,7 @@ Pages 29 -30:
 
 Page 47:
 
-> As I gazed at the back-and-white landscape of the Plateau I realized that sorrow is an important word for defining the world. It lies at the foundations of everything, it is the fifth element, the quintessence.
+> As I gazed at the black-and-white landscape of the Plateau I realized that sorrow is an important word for defining the world. It lies at the foundations of everything, it is the fifth element, the quintessence.
 
 Page 113:
 

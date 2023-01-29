@@ -22,7 +22,7 @@ urls:
 ## What about me?
 A retired data informatician (what does that mean?), sociotechnical (what? another big word?) computer systems engineer, and chemist. Also an open access advocate and inveterate punster.
 
-When asked recently about what I value and my interests I responded with "Kindness, curiosity, honesty, and humor. I am interested in learning about, examining, and promoting abundance-based models and ideas of sustainable human societies."
+When asked recently about what I value and my interests I said, with "Kindness, curiosity, honesty, and humor. I am interested in learning about, examining, and promoting abundance-based models and ideas of sustainable human societies."
 
 I am also reviewing my childhood first-order learnings about how the world works.
 
@@ -46,4 +46,4 @@ Matrix: @anderbill:matrix.org
 
 Discord: anderbill#9242
 
-Twitter: [@band](https://twitter.com/band)
+Twitter: [@band](https://twitter.com/band)  DEPRECATED
