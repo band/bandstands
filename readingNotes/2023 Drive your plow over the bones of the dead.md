@@ -1,10 +1,10 @@
 # 2023 Drive your plow over the bones of the dead
 
-**Author:**  Tokarczuk, Olga 
-*Translated by Antonia Lloyd-Jones*
-**Title:**  Drive your plow over the bones of the dead  
-**Publisher:**  Riverhead Books  
-**Year:**  2009  
+**Author:**  Tokarczuk, Olga  
+*Translated by Antonia Lloyd-Jones*  
+**Title:**  Drive your plow over the bones of the dead    
+**Publisher:**  Riverhead Books    
+**Year:**  2009    
 **Link:**  <https://worldcat.org/en/title/1175678507>  
 
 Pages 29 -30:
@@ -47,3 +47,8 @@ Page 273:
 > I have learned, however, that most Insects hibernate. Deep inside their anthill, the Ants cling to each other in a large ball and sleep like that until spring. I only wish people had the same sort of confidence in each other.
 
 
+-----
+## Reviews:
+
+An academic review of the book:
+<https://thehumandivine.org/2021/03/01/blake-misunderstood-review-of-olga-tokarczuks-drive-your-plow-over-the-bones-of-the-dead/>  
