@@ -10,7 +10,7 @@ Now consider *modus ponens*. In
 
 `p, p -> q |- q`
 
-It is asserted that when both `p` and `p -> q` are asserted to be true, then `q` can be deduced to be true. This can be demonstrated in truth-value semantics by the truth table for `p -> q` (which is `~p v q` **by definition**, thanks to Russell).
+it is asserted that when both `p` and `p -> q` are asserted to be true, then `q` can be deduced to be true. This can be demonstrated in truth-value semantics by the truth table for `p -> q` (which is `~p v q` **by definition**, thanks to Russell).
 
 ```
 	p  q  p->q
