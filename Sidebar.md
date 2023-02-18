@@ -12,7 +12,7 @@
 
 #### General Navigation
 
-[Recent Pages](/recent-pages.html)  
+[Recent Changes](/recent-pages.html)  
 
 [All Pages](/all-pages.html)  
 
