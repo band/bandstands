@@ -3,6 +3,8 @@ created: 2021-07-25T21:41:03-05:00
 modified: 2021-07-25T21:41:25-05:00
 ---
 
+# 2021-07-25-21 ZeroWrites on eugenics
+
 Zero (they/their) (@ZeroWrites): CW: eugenics
 I have some thoughts.
 
