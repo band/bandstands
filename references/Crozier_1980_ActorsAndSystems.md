@@ -6,25 +6,24 @@ Translated by Arthur Goldhammer
 
 The University of Chicago Press Chicago and London
 ---
-Originally published as L'acteur et le système,
-©1977 by Editions Seuil
+Originally published as L'acteur et le système, ©1977 by Editions Seuil  
 
-The University of Chicago Press. Chicago 60637
-The University of Chicago Press, Ltd., London
-©1980 by The University of Chicago
-All rights reserved. Published 1980
-Printed in the United States of America
-87 86 85 84 83 82 81 80 54321
-Library of Congress Cataloging in Publication Data
-Crozier, Michel.
-Actors and systems.
-Translation of L' acteur et le système.
-Bibliography: p.
-Includes index.
-1. Organizational behavior. 2. Organization.
-I. Friedberg, Erhard, joint author. II. Title.
-HD58.7.C7613 302.3'5 80-13803
-ISBN 0-226-12183-6
+The University of Chicago Press. Chicago 60637  
+The University of Chicago Press, Ltd., London  
+©1980 by The University of Chicago  
+All rights reserved. Published 1980  
+Printed in the United States of America  
+87 86 85 84 83 82 81 80 54321  
+Library of Congress Cataloging in Publication Data  
+Crozier, Michel.  
+Actors and systems.  
+Translation of L' acteur et le système.  
+Bibliography: p.  
+Includes index.  
+1. Organizational behavior. 2. Organization.  
+I. Friedberg, Erhard, joint author. II. Title.  
+HD58.7.C7613 302.3'5 80-13803  
+ISBN 0-226-12183-6  
 
 MICHEL CROZIER iS the director of the Centre de Sociologie de Organisations de Paris and the former president of the French Association of Sociology. He is coauthor of The Crisis of Democracy and author of The Stalled Society, as well as the author of The Bureaucratic Phenomenon and The World of the Office Worker, both published by the University of Chicago Press. ERHARD FRIEDBERG, a fellow of the International Institute of Management in Berlin from 1973 to 1976 is assistant director of the Centre de Sociologie de Organisations de Paris.
 
@@ -32,7 +31,7 @@ MICHEL CROZIER iS the director of the Centre de Sociologie de Organisations de P
 
 ## Introduction
 
-This book was written for a French audience. Given the usual transatlantic misunderstandings, the English-language edition re quires a special Introduction. Our intellectual trajectory is very different from that of our American colleagues. We started from the American organization theories of the fifties and in the course of trying to apply them in the interpretation of French realities, came to realize that we needed new theories. The limitations of the old paradigms were apparent in their inability to account for conditions in France, but the significance of this failure was even more profound. We came to believe that it revealed the fundamental inadequacy not only of the original models of organizations and systems theory but also of that of their contemporary American successors.
+This book was written for a French audience. Given the usual transatlantic misunderstandings, the English-language edition requires a special Introduction. Our intellectual trajectory is very different from that of our American colleagues. We started from the American organization theories of the fifties and in the course of trying to apply them in the interpretation of French realities, came to realize that we needed new theories. The limitations of the old paradigms were apparent in their inability to account for conditions in France, but the significance of this failure was even more profound. We came to believe that it revealed the fundamental inadequacy not only of the original models of organizations and systems theory but also of that of their contemporary American successors.
 
 Despite its past glories, French sociology had subsided into a major lull from the twenties to the fifties. It began to flourish again in the fifties and caught up with the American-dominated international quantitative mode only in the mid sixties. ==In the field of organizational study there were two starting points: the Merton-Gouldner-Selznick sociological model, and the Michigan psycho-sociological model==. But French researchers working from these models faced very specific cultural constraints. Trade unions, for example, were much more resistant to sociological surveys whose claims to neutrality remained to be demonstrated. More important was the tremendous gap within French management between theory -- which tended more and more to be that of the American business schools -- and actual practice. Under these circumstances the American paradigms could not be successfully applied. As usual in new scientific fields, misunderstanding and failure were strong incentives to break new ground. The elaboration of new paradigms led once again to major differences between European and American approaches. The issue, however, is not only one of European versus American sociology but of alternative approaches to the study of organization. This book presents one such approach developed in the course of twenty years of field research in France.
 
