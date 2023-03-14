@@ -6,4 +6,5 @@ I have often caught myself wondering -- if I were to be incarcerated or driven u
 
 So, at the end of it all, is fascism a kind of *feeling* -- in the way anger, fear, and love are feelings -- that manifests itself in recognizable ways across cultures? Does a country fall into fascism the way a person falls in love? Or, more accurately, in hate? Has India fallen in hate? Because truly, the most palpable feeling in the air is the barbaric hatred the current regime and its supporters show toward section of the population. Equally palpable now is the love that has risen to oppose this. You can see it in people's eyes, hear it in protesters song and speech. It's a battle of those who know how to think against those who know how to hate. A battle of lovers against haters. It's an unequal battle, because the love is on the street and vulnerable. The hate is on the street, too, but it is armed to the teeth, and protected by all the machinery of the state.
 
+[[AZADI]]
 
