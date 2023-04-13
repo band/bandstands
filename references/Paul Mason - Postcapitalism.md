@@ -4,7 +4,7 @@
 **Title:** Postcapitalism: a guide to our future.  
 **Publisher:** Farrar, Straus & Giroux  
 **Year:** 2017  
-**Link:**  http://www.worldcat.org/oclc/946693787  
+**Link:**  <http://www.worldcat.org/oclc/946693787>  
 
 2023-03-14:  
 / description and diagnosis seems informative //
