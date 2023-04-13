@@ -12,7 +12,6 @@
 
 #### General Navigation
 
-[Recent Changes](/recent-pages.html)  
-
+[Search](/search.html)  
 [All Pages](/all-pages.html)  
-
+[Recent Changes](/recent-pages.html)   
