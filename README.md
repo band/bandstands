@@ -14,7 +14,7 @@ Use the "Recent Changes" sidebar link, and the "Search", "Random Page", and "All
 
 -----
 
-[[rodantheNC-200901191504.jpg]]  
+![[rodantheNC-200901191504.jpg]]  
   Rodanthe, North Carolina, USA  2009-01-19, UTC: 20:04  
   
 
