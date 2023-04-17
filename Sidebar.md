@@ -1,5 +1,7 @@
 # Site Navigation
 
+[[README|Home]]  
+
 #### Selected Content
 
 [[journalNotes|Journal-like notes]]  
