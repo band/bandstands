@@ -9,8 +9,9 @@
 [[drawingBoard|the Drawing Board]]  
 [[TumblrPosts|Tumblr repostings]]  
 
-[[Einstein & Infeld on Physical Concepts]]  
-[[Jiddu Krishnamurti on Truth]]
+
+[[Einstein and Infeld on Physical Concepts]]  
+[[Jiddu Krishnamurti on Truth]]  
 
 #### General Navigation
 

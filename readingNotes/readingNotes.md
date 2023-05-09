@@ -23,7 +23,7 @@
  - [[Doris Lessing, on education]]  
  - [[DW Winnicott - Discussion of War Aims]]  
  - [[Graeber and Grubacic anarchist critique of liberal state]]  
- - [[Einstein & Infeld on Physical Concepts]]  
+ - [[Einstein and Infeld on Physical Concepts]]  
  - [[Steve Lewis - art on the other side]]  
  - [[Paul Mason 2021 The Future is Over]]  
  - [[Jiddu Krishnamurti on Truth]]  
