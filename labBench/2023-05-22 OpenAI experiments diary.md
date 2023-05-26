@@ -11,3 +11,9 @@ After three weeks or so of learning how to create a summarization and question-a
 6. in order to use these models and their frameworks on a home computer requires a lot of futzing and fiddling around with tools, and ways to think about what I am doing.
 7. if development and adoption of AI, LLMs, and chatbots follows the usual "S" curve, I think I'm on the steep part and the plateau is not in sight. 
 8. I still hope to document some of what I have learned, but that's gonna be a minute.
+
+
+
+-----
+Linked mentions:  
+- [[2023-04-26 anderbillAI experiments]]  

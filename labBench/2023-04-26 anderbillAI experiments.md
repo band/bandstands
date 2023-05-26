@@ -7,6 +7,9 @@
 
 [[2023-05-07 text-generation-webui]]  
 
+[[Using langchain to query local documents with a local model]]  
+
+[[2023-05-22 OpenAI experiments diary]]  
  
 -----
 ### Resources
