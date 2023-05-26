@@ -2,7 +2,7 @@
 
 Reading an interview with Olga Tokarczuk in The Paris Review Spring 2023 issue (p. 222). In answer to the question "How did you become interested in Gnosticism?", Tokarczuk replies:  
 
-> The gnostic theory I took from that philosopy (Jewish Kabbalah) is called *Pardes*. It explains that reality has four layers, each of the accessed by a different means -- *peshat, remez, derash,* and *sod*, which corrrespond to literal meaning, allegory, analogy, and mystical revelation. To me, gnosis was a very challenging but also very appealing view of reality -- it called forr constant wakefulness, for constant reexamination of what we think we see.  
+> The gnostic theory I took from that philosophy (Jewish Kabbalah) is called *Pardes*. It explains that reality has four layers, each of the accessed by a different means -- *peshat, remez, derash,* and *sod*, which correspond to literal meaning, allegory, analogy, and mystical revelation. To me, gnosis was a very challenging but also very appealing view of reality -- it called for constant wakefulness, for constant reexamination of what we think we see.  
 > I was also drawn to Gnosticism for its direct opposition to the religion that surrounded me when I was growing up. It is, by some accounts, older than Christianity, but the two gradually became entwined -- it's seen as Christianity's dark side, as the alternative to its vision of the world. Today, the world seems to me to be shifting away from Christianity and back toward Gnosticism.
 
 -----
