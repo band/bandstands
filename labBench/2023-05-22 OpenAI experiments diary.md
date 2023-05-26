@@ -15,5 +15,5 @@ After three weeks or so of learning how to create a summarization and question-a
 
 
 -----
-Linked mentions:  
+Related pages:  
 - [[2023-04-26 anderbillAI experiments]]  
