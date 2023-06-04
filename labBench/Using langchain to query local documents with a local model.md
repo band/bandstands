@@ -1,6 +1,6 @@
 # Using langchain to query local documents with a local model
 
-## a tale of workpractice and side effects (?)
+## a tale of work practices and side effects (?)
 
 **2023-05-26: this page is on hold while to accommodate the impact of upgraded packages and frameworks**
 
