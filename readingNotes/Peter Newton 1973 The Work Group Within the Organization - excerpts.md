@@ -454,3 +454,7 @@ additional construct of importance here is that of “career”; that is,
 the differential participation of individuals in the work of the group
 and the organization ts determined to varying degrees by
 considerations of career.
+
+
+#### One page summary:  
+[[Newton_1973_workgroupInOrg1Pager.pdf]]  

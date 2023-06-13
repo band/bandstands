@@ -1,3 +1,5 @@
+# 2021-02 - 2021-03 Obsidian Git notes
+
 2021-02-27
 Installed Obsidian Git; now what?
 - prolly need to set up credentials for github access
@@ -27,6 +29,9 @@ Just wait a minute, bucky! Not so fast.
  - setup hotkeys for Obsidian-Git
 
 
+Related:  
+
+[[Obsidian-Git install and setup]]  
 
 
 

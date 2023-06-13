@@ -1,4 +1,6 @@
- Obsidian-Git install and setup req'ts.:
+# Obsidian-Git install and setup
+ 
+ Obsidian-Git install and setup requirements:  
  Computer environment: these instructions are established and tested on macOS
 
   - Github:
@@ -20,3 +22,7 @@
   
   2021-03-16
   - Now that Obsidian-Git has the pull before push option, let's test that.
+
+Related notes:  
+
+[[2021-02 - 2021-03 Obsidian Git notes]]  
