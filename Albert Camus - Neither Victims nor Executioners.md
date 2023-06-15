@@ -1,9 +1,9 @@
 # Albert Camus - Neither Victims nor Executioners
 
-**Author**: Camus, Albert
-**Title**: Neither Victims nor Executioners: An Ethic Superior to Murder, Second Edition  
+**Author**: Camus, Albert  
+**Title**: Neither Victims nor Executioners: An Ethic Superior to Murder, Second Edition    
 **Publisher**: WIPF and Stock Publishers, Eugene, OR  
-**Year**: 2008
+**Year**: 2008  
 **Link**: <https://worldcat.org/en/title/931336963>  
 
 page 28:  
