@@ -12,8 +12,8 @@ phones:
 short-name: Bill
 sortable-name: "Anderson, Bill"
 fediverse: "@band@octodon.social"
-twitter: "@band"
-discord: "anderbill#9242"
+discord: "anderbill"
+twitter (deprecated): "@band"
 urls: 
   - "https://about.me/wlanderson/"
 ---
@@ -44,6 +44,6 @@ Mastodon: https://octodon.social/@band
 
 Matrix: @anderbill:matrix.org
 
-Discord: anderbill#9242
+Discord: anderbill
 
 Twitter: [@band](https://twitter.com/band)  DEPRECATED
