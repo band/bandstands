@@ -2,7 +2,7 @@
 
 A place to experiment with bibliography and citation formats.
 
-2022-11-12-13: pretty-bibtex plugin
+#### 2022-11-12-13: pretty-bibtex plugin
 
 a bibtex export from Zotero
 ```bibtex
@@ -35,11 +35,14 @@ a hand constructed bibtex:
 
 ```bibtex
 @book{stacey_1966_complexity,
-author={Stacey, Ralph D.,
+author={Stacey, Ralph D.},
 title={Complexity and creativity in organizations},
 publisher={Berrett-Koehler},
 year={1966},
-url={https://worldcat.org/en/title/940537303},
-url={https://archive.org/details/complexitycreati0000stac}
+url=<https://worldcat.org/en/title/940537303>,
+url= https://archive.org/details/complexitycreati0000stac
 }
 ```
+
+#### 2023-06-18:  
+- observation: URLs in the bibtex format do not show up a live links in the markdown document;-- feature or failure?  

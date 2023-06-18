@@ -6,6 +6,17 @@
 **Year**: 2007  
 **Link**: <https://worldcat.org/en/title/427544966>  
 
+```bibtex
+@book{Taylor2007,
+Author = Charles Taylor,
+Title = A Secular Age,
+Publisher = Harvard University Press,
+Year = 2007,
+url = <https://worldcat.org/en/title/427544966>
+}
+```
+
+
 pages 1-3:  
 > What does it mean to say that we live in a secular age?  
 > .... it's not so clear in what this secularity consists. There are two big (families of) candidates for its characterization.  
