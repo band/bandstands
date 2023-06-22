@@ -39,5 +39,8 @@
 	<https://medium.com/the-techlife/using-huggingface-openai-and-cohere-models-with-langchain-db57af14ac5b>  
     - this would be a better resource if the code was proof-read before posting. *sigh*  
 
+- HuggingFace Transformers documentation:  
+  <https://huggingface.co/docs/transformers/task_summary>  
+
    
    
