@@ -12,6 +12,9 @@
 [[2023-05-22 OpenAI experiments diary]]  
 
 [[2023-06-04 some GPT4All observations]]  
+
+[[Notes on LLM architectures]]  
+
  
 -----
 ### Resources
