@@ -36,5 +36,5 @@
  - [[Michael Kinnucan - Texas power market structure]]  
  - [[2022-06-16 Rasheedah Phillips PLACING TIME, TIMING SPACE]]  
  - [[Bruno Schulz - The Book]]  
- - [[Sartre quote - to be verified]]  
+ - [[Sartre - on Anti-Semitism]]  
  - [[2022-06-04 Heather Cox Richardson]]  
