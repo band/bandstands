@@ -1,8 +1,7 @@
 # Sartre - on Anti-Semitism
 
 
-**Author**: Sartre, Jean-Paul  
-- Translated by George J. Becker  
+**Author**: Sartre, Jean-Paul; Translated by George J. Becker  
 **Title**: Anti-Semite and Jew  
 **Publisher**: Schocken Books  
 **Year**: 1965  
