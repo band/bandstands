@@ -20,7 +20,7 @@ urls:
 # Bill Anderson
 
 ## What about me?
-A retired data informatician (what does that mean?), sociotechnical (what? another big word?) computer systems engineer, and chemist. Also an open access advocate and inveterate punster.
+A retired data informatician, sociotechnical computer systems engineer, and chemist. Also an open access advocate and inveterate punster.
 
 When asked recently about what I value and my interests I said, with "Kindness, curiosity, honesty, and humor. I am interested in learning about, examining, and promoting abundance-based models and ideas of sustainable human societies."
 
@@ -40,10 +40,8 @@ Initials: "WLA"
 
 Basic landing page: https://about.me/wlanderson
 
-Mastodon: https://octodon.social/@band  
-
-Matrix: @anderbill:matrix.org
-
-Discord: anderbill
-
-Twitter: [@band](https://twitter.com/band)  DEPRECATED
+Socials:  
+ - Mastodon: https://octodon.social/@band  
+ - Matrix: @anderbill:matrix.org  
+ - Discord: anderbill  
+ - Twitter (DEPRECATED): [@band](https://twitter.com/band)  
