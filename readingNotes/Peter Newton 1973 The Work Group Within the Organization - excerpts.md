@@ -123,4 +123,5 @@ Note12: We do not regard this set of four constructs as exhaustive. In working t
 
 #### Edwin Tanner *The Board of Directors*  
  - oil on canvas on board - <https://www.menziesartbrands.com/items/board-directors>  
-	(link added 2023-07-17  
+	(image and link added 2023-07-18)  
+ ![[ETanner_1955_theBoardOfDirectors.jpg]]    
