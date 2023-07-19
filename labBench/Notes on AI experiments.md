@@ -15,6 +15,8 @@
 
 [[Notes on LLM architectures]]  
 
+[[2023-07-17 OpenAI Experiments diary entry]]  
+
  
 -----
 ### Resources
