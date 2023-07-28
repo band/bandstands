@@ -16,3 +16,6 @@
 
 [[2023-05-21 Paul Roquet Ambient Media - notes]]  
 
+[[essentialMaryMidgley]]  
+
+

@@ -17,6 +17,7 @@
 
 [[2023-07-17 OpenAI Experiments diary entry]]  
 
+[[2023-07-28 OpenAI model comparison]]  
  
 -----
 ### Resources
