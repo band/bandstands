@@ -1,7 +1,8 @@
 # Notes on AI experiments
 
+(perhaps rename to AI practice and experience (as a nod to an early software journal))
 
-### Related work:
+### Related notes  
 
 [[2023-04-26 Explore Gmail messages with OpenAI]]  
 
@@ -18,6 +19,8 @@
 [[2023-07-17 OpenAI Experiments diary entry]]  
 
 [[2023-07-28 OpenAI model comparison]]  
+
+[[2023-08-03 Emily Bender interview]]  
  
 -----
 ### Resources
