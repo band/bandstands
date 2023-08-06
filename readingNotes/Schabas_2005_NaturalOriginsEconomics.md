@@ -155,3 +155,10 @@ With chapter 6, I travel south, as the clock ticks, to the work of the great Eng
 
 Chapter 7 takes up Mill's conception of nature and its implications for his political economy. I argue that a radical reconfiguration transpired, one that in many respects laid the groundwork for what came to pass in the 1870s with the efforts of the early marginalists. I also examine the importance of new move- ments in psychology, or the science of the mind as it was then known, and the Darwinian revolution. Finally, chapter 8 offers some evaluations of the early neoclassical period, particularly in the case of the English economists, Jevons, Edgeworth, Wicksteed, and Marshall, and argues that they brought about a significant rupture with the past. Despite numerous changes and develop- ments in economic theory -game theory or the new institutionalism, not to mention considerable mathematical refinement -we have lived with their vision ever since.
 
+
+
+## CHAPTER EIGHT  
+
+> Physics and economics ... are both disciplines with imperialist tendencies: they reportedly aspire to account for almost everything, the first in the natural world, the second in the social.
+>   -- Nancy Cartwright, *The Dappled World*  
+
