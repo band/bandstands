@@ -1,6 +1,5 @@
 # Ruth Ben-Ghiat Strongmen - Mussolini to the Present
 
-
 **Author:**  Ben-Ghiat, Ruth  
 **Title:**  Strongmen - Mussolini to the Present  
 **Publisher:**  W. W. Norton & Company  

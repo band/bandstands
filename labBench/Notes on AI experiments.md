@@ -21,7 +21,9 @@
 [[2023-07-28 OpenAI model comparison]]  
 
 [[2023-08-03 Emily Bender interview]]  
- 
+
+[[2023-08-09 project diary entry]]  
+
 -----
 ### Resources
 
