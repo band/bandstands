@@ -10,3 +10,15 @@ Project futures; planning notes:
 - keep notes on Python setup details (`venv`, `pip`, what else?)  
 - wrap-up individual experiments with notes and possibly put into separate folders  
 - keep the lab benches clean, with only a few exp'ts going at a time (perfect use for a Kanban board); in fact, limit number of open exp'ts to three or fewer.
+
+
+Peter Kaminsky suggestion from Massive Wiki Wednesday 2023-08-09 call:  
+
+Idea for Category / Topic Mapping for Articles  
+- have ChatGPT make a list of categories or topics  
+    - then have it make sub-categories and sub-sub-categories, etc. as desired  
+- have ChatGPT synthesize articles for the leaf categories  
+- generate embeddings for the synthetic articles  
+- do vector database matching with embeddings for real articles 
+
+
