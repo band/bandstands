@@ -19,5 +19,8 @@ Primary task: connections between the neoliberal, capitalist market system, the 
 
 [[Lukacs presaging the end of history]]  
 
+[[Mary Midgley - Science As Salvation]]  
+
+
 
 
