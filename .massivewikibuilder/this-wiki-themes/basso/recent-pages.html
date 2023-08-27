@@ -13,7 +13,12 @@
           <div class="content markdown-body">
             <h1>Recent new and updated pages</h1>
             {% for page in pages %}
-            <p><a href="{{page.path}}">{{page.title}}</a></p>
+            <p>
+	      <div><a href="{{page.path}}">{{page.title}}</a></div>
+	      {% if page.abstract is defined %}
+	      <div><blockquote class="recent-changes-page-abstract">{{page.abstract}}</blockquote></div>
+	      {% endif %}
+	    </p>
             {% endfor %}
           </div>
         </div>
