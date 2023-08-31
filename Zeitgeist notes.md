@@ -1,7 +1,7 @@
 # Zeitgeist notes
 
 2023-06-08:  
-Primary task: connections between the neoliberal, capitalist market system, the current nation states of the world, and isolated and melancholy individualism seem numerous, and worthy of some exposition. These notes are a start at collecting resources and thinking. (My intent is to populate this wiki page with relevant links, comments, and free associations, and more(?).)  
+**Primary task**: connections between the neoliberal, capitalist market system, the current nation states of the world, and isolated and melancholy individualism seem numerous, and worthy of some exposition. These notes are a start at collecting resources and thinking. (My intent is to populate this wiki page with relevant links, comments, and free associations, and more(?).)  
 
 [[Akwaeke Emezi - revolutionary imagination]]  
 
@@ -20,7 +20,9 @@ Primary task: connections between the neoliberal, capitalist market system, the 
 [[Lukacs presaging the end of history]]  
 
 [[Mary Midgley - Science As Salvation]]  
- - 2023-08-27: as i read Midgley i see many current reports and op-eds on AI, machine learning, and material models of brains and thinking as just more examples of the philosophical separation of mind from matter. what is the purpose of this separation and these models of thinking and brains?  
+2023-08-27: as i read Midgley i see many current reports and op-eds on AI, machine learning, and material models of brains and thinking as just more examples of the philosophical separation of mind from matter. what is the purpose of this separation and these models of thinking and brains?  
+
+[[2023-08-28 Timothy Garton Ash - decline of the Russian empire]]  
 
 
 
