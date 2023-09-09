@@ -12,11 +12,11 @@ APPENDIX: 36 ARGUMENTS FOR THE EXISTENCE OF GOD
 
 1. The Cosmological Argument
 2. The Ontological Argument
-3. The Argument from Design
-	A. The Classical Teleological Argument
-	B. The Argument from Irreducible Complexity
-	C. The Argument from the Paucity of Benign Mutations
-	D. The Argument from the Original Replicator
+3. The Argument from Design  
+	A. The Classical Teleological Argument  
+	B. The Argument from Irreducible Complexity  
+	C. The Argument from the Paucity of Benign Mutations  
+	D. The Argument from the Original Replicator  
 4. The Argument from the Big Bang
 5. The Argument from the Fine-Tuning of Physical Constants
 6. The Argument from the Beauty of Physical Laws
