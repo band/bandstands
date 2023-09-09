@@ -328,13 +328,13 @@ COMMENT: In one way, this argument is reminiscent of the Anthropic Principle. Th
 5. If an immaterial soul exists, then God must exist (from Premise 12 in The Argument from the Hard Problem of Consciousness).  
 6. God exists.  
 
-FLAW: Premise 5 is vulnerable to the same criticisms that were leveled against Premise 12 in The Argument from the Hard Problem of Consciousness. Existence after death no more implies God's existence that our existence before death.  
+FLAW: Premise 5 is vulnerable to the same criticisms that were leveled against Premise 12 in The Argument from the Hard Problem of Consciousness. Existence after death no more implies God's existence than our existence before death.  
 
 COMMENT: Many, of course, would dispute Premise 1. The experiences of people near death, such as auras and out-of-body experiences, could be hallucinations resulting from oxygen deprivation in the brain. In addition, miraculous resurrections after total brain death, and accurate reports of conversations and events that took place while the brain was not functioning, have never been scientifically documented, and are informal, secondhand examples of testimony of miracles. They are thus vulnerable to the same flaws pointed out in The Argument from Miracles. But the argument is fatally flawed even if Premise 1 is granted.  
 
 ### 15. The Argument from the Inconceivability of Personal Annihilation  
 
-1. I cannot conceive of my own annihilation: as soon as I start to think about what it would be like not to exist, I am thinking, which implies that I would exist (as in Descartes's Cogito ergo sum), which implies that I would not be thinking about what it is like not to exist.  
+1. I cannot conceive of my own annihilation: as soon as I start to think about what it would be like not to exist, I am thinking, which implies that I would exist (as in Descartes's cogito ergo sum), which implies that I would not be thinking about what it is like not to exist.  
 2. My annihilation is inconceivable (from 1).  
 3. What cannot be conceived, cannot be.    
 4. I cannot be annihilated (from 2 and 3).  

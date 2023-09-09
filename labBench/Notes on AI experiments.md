@@ -24,6 +24,9 @@
 
 [[2023-08-09 project diary entry]]  
 
+[[2023-09-04 Ollama and langchain and HTML files]]  
+
+
 -----
 ### Resources
 
