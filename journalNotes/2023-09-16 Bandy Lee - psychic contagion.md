@@ -1,0 +1,10 @@
+# 2023-09-16 Bandy Lee - psychic contagion
+
+Excerpt from **Psychic Contagion**, Dr. Bandy X. Lee, 15 September 2023  
+Link: <https://substack.com/inbox/post/137092834>  
+
+Shared psychosis can take the form of transmission to previously healthy individuals; mutual reinforcement of previously ill persons; activation of predisposed individuals; or latent "conversion" of previously resistant individuals. When the psychosocial phenomenon is widespread -- affecting not just a household but a nation or the world -- then all four types are observed simultaneously.  
+When diplomats are engaging in belligerent language with one another in a way that they cannot carry out their duties of diplomacy, then something more irrational and destructive is occurring. Gustave Le Bon described the pathology of crowds. Carl Jung warned against the menace of "psychic epidemics." Sigmund Freud explained the lurking, unconscious perils behind "civilization". And as Erich Fromm famously noted: "That millions of people share the same forms of mental pathology does not make these people sane."
+
+*Anyone can give into shared psychosis, given enough exposure and pressure. How do we guard against this? We can prioritize our own mental health, through care of the self. It is natural to feel exhausted when there is widespread contagion of symptoms, and therefore it is important to recognize that anxiety and exhaustion are a signal to ourselves to take time for renewal. Pausing to honor the pain we feel for the world, widening our vision, and taking one step at a time can counter the trend of the dramatic, obtrusive, and apparent violence before our eyes. It is the source of true strength. Spiritual centering can happen in an hour a day, an afternoon a week, and a spontaneous "getaway once in a while to devote to pure enjoyment while letting nothing intrude. Taking the time to connect back with the universal, through the arts, meditation, or simply time spent with loved ones is essential. Then universal human values, such as equality, justice, truth, compassion, and reverence and appreciation for life, will grow stronger, and shared psychosis lose its grip.*
+

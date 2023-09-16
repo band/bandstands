@@ -26,6 +26,9 @@
 
 [[2023-09-05 ode to the news of the day]]  
 
+[[2023-09-16 Bandy Lee - psychic contagion]]  
+
+
 
 
 
