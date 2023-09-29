@@ -39,7 +39,9 @@ Scientists are targets. Leaders must defend us
  - The alternative is to follow the path of the Soviet Union: sidelining experts and sacrificing lives.   
 
 [[Jacqueline Rose - The Plague]]  
-"Only if you admit your ambivalence even towards those you love most is there the faintest chance that you will reach out across the world to everyone ...."  
+"Only if you admit your ambivalence even towards those you love most is there the faintest chance that you will reach out across the world to everyone .... There is a limit to how much we can psychically tolerate. This remains the fundamental insight of psychoanalysis, never more needed than today."   
+
+
 
 
 
