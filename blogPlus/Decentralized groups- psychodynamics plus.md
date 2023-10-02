@@ -10,7 +10,8 @@
 
 / we form and join groups to get things done //  
 / we form and join groups to establish a social defense against personal and group existential anxieties //  
-/ 'anxieties' is a mal-adaptive word now // L Hirschhorn proposed emphasizing 'risk', 'fear of failure', 'desires' (and more?) to let the group dynamics be viewed and heard //  
+/ 'anxieties' is a maladaptive word now //  
+/ Larry Hirschhorn proposes emphasizing 'risk', 'fear of failure', 'desires' (and more?) to let the group dynamics be viewed and heard //  
 / what are the hints that the group is prioritizing social defense over work? //  
 / often groups and its members need to use the defenses to get some work done // often or sometimes? //  
 
