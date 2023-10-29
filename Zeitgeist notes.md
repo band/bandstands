@@ -45,6 +45,9 @@ Scientists are targets. Leaders must defend us
 "Only if you admit your ambivalence even towards those you love most is there the faintest chance that you will reach out across the world to everyone ....  
 There is a limit to how much we can psychically tolerate. This remains the fundamental insight of psychoanalysis, never more needed than today."   
 
+2023-10-26: This is from several years ago, but showed up for me in a neighboring social today. [Pema Chodron: Letting Go of Hope](https://thedewdrop.org/2019/08/26/letting-go-of-hope-pema-chodron/). And I needed this today, and my takeaway is the next to last sentence: "The real thing that we renounce is the tenacious hope that we could be saved from being who we are."  
+
+
 
 
 
