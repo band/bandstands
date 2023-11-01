@@ -9,7 +9,7 @@
 
 ## Excerpts:
 
-- THE GRAVEYARD TALKS BACK  [[highlights-Azadi]]
+- THE GRAVEYARD TALKS BACK  [[Arundhati Roy - highlights from Azadi]]
   
   [[2021-06-06 Our nationalistic future]]
   

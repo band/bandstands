@@ -5,7 +5,7 @@
 
 from: Ken Homer
 Fri, Aug 4, 6:04 PM (13 hours ago)
-to OpenGlobalMind
+to: OpenGlobalMind
 
 Brief excerpt from the introduction:
 

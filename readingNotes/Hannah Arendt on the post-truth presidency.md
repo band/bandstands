@@ -1,5 +1,5 @@
-## 2021-07-31  Hannah Arendt and the post-truth presidency
-
+# Hannah Arendt on the post-truth presidency
+  (posted 2021-07-31)
 
 By Rebecca Panovka in Harper's Magazine, August 2021
 
@@ -7,7 +7,7 @@ By Rebecca Panovka in Harper's Magazine, August 2021
 
 Two pull-quotes:
 
->Arendt is not warning about liars in Washington. She is worried, rather, about a state of affairs in which a singular, unquestioned image has been installed in place of reality, and in which, as cracks begin to appear, those who placed their faith in authority have no one left to trust—a state of affairs, as she made clear, that cannot coexist with a free and combative press.
+>Arendt is not warning about liars in Washington. She is worried, rather, about a state of affairs in which a singular, unquestioned image has been installed in place of reality, and in which, as cracks begin to appear, those who placed their faith in authority have no one left to trust—a state of affairs, as she made clear, that cannot coexist with a free and combative press.  
 
->To respect human freedom is to acknowledge that history does not operate according to scientific laws: “No matter how much we may be capable of learning from the past,” she writes, “it will not enable us to know the future.”
+>To respect human freedom is to acknowledge that history does not operate according to scientific laws: “No matter how much we may be capable of learning from the past,” she writes, “it will not enable us to know the future.”  
 

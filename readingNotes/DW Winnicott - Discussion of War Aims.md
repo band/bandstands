@@ -1,4 +1,4 @@
-# D.W. Winnicott - Discussion of War Aims
+# DW Winnicott - Discussion of War Aims
 
 
 #### 2022-05-08

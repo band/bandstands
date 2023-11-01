@@ -1,4 +1,4 @@
-# Against Algebra
+# Temple Grandin - Against Algebra
 
 Students need more exposure to the way everyday things work and are made.
 

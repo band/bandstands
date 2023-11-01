@@ -17,7 +17,7 @@ Page 116:
 > Caerus, the lucky moment, presupposes waiting -- the gift of time -- excruciatingly long sometimes, and sometimes blissfully wasted, but always a gift.
 
 
-This essay references [[Peter Handke - Quiet Places - collected essays]].
+This essay references [[Peter Handke - Quiet Places - collected essays]].  
 
 
 

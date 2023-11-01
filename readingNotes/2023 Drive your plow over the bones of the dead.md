@@ -21,7 +21,7 @@ Page 113:
 
 Page 114:
 
-> Children are soft and supple, open-minded and unprententious. And they don't engage in the sort of small talk in which every adult is able to gabble their life away. Unfortunately, the older they are, the more they succumb to reason; ....
+> Children are soft and supple, open-minded and unpretentious. And they don't engage in the sort of small talk in which every adult is able to gabble their life away. Unfortunately, the older they are, the more they succumb to reason; ....
 
 Pages 154 - 155:
 

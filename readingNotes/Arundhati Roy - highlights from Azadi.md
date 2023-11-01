@@ -1,4 +1,4 @@
-#### Highlights from ‘Azadi’ by Arundhati Roy
+# Arundhati Roy - highlights from ‘Azadi’
 
 ARUNDHATI ROY, THE GRAVEYARD TALKS BACK, pp. 157-159
 

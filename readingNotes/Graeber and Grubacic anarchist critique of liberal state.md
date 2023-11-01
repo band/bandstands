@@ -1,3 +1,5 @@
+# Graeber and Grubacic anarchist critique of liberal state
+
 ### 2020-09-10, 2020-09-12
 
 ### Some notes on the anarchist ("stateless socialism") critique of the liberal state.

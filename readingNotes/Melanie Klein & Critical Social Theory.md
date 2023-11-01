@@ -18,6 +18,6 @@ time: 09:22
 
 Page 21:
 
-> Whereas Freud saw the group as modeled on the authoritarian love of the family, a Kleinian perspective sees the group a defending against primitive anxiety. The problem with groups is that they are so good at defending against this anxiety is that they forestall ==the emotional conflicts that lead to moral learning==.
+> Whereas Freud saw the group as modeled on the authoritarian love of the family, a Kleinian perspective sees the group a defending against primitive anxiety. The problem with groups is that they are so good at defending against this anxiety is that they forestall ==the emotional conflicts that lead to moral learning==.  
 
 
