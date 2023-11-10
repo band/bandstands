@@ -5,7 +5,6 @@
 - [[Lewis Hyde - Remembered Forgotten]]  
 - [[Larry Hirschhorn 2021 Extending the Tavistock Model - notes]]  
 - [[Arundhati Roy - highlights from Azadi]]  
-- [[readingNotes]]  
 - [[Hannah Arendt on the post-truth presidency]]  
 - [[Graeber and Grubacic anarchist critique of liberal state]]  
 - [[From An Essay on Waiting]]  
