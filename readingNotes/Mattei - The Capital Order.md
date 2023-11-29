@@ -2,8 +2,11 @@
 
 **Author**: Clara E. Mattei  
 **Title**: The Capital Order: How Economists Invented Austerity and Paved the Way to Fascism  
+**Publisher**: The University of Chicago Press  
+**Year**: 2022  
+**Link**: https://search.worldcat.org/en/title/1296686961  
 
-from: Ken Homer
+>[!info] from: Ken Homer
 Fri, Aug 4, 6:04 PM (13 hours ago)
 to: OpenGlobalMind
 

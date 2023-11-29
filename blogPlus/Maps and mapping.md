@@ -20,3 +20,7 @@ For example, the Library of Congress classification scheme is a topic map.
 Yeah, there is something off about this picture. Concept maps represent semantic relationships.
 
 Topic mapping in information science is like category theory in mathematics. They are both concerned with relationships.
+
+**2023-11-19**:
+The following thread was forwarded by Charles Blass and, while the main topic is "paths", it is not too far away from maps and mapping.  
+[[20231128-gabriel_export - on paths]]  

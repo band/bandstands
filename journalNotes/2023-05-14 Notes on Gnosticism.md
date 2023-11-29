@@ -19,3 +19,6 @@ Page 40:
 ## Some references
 - [# Gnosticism in modern times](https://en.wikipedia.org/wiki/Gnosticism_in_modern_times)  
 - Lasch: open access link: <https://www.sfu.ca/~poitras/pc_gnosticism_92.pdf>
+
+ - 2023-11-21: from Bill Seitz fluxgarden:  
+    <http://webseitz.fluxent.com/wiki/ImmanentizeTheEschaton>  
