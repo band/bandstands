@@ -8,7 +8,7 @@ Use the "Recent Changes" sidebar link, and the "Search", "Random Page", and "All
 
 -----
 
- Climate warming update from the Scripps Mauna Loa Observatory [[December 2022  NOAA Maunaloa update]]:
+ Climate warming update from the Scripps Mauna Loa Observatory:
 
 ![Image file not available](https://scripps.ucsd.edu/bluemoon/co2_400/daily_value.png)  
 

@@ -6,6 +6,9 @@
 **Year**: 2023  
 **Link**: <https://worldcat.org/en/title/1342250236>  
 
+page 14:  
+> In the thought of Simone Weil, it is only in admitting the limits of the human that we will stop vaunting the brute illusion of earthly power, as if we owned the world we live in.  
+
 page 26:  (writing about Simone Weil)  
 > Thought can be revolutionary or counter-revolutionary, but in so far as it goes beyond the world as known and seen, it is always the enemy of domination. Like love, thinking is 'corrosive' for the social order.  
 

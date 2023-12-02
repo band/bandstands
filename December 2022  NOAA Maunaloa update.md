@@ -11,3 +11,6 @@ The University of Hawaiʻi is partnering with the National Oceanic and Atmospher
 ...  
 The NOAA team also worked with UH scientists to install a separate small intake tube on the existing weather monitoring station on Maunakea for CO2 measurements by the Scripps Institution of Oceanography at UC San Diego. NOAA and Scripps scientists make independent measurements of CO2 at Maunaloa.  
 
+Update:   
+Link: https://gml.noaa.gov/ccgg/trends/, accessed 2023-12-02  
+Due to the eruption of the Mauna Loa Volcano, measurements from Mauna Loa Observatory were suspended as of Nov. 29, 2022. Observations from December 2022 to July 4, 2023 are from a [site at the Maunakea Observatories](https://www.noaa.gov/news-release/university-of-hawaii-noaa-to-gather-climate-change-data-following-mauna-loa-eruption), approximately 21 miles north of the Mauna Loa Observatory. Mauna Loa observations resumed in July 2023.  
