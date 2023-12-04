@@ -5,6 +5,7 @@
 **Publisher**: Public Affairs, Hachette Book Group, New York  
 **Year**: 2019  
 **Link**: <http://www.worldcat.org/oclc/1194529251>  
+Open access link: <https://archive.org/details/shoshanazubofftheageofsurveillancecapitalism/page/n1/mode/2up>  
 
 page 10:
 
