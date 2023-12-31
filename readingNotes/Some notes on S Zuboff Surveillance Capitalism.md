@@ -15,3 +15,15 @@ page 10:
 
 > We are not alone in falling prey to the technology illusion. It is an enduring theme of social thought, as old as the Trojan horse. Despite this, each generation stumbles into the quicksand of forgetting that technology is an expression of other interests. In modern times this means the interests of capital, and in our time it is surveillance capital that commands the digital milieu and directs our trajectory toward the future.  
 
+-----
+2023-12-19: reading paused at page 125 (book returned to library)  
+**to-do list:**  
+- extract excerpts from the following pages and notes:  
+	- p.16: tech an expression of other interests  
+	- p.19: privatization of the vision of learning  
+	- p.33: individualization is not individualism  
+	- summarize notions of 1st and 2nd modernity  
+	- p.55: human invention  
+	- p.100: experience => behavior  
+	- p.101: regulatory role of the state  
+	- p. 562: footnote 40
