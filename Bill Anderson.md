@@ -45,3 +45,8 @@ Socials:
  - Matrix: @anderbill:matrix.org  
  - Discord: anderbill  
  - Twitter (DEPRECATED): [@band](https://twitter.com/band)  
+
+Wikis:
+- [bandstands]([bandstands (praxis101.net)](https://bandstands.praxis101.net/))  
+- [My back burner]([My back burner — anderbill's ideas: vague, incomplete, and simmering.](https://anderbill.gitlab.io/twikiLab/))  
+
