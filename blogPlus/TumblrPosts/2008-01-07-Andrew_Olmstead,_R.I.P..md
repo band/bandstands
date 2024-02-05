@@ -1,14 +1,11 @@
 # 2008-01-07-Andrew_Olmstead,_R.I.P.
 
 ## Title:  Andrew Olmstead, R.I.P.
-Date: 2008-01-07  
-Content:  
+Date posted: 2008-01-07  
 
-[David
-Weinberger](http://www.hyperorg.com/blogger/2008/01/05/a-blogger-dies-in-action/)
-mentioned this last blog post by Andrew Olmstead, the first soldier
-killed in Iraq in 2008 (Andrew was killed on January 3, 2008). Andrew
-kept a blog with the very droll title: 
+
+[David Weinberger](http://www.hyperorg.com/blogger/2008/01/05/a-blogger-dies-in-action/)
+mentioned this last blog post by Andrew Olmstead, the first soldier killed in Iraq in 2008 (Andrew was killed on January 3, 2008). Andrew kept a blog with the very droll title: 
 
 > Obsidian Wings
 > "This is the Voice of Moderation. I wouldn't go so far as to say we've
