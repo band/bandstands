@@ -15,6 +15,14 @@ page 10:
 
 > We are not alone in falling prey to the technology illusion. It is an enduring theme of social thought, as old as the Trojan horse. Despite this, each generation stumbles into the quicksand of forgetting that technology is an expression of other interests. In modern times this means the interests of capital, and in our time it is surveillance capital that commands the digital milieu and directs our trajectory toward the future.  
 
+...  
+
+page 230 (in the OA digital version):    
+
+> As industries far beyond the technology sector are lured by surveillance profits, the ferocity of the race to find and render experience as data has turned rendition into a global project of surveillance capital.
+> .... as rendition operations move into the real world, seizing fresh unexpected chunks of human experience. ... All that is moist and alive must hand over its facts. There can be no shadow, no darkness. The unknown is intolerable. The solitary is forbidden.
+
+
 -----
 2023-12-19: reading paused at page 125 (book returned to library)  
 **to-do list:**  

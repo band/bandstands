@@ -23,4 +23,4 @@ Topic mapping in information science is like category theory in mathematics. The
 
 **2023-11-19**:
 The following thread was forwarded by Charles Blass and, while the main topic is "paths", it is not too far away from maps and mapping.  
-[[20231128-gabriel_export - on paths]]  
+[[2023-11-28-gabriel_export - on paths]]  
