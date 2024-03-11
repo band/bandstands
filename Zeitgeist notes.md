@@ -47,6 +47,12 @@ There is a limit to how much we can psychically tolerate. This remains the funda
 
 2023-10-26: This is from several years ago, but showed up for me in a neighboring social today. [Pema Chodron: Letting Go of Hope](https://thedewdrop.org/2019/08/26/letting-go-of-hope-pema-chodron/). And I needed this today, and my takeaway is the next to last sentence: "The real thing that we renounce is the tenacious hope that we could be saved from being who we are."  
 
+2024-03-11: the need and desire(?) to separate us from them (me from you) is a bad habit ....
+[[2024-03-10 Ken Homer - NYT Manifesting]]:
+" ... while the idea of manifesting may seem modern, the instinct to conflate spiritual forces, political and economic outcomes and our own personal desires is part of a longstanding American tradition that dates back much, much farther than the pandemic."  
+
+
+
 
 
 
