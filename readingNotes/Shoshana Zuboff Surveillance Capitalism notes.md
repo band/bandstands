@@ -1,4 +1,4 @@
-# Some notes on S Zuboff Surveillance Capitalism
+# Shoshana Zuboff Surveillance Capitalism notes
 
 **Author**: Zuboff, Shoshana    
 **Title**: The Age of Surveillance Capitalism: The fight for a human future at the new frontier of power  
@@ -22,6 +22,11 @@ page 230 (in the OA digital version):
 > As industries far beyond the technology sector are lured by surveillance profits, the ferocity of the race to find and render experience as data has turned rendition into a global project of surveillance capital.
 > .... as rendition operations move into the real world, seizing fresh unexpected chunks of human experience. ... All that is moist and alive must hand over its facts. There can be no shadow, no darkness. The unknown is intolerable. The solitary is forbidden.
 
+...
+
+page 336 (in the print edition):
+
+> \[Carl\] Friedrich was among the first scholars of totalitarianism to address this experience of improbability, writing in 1954 that "virtually no one before 1914 anticipated the course of development which has overtaken Western civilization since then... none of the outstanding scholars in history, law, and the social sciences discerned what was ahead... which culminated in totalitarianism. To this failure to foresee corresponds a difficulty in comprehending."  
 
 -----
 2023-12-19: reading paused at page 125 (book returned to library)  

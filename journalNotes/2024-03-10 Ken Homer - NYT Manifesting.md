@@ -1,12 +1,11 @@
 # 2024-03-10 Ken Homer - NYT Manifesting
 
 ---------- Forwarded message ---------  
-From: **Ken Homer** <[kenhomer@sonic.net](mailto:kenhomer@sonic.net)>  
-Date: Sun, Mar 10, 2024 
-Subject: [OGM] Opinion | ‘Manifesting’ Is a Modern Version of a Centuries-Old Idea - The New York Times  
+From: **Ken Homer**  
+Date: Sun, Mar 10, 2024  
+Subject: [OGM] Opinion | ‘Manifesting’ Is a Modern Version of a Centuries-Old Idea - The New York Times   
 
-> “Oh I do believe, I do!” ~The Cowardly Lion
-
+> “Oh I do believe, I do!” ~The Cowardly Lion  
 
 _"Today, as in the 19th century, the belief that we can will things into reality comes with a dark side, too. In an era when outlandish lies can and do influence elections, manifesting has become as much about exerting influence over others as it is about improving one’s finances, or healing from illness, or self-actualization, or vibes._
 
@@ -14,7 +13,7 @@ _It is only by understanding the religious and occult tradition from which the c
 
 ## The Long, Strange History of ‘Manifesting’
 
-By Tara Isabella Burton,  March 9, 2024
+By Tara Isabella Burton,  March 9, 2024  
 
 	Dr. Burton is the author of “Self-Made: Creating Our Identities From da Vinci to the Kardashians” and the novel “Here in Avalon.”
 

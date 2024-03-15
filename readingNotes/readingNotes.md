@@ -18,7 +18,7 @@
 - [[Whittaker-Suchman_2021_Myth_Artifical_Intelligence]]  
 - [[Mary Midgley - Science As Salvation]]  
 - [[Wuhan Diary notes]]  
-- [[Some notes on S Zuboff Surveillance Capitalism]]  
+- [[Shoshana Zuboff Surveillance Capitalism notes]]  
 - [[Goldstein - 36 Arguments]]  
 - [[Jonathan Taplin The End of Reality - excerpts]]  
 - [[Jonathan Rosen - The Talmud and The Internet]]  

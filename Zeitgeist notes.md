@@ -55,7 +55,7 @@ There is a limit to how much we can psychically tolerate. This remains the funda
 "Given the scale and diversity of the disruptions that are already being felt around the planet, it is hardly surprising that the prospect of a history ending apocalypse is once again being widely imagined."  
 
 2024-03-14: Zuboff points out how hard it was for people to comprehend totalitarianism. I feel that here in the USA we are struggling to comprehend what is happening in politics and society.
-from Zuboff: The Age of Surveillance Capitalism, p. 336 in the print edition:
+from [[Shoshana Zuboff Surveillance Capitalism notes]] p. 336 in the print edition:  
 > \[Carl\] Friedrich was among the first scholars of totalitarianism to address this experience of improbability, writing in 1954 that "virtually no one before 1914 anticipated the course of development which has overtaken Western civilization since then... none of the outstanding scholars in history, law, and the social sciences discerned what was ahead... which culminated in totalitarianism. To this failure to foresee corresponds a difficulty in comprehending."  
 
 
