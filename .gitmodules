@@ -1,3 +1,4 @@
 [submodule ".massivewikibuilder/massivewikibuilder"]
 	path = .massivewikibuilder/massivewikibuilder
-	url = https://github.com/peterkaminski/massivewikibuilder.git
+	url = https://github.com/Massive-Wiki/massivewikibuilder.git
+	branch = main
