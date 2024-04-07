@@ -8,8 +8,8 @@ $ git diff 0ef9708 -- tests/bespoke-tests/README.md
 
 2024-03-15: force use of a specific submodule branch  
 ```shell
-$ git submodule set-branch -b main .massivewikibuilder/massivewikibuilder 
-$ git config --file=.gitmodules -l                                       
+$ git submodule set-branch -b main .massivewikibuilder/massivewikibuilder
+$ git config --file=.gitmodules -l
 
 submodule..massivewikibuilder/massivewikibuilder.path=.massivewikibuilder/massivewikibuilder
 submodule..massivewikibuilder/massivewikibuilder.url=https://github.com/Massive-Wiki/massivewikibuilder.git

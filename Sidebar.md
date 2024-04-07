@@ -1,20 +1,19 @@
 # Site Navigation
 
 [[README|Home]]  
-
+[Search](/search.html)  
+[All Pages](/all-pages.html)  
+[Recent Changes](/recent-pages.html)   
 #### Selected Content
 
 [[journalNotes|Journal-like notes]]  
 [[readingNotes|Reading notes]]  
-[[drawingBoard|the Drawing Board]]  
-[[blogPlus/TumblrPosts|Tumblr repostings]]  
-
+[[Zeitgeist notes]]  
 
 [[Einstein and Infeld on Physical Concepts]]  
 [[Jiddu Krishnamurti on Truth]]  
 
-#### General Navigation
+[[drawingBoard|the Drawing Board]]  
 
-[Search](/search.html)  
-[All Pages](/all-pages.html)  
-[Recent Changes](/recent-pages.html)   
+
+
