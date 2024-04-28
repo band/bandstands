@@ -28,3 +28,11 @@ From https://github.com/Massive-Wiki/massivewikibuilder
 Submodule path '.massivewikibuilder/massivewikibuilder': checked out        '575f4a852fc39e52d0d2fc52e794bb743648a845'
 
 ```
+2024-04-23: listing and downloading release assets
+```shell
+# List releases (optional)
+gh release list -R <username>/<repo>
+
+# Download assets from a specific release
+gh release download <tag> -D <destination_folder> -R <username>/<repo>
+```
