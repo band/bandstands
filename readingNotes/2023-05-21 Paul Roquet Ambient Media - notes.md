@@ -1,10 +1,7 @@
 # 2023-05-21 Paul Roquet Ambient Media - notes
 
-**Author**: Roquet, Paul
-**Title**: Ambient Media: *Japanese Atmospheres of Self*
-**Publisher**: University of Minnesota Press
-**Year**: 2016
-**Link**: <https://manifold.umn.edu/projects/ambient-media>
+APAvar: Roquet, Paul (2016). Ambient Media: *Japanese Atmospheres of Self*. University of Minnesota Press.  
+Link: <https://manifold.umn.edu/projects/ambient-media>
 
 
 ## Introduction  

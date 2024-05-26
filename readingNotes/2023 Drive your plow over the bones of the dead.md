@@ -1,11 +1,8 @@
 # 2023 Drive your plow over the bones of the dead
 
-**Author:**  Tokarczuk, Olga  
-*Translated by Antonia Lloyd-Jones*  
-**Title:**  Drive your plow over the bones of the dead    
-**Publisher:**  Riverhead Books    
-**Year:**  2009    
-**Link:**  <https://worldcat.org/en/title/1175678507>  
+APAvar: Tokarczuk, Olga (2009). _Drive your plow over the bones of the
+dead_ (Antonia Lloyd-Jones, Trans.). Riverhead Books.  
+Link:  <https://worldcat.org/en/title/1175678507>  
 
 Pages 29 -30:
 

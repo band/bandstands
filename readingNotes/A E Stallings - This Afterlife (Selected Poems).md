@@ -1,10 +1,7 @@
 # A E Stallings - This Afterlife (Selected Poems)
 
-**Author**: Stallings, A.E.  
-**Title**: This Afterlife: selected poems  
-**Publisher**: Farrar, Strauss and Giroux  
-**Year**: 2022  
-**Link**: <https://worldcat.org/en/title/1355023930>  
+APAvar: Stallings, A.E. (2022). This Afterlife: selected poems. Farrar, Strauss and Giroux.  
+Link: <https://worldcat.org/en/title/1355023930>  
 
 Page 27 (From Archaic Smile (1999)):
 

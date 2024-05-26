@@ -1,11 +1,8 @@
 # Leuf_2001_WikiWay
 
 
-**Author:**  Leuf, Bo and Cunningham, Ward    
-**Title:**  THE WIKI WAY: Quick Collaboration on the Web  
-**Publisher:**  Addison-Wesley  
-**Year:**  2001  
-**Link:**  <https://worldcat.org/en/title/606989912>  
+APAvar:  Leuf, Bo and Cunningham, Ward Year:  2001.  THE WIKI WAY: Quick Collaboration on the Web.  Addison-Wesley.  
+Link: <https://worldcat.org/en/title/606989912>  
 
 =====
 

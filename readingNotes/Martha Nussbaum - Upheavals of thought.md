@@ -1,11 +1,8 @@
 # Martha Nussbaum - Upheavals of thought
 
-**Author**: Martha Craven Nussbaum  
-**Title**: Upheavals of thought: the intelligence of emotions  
-**Publisher**: Cambridge Univ. Press  
-**Year**: 2007  
-**Link**: <https://worldcat.org/en/title/608664771>  
-**OpenAccess Link**: https://archive.org/details/upheavalsofthoug0000nuss_b4r8  
+APAvar: Martha Craven Nussbaum (2007). Upheavals of thought: the intelligence of emotions. Cambridge Univ. Press.  
+Link: <https://worldcat.org/en/title/608664771>  
+OpenAccess Link: https://archive.org/details/upheavalsofthoug0000nuss_b4r8  
 
 
 >[!info] 2023-11-12: these following excerpts need context and explanation

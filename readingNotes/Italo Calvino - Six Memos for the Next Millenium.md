@@ -1,10 +1,7 @@
 # 2019-11-15 Italo Calvino - Six Memos for the Next Millenium
 
-**Author:**  Calvino, Italo  
-**Title:**  Six Memos for the Next Millennium  
-**Publisher:** Mariner Books  
-**Year:**  2016  
-**Link:**  <https://worldcat.org/en/title/948668878>  
+APAvar: Calvino, Italo (2016). Six Memos for the Next Millennium. Mariner Books.  
+Link:  <https://worldcat.org/en/title/948668878>  
 
 ###  2 *Quickness*
 

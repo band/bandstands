@@ -1,10 +1,7 @@
 # H Segal - Intro to the work of Melanie Klein
 
-**Author:** Segal, Hanna  
-**Title:** Intoduction to the Work of Melanie Klein  
-**Publisher:** Basic Books  
-**Year:** 1973  
-**Link:** https://worldcat.org/en/title/949553719  
+APAvar: Segal, Hanna (1973). Intoduction to the Work of Melanie Klein. Basic Books.  
+Link: https://worldcat.org/en/title/949553719  
 
 page 35:
 > No experience in human development is ever cast aside or obliterated; we must remember that in the most normal individual there will be some situations which will stir up the earliest anxieties and bring into operation the earliest mechanisms of defence.

@@ -1,10 +1,7 @@
 # Charles Taylor - A Secular Age
 
-**Author**: Taylor, Charles  
-**Title**: A Secular Age  
-**Publisher**: Harvard University Press  
-**Year**: 2007  
-**Link**: <https://worldcat.org/en/title/427544966>  
+APAvar: Taylor, Charles (2007). _A Secular Age_. Harvard University Press.  
+Link: <https://worldcat.org/en/title/427544966>  
 
 ```bibtex
 @book{Taylor2007,

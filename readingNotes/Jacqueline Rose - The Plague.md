@@ -1,10 +1,7 @@
 # Jacqueline Rose - The Plague  
 
-**Author**: Rose, Jacqueline  
-**Title**: The Plague: Living Death in Our Times  
-**Publisher**: Farrar, Strauss and Giroux 
-**Year**: 2023  
-**Link**: <https://worldcat.org/en/title/1374903661>  
+APAvar: Rose, Jacqueline (2023). The Plague: Living Death in Our Times. Farrar, Strauss and Giroux.  
+Link: <https://worldcat.org/en/title/1374903661>  
 
 page 5:  
 > In the thought of Simone Weil, it is only in admitting the limits of the human that we will stop vaunting the brute illusion of earthly power, as if we owned the world we live in.  

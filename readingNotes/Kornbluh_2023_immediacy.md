@@ -1,11 +1,8 @@
 # Kornbluh 2023 Immediacy
  - excerpts
 
-**Author**: Kornbluh, Anna  
-**Title**: Immediacy, or The style of too-late capitalism  
-**Publisher**: Verso, London  
-**Year**: 2023  
-**Link**: https://search.worldcat.org/en/title/1371585302  
+APAvar: Kornbluh, Anna (2023). Immediacy, or The style of too-late capitalism. Verso, London.  
+Link: https://search.worldcat.org/en/title/1371585302  
 
 
 -----

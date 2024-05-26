@@ -1,10 +1,7 @@
 # Mary Midgley - Science As Salvation  
 
-**Author**: Midgley, Mary  
-**Title**: Science As Salvation: A Modern Myth and its Meaning  
-**Publisher**: Routledge  
-**Year**: 1992  
-**Link**:  <https://worldcat.org/en/title/24430307>  
+APAvar: Midgley, Mary (1992). Science As Salvation: A Modern Myth and its Meaning. Routledge.  
+Link:  <https://worldcat.org/en/title/24430307>  
 
 pages 1-2:  
 > 1. **SALVATION AND THE ACADEMICS:-- SALVATION IS NO LONGER OFFICIAL**  

@@ -1,11 +1,7 @@
 # Peter Handke - Quiet Places - collected essays
 
-**Author:** Peter Handke  
-	Translated from the German by Krishna Winston and Ralph Manheim  
-**Title:** Quiet Places - Collected Essays
-**Publisher:** Farrar, Strauss and Giroux
-**Year:** 2022
-**Link:** <https://worldcat.org/en/title/1281795254>
+APAvar: Peter Handke (2022). Quiet Places - Collected Essays (Krishna Winston and Ralph Manheim, Trans.). Farrar, Strauss and Giroux.  
+Link: <https://worldcat.org/en/title/1281795254>
 
 Page 37 (Essay on Quiet Places):
 

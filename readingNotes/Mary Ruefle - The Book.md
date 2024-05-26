@@ -1,16 +1,12 @@
 # Mary Ruefle - The Book
-
-**Author**: Mary Ruefle  
-**Title**: The Book  
-**Publisher**: Wave Books  
-**Year**: 2023  
-**Link**: https://www.wavepoetry.com/products/the-book   
-
+ 
+APAvar: Ruefle, Mary (2023). _The Book_. Wave Books
+Link: https://www.wavepoetry.com/products/the-book   
 
 Epigraph:  
-> They're gone now. It makes me sad to think about it.  
+> _They're gone now. It makes me sad to think about it.  
 > Feeling old, for no reason at all  
-> I picked a bit of mint from the ditch.   
+> I picked a bit of mint from the ditch._   
    - Francis Jammes
 
 page 8:  **Nettles**  

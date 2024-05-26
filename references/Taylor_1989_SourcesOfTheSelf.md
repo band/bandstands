@@ -1,16 +1,9 @@
 # 2022-10-06 Charles Taylor: Sources of the Self: The making of modern identity
 
-SOURCES OF THE SELF
-The Making of the Modern Identity
+APAvar: Taylor, Charles (1989). Source of the self. Harvard University Press  
+Link: <https://search.worldcat.org/en/title/18948520>  
 
-CHARLES TAYLOR
-
-HARVARD UNIVERSITY PRESS
-Cambridge, Massachusetts
-Copyright © 1989 by Charles Taylor
-All rights reserved
-Printed in the United States of America
-Tenth printing, 2001
+SOURCES OF THE SELF: The Making of the Modern Identity
 
 Library of Congress Cataloging-in-Publication Data
 Taylor, Charles, 1931

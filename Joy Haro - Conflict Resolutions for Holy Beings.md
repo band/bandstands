@@ -1,8 +1,9 @@
 # Joy Haro - Conflict Resolutions for Holy Beings
 
+APAvar: Joy Haro (2015). Conflict Resolutions for Holy Beings. W.W. Norton & Company  
+Link: <https://openlibrary.org/works/OL20007918W/Conflict_resolution_for_holy_beings>
 
-From Joy Haro, Conflict Resolutions for Holy Beings ([https://worldcat.org/en/title/1125172714](https://worldcat.org/en/title/1125172714?fbclid=IwAR2CZcnYLGT1X27HmM_7n3k6V_DegO8by4SyUNRGkIGd3UIuLcHaNkNI-hQ)), page 74:  
-
+page 74:  
 
 *We all have helpers in seen and unseen realms.  
 Give them something to do.  

@@ -1,11 +1,8 @@
 # 2022 The Dawn of Everything highlighted sections and passages
 
 (Bill Anderson's idiosyncratic selected underlinings and highlights)  
-
-**Authors**: David Graeber and David Wengrow  
-**Title:** The Dawn of Everything: A new history of humanity  
-**Publisher:**  Farrar, Straus and Giroux  
-**Year:** 2021  
+ 
+APAvar: Graeber, David & Wengrow, David (2021). _The Dawn of Everything: A new history of humanity_. Farrar, Straus and Giroux  
 **Link:**   <https://worldcat.org/en/title/1289231491>  
 
 ### Chapter 1 Farewell to Humanity's Childhood

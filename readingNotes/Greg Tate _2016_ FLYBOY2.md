@@ -1,11 +1,8 @@
 # Greg Tate _2016_ FLYBOY2
 
 
-**Author:**  Tate, Greg  
-**Title:**  FLYBOY2 The Greg Tate Reader  
-**Publisher:**  Duke University Press  
-**Year:**  2016
-**Link:**  <https://worldcat.org/en/title/934705645>  
+APAvar:  Tate, Greg Year:  2016.  FLYBOY2 The Greg Tate Reader.  Duke University Press.  
+Link: <https://worldcat.org/en/title/934705645>  
 
 
 Pages 4-5:

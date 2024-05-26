@@ -1,10 +1,7 @@
 # Goldstein - 36 Arguments for the Existence of God: A Work of Fiction
 
-**Author:** Goldstein, Rebecca  
-**Title:** 36 Arguments for the Existence of God: A Work of Fiction  
-**Year:** 2020  
-**Publisher:** Pantheon Books  
-**Link:** (https://worldcat.org/en/title/665138629)  
+APAvar: Goldstein, Rebecca (2020). 36 Arguments for the Existence of God: A Work of Fiction. Pantheon Books.  
+Link: (https://worldcat.org/en/title/665138629)  
 
 pages 347 - 399  
 

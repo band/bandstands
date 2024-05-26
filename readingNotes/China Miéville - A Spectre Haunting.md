@@ -1,10 +1,7 @@
 # China Miéville - A Spectre Haunting
 
-**Author**: Miéville, China  
-**Title**: A Spectre Haunting: on The Communist Manifesto  
-**Publisher**: Haymarket Books  
-**Year**: 2022  
-**Link**: <https://worldcat.org/en/title/1331706453>  
+APAvar: Miéville, China (2022). A Spectre Haunting: on The Communist Manifesto. Haymarket Books.  
+Link: <https://worldcat.org/en/title/1331706453>  
 
 
 Epigraph:  

@@ -1,5 +1,7 @@
 #### Notes from Janet Malcolm essays in "Nobody's Looking at You"
-(Farrar, Straus, and Giroux, NY, 2019, ISBN: 9780374279493)
+
+APAvar: Janet Malcolm (2019). Nobody's Looking at You. Farrar, Straus, and Giroux.  
+ISBN: 9780374279493  
 
 p. 211 (from the essay "The Master Writer of the City")
 

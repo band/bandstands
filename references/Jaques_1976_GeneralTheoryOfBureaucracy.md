@@ -1,7 +1,9 @@
 # Jaques 1976 GeneralTheoryOfBureaucracy
 
-Jaques, Elliiot, *A General Theory of Bureaucracy*, Heinemann, ISBN 0-435-82478-3.
-<http://www.worldcat.org/oclc/48905354>
+APAvar: Jaques, Elliiot (1976). A General Theory of  Bureaucracy. Heinemann.
+ISBN: 0-435-82478-3  
+Link: <https://openlibrary.org/works/OL2672538W/A_general_theory_of_bureaucracy>  
+
 
 ## Prolegomenon: Metamorphosis of Bureaucracy and the Question of Values (pp. 1-2)
  
