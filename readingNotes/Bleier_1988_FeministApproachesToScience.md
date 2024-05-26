@@ -42,19 +42,19 @@ Susan E. Searing
 Index 196
 
 # Chapter 5
-## Primatology Is Politics by Other Means*
+## Primatology Is Politics by Other Means[^1]
  - Donna Haraway
 
 Rouse ye, my people, shake off torpor, impeach the dread boss monkey and
-reconstruct the Happy Family.**
+reconstruct the Happy Family.[^2]
 
 -----
-*This chapter has been edited from Donna Haraway's article, "Primatology Is Politics
+[^1] This chapter has been edited from Donna Haraway's article, "Primatology Is Politics
 by Other Means," Philosophy of Science Association 1984 (Vol. 2). East Lansing, MI:
 Philosophy of Science Association. Copyright 1984 by The Philosophy of Science
-Association. Used with permission.
-**Mark Twain (March 5, 1867). Barnum's First Speech in Congress. New York
-Evening Express, as quoted in Harris (1973, 190-191).
+Association. Used with permission.  
+[^2] Mark Twain (March 5, 1867). Barnum's First Speech in Congress. New York Evening Express, as quoted in Harris (1973, 190-191).
+
 -----
 
 ### INTRODUCTION: SCIENCE AND STORYTELLING
