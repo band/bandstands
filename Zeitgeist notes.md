@@ -58,10 +58,9 @@ There is a limit to how much we can psychically tolerate. This remains the funda
 from [[Shoshana Zuboff Surveillance Capitalism notes]] p. 336 in the print edition:  
 > \[Carl\] Friedrich was among the first scholars of totalitarianism to address this experience of improbability, writing in 1954 that "virtually no one before 1914 anticipated the course of development which has overtaken Western civilization since then... none of the outstanding scholars in history, law, and the social sciences discerned what was ahead... which culminated in totalitarianism. To this failure to foresee corresponds a difficulty in comprehending."  
 
-
-
-
-
+2024-06-14: I am still thinking about the current nihilistic times by re-reading Wendy Brown [[Wendy Brown - Nihilstic Times]], and today this excerpt from Christopher Lasch came to mind again:  
+from [[2023-05-14 Notes on Gnosticism]]:  
+ > If the gnostic impulse finds expression in our time -- in the scientific dream of solving the mysteries of the universe, in New Age spirituality, more generally in a mood of extremity and existential nostalgia -- it is because we too, like so many who lived in the fading glow of the Hellenistic civilization, have lost confidence in the world around us. ...  
 
 
 
