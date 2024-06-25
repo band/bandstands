@@ -2,7 +2,7 @@
 
 
 APAvar: Vince, Gaia (2022). _Nomad Century: How climate migration will reshape our world_. Flatiron Books.  
-**Link:**  <https://worldcat.org/en/title/1340645450>  
+Link:  <https://worldcat.org/en/title/1340645450>  
 
 ## _Introduction_
 

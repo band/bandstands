@@ -7,7 +7,7 @@
 Reference lists and bibliographies  
 A reference list (aka "Bibliography" or "Works Cited," depending on the style) is where you provide full information on each of the sources you've cited in the text. It appears at the end of your paper, usually with a hanging indent applied to each entry.  
 The information included in reference entries is broadly similar, whatever citation style you're
-using. For each source, you'll typically include the:  
+using. For each source, you will typically include the:  
 • Author name  
 • Title  
 • Publication date  
@@ -23,3 +23,7 @@ also varies.
 2024-05-26:
 - settled on an APA variation:  
 - APAvar: Author name (YEAR). Title. Publisher. / Link:  
+
+2024-06-15:  
+ - APA format not so easy to parse once there are edited books, etc.  
+ - At least the year seems to be always "(YEAR)", so possible to gather everything before that into some kind of author string.  
