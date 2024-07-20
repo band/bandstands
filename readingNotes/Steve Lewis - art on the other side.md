@@ -2,8 +2,7 @@
 
 ART ON THE OTHER SIDE: A SONNET
 
-“The hope is that if you live through it, there will be art on the other side,”
-
+“The hope is that if you live through it, there will be art on the other side,”  
 —Louise Glück
 
 	When we learn there is no art on this side of the river,
