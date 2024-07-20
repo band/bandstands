@@ -1,8 +1,7 @@
 # A Ritual to Read to Each Other  
 By William Stafford
 
-```text
-
+```
 If you don't know the kind of person I am
 and I don't know the kind of person you are
 a pattern that others made may prevail in the
