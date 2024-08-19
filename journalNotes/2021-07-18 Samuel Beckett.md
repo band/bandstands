@@ -2,8 +2,7 @@
 created: 2021-07-18T17:09:20-05:00
 modified: 2021-07-18T17:10:30-05:00
 ---
-
-# 2021-07-18-17 Samuel Beckett
+# 2021-07-18 Samuel Beckett
 
 @chowleen: 
 

@@ -1,6 +1,7 @@
 ---
 created: 2021-07-13T21:25:37-05:00
 ---
+# 2021-07-13 Tom Nichols  
 
 Tom Nichols (@RadioFreeTom): I am going to take issue with this @nytdavidbrooks piece because I think Brooks, and many others, are missing a crucial piece of the puzzle in the "death of truth" and the "unwinding of demcracy problem. Thread follows. /1
 
