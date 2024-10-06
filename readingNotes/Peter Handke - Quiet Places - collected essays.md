@@ -9,7 +9,7 @@ Page 37 (Essay on Quiet Places):
 
 Page 61 (Essay on a Mushroom Maniac):
 
-> ... In any case, every time he dashed away from his house and the village, crossing meadows, pastures, and cultivated fields, and headed uphill through the last of the orchards to the edge of the woods in order to "listen in" to all the sounds the leaves made -- the edge of the woods consisted mostly of folliage trees -- he did so and undertook that in the awareness of, or, your might say, the illusory belief in, a higher calling.
+> ... In any case, every time he dashed away from his house and the village, crossing meadows, pastures, and cultivated fields, and headed uphill through the last of the orchards to the edge of the woods in order to "listen in" to all the sounds the leaves made -- the edge of the woods consisted mostly of foliage trees -- he did so and undertook that in the awareness of, or, your might say, the illusory belief in, a higher calling.
 
 Page 118 (Essay on a Mushroom Maniac):
 

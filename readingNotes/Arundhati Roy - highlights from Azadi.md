@@ -1,6 +1,6 @@
-# Arundhati Roy - highlights from ‘Azadi’
+# Arundhati Roy - is fascism a kind of feeling
 
-APvar: Arundhati Roy (2020). AZADI: Freedom. Fascism. Fiction.. Haymarket Books.  
+APAvar: Arundhati Roy (2020). AZADI: Freedom. Fascism. Fiction.. Haymarket Books.  
 Link: <https://search.worldcat.org/en/title/1144105003>  
 
 THE GRAVEYARD TALKS BACK, pp. 157-159

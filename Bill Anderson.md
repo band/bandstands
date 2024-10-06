@@ -1,21 +1,21 @@
 ---
-emails: 
+emails:
   - band@acm.org
   - wlanderson@gmail.com
 full-name: William L Anderson
-organizations: 
-  - "Collective Sense Commons"
-  - "Open Global Mind"
-  - "Cloud Appreciation Society"
+organizations:
+  - Collective Sense Commons
+  - Open Global Mind
+  - Cloud Appreciation Society
 phones:
   - +1-512-693-7378
 short-name: Bill
-sortable-name: "Anderson, Bill"
-fediverse: "@band@octodon.social"
-discord: "anderbill"
+sortable-name: Anderson, Bill
+fediverse: "@band@hachyderm.io"
+discord: anderbill
 twitter (deprecated): "@band"
-urls: 
-  - "https://about.me/wlanderson/"
+urls:
+  - https://about.me/wlanderson/
 ---
 # Bill Anderson
 
@@ -41,7 +41,7 @@ Initials: "WLA"
 Basic landing page: https://about.me/wlanderson
 
 Socials:  
- - Mastodon: https://octodon.social/@band  
+ - Mastodon: https://hachyderm.io/@band  
  - Matrix: @anderbill:matrix.org  
  - Discord: anderbill  
  - Twitter (DEPRECATED): [@band](https://twitter.com/band)  
