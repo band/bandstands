@@ -7,9 +7,10 @@ Reading an interview with Olga Tokarczuk in The Paris Review Spring 2023 issue (
 
 -----
 Excerpt from Christopher Lasch 1992 essay: Gnosticism, Ancient and Modern: The Religion of the Future?  
-Source: Salmagundi, No. 96 (Fall 1992), pp. 27-42  
-Published by: Skidmore College  
-Stable URL: http://www.jstor.org/stable/40548388  
+
+APA: Lasch, C. (1992). Gnosticism, ancient and modern: The religion of the future? Salmagundi, (96), 27-42. Skidmore College.
+Link: [http://www.jstor.org/stable/40548388](http://www.jstor.org/stable/40548388)
+
 Page 40:  
 > If the gnostic impulse finds expression in our time -- in the scientific dream of solving the mysteries of the universe, in New Age spirituality, more generally in a mood of extremity and existential nostalgia -- it is because we too, like so many who lived in the fading glow of the Hellenistic civilization, have lost confidence in the world around us. ...  
 > Civic life is swallowed up by the market; buying and selling become the only activities we have in common.  ...  
