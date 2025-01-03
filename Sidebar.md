@@ -1,9 +1,18 @@
-# Site Navigation
+### Site Navigation
 
-[[README|Home]]  
-[Search](/search.html)  
-[All Pages](/all-pages.html)  
-[Recent Changes](/recent-pages.html)   
+{< div class="navlinks" >}
+- [[README|HOME]]
+- [SEARCH](/search.html)  
+- [ALL PAGES](/all-pages.html)  
+- [RECENT CHANGES](/recent-pages.html)
+{< /div >}
+
+{< div class="navlinks" >}
+  <button onclick="location.href=`${randomPageLink()}`">
+    RANDOM PAGE
+  </button>
+{< /div >}
+
 #### Selected Content
 
 [[journalNotes|Journal-like notes]]  
@@ -14,6 +23,4 @@
 [[Jiddu Krishnamurti on Truth]]  
 
 [[drawingBoard|the Drawing Board]]  
-
-
 
