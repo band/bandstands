@@ -62,7 +62,8 @@ from [[Shoshana Zuboff Surveillance Capitalism notes]] p. 336 in the print editi
 from [[2023-05-14 Notes on Gnosticism]]:  
  > If the gnostic impulse finds expression in our time -- in the scientific dream of solving the mysteries of the universe, in New Age spirituality, more generally in a mood of extremity and existential nostalgia -- it is because we too, like so many who lived in the fading glow of the Hellenistic civilization, have lost confidence in the world around us. ...  
 
-2024-08-18: In early 1994 Marina Warner delivered the prestigious Reith Lectures for the BBC. [[Marina Warner - Six Myths of Our Time]] . These lectures are 20 years old, and they still provide me insights into how I experience our current society and culture. The ways that myth inform my own thinking I find informative and instructive, in a "finally got the news" way. I will be thinking with Marina Warner as I read these lectures.  
+2024-08-18: In early 1994 Marina Warner delivered the prestigious Reith Lectures for the BBC. [[Marina Warner - Six Myths of Our Time]] . These lectures are 20 years old, and they still provide me insights into how I experience our current society and culture. The ways that myth inform my own thinking I find informative and instructive, in a "finally got the news" way. I will be thinking with Marina Warner as I read these lectures. 
+
 2024-10-06: with all that is going on in the world, this post from a few years ago, seems appropriate for today: [[2021-07-02 not angry enough]]  
 
 
