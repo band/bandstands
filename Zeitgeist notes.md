@@ -66,6 +66,9 @@ from [[2023-05-14 Notes on Gnosticism]]:
 
 2024-10-06: with all that is going on in the world, this post from a few years ago, seems appropriate for today: [[2021-07-02 not angry enough]]  
 
+2025-01-26: improving the scientific imaginary: [[David Byrne - The world is a song]]  
+
+
 
 
 
