@@ -9,7 +9,7 @@ pages 3 - 4:
 > One of the main claims of this book is that privacy is valuable not because it empowers us to exercise control over our information, but because it protects against the creation of such information in the first place.  
 
 
-page 121:  (describing howh)
+page 121:  
 >  ... \[Jorge Luis\] Borge's story \["Funes, El Memorioso"\] has become a touchstone for understanding the value of forgetting to human life.  
 >  ... The widespread acceptance and repetition of the story as expressing a truth about our capacities for memory and forgetting has made it a myth or a fable of our time. It has become, in other words, the kind of truth, not about what really happened or is actually possible, but about what people at a certain time and place find valuable.  
 
