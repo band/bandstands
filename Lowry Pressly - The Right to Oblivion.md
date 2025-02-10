@@ -4,7 +4,7 @@ APAvar.: Lowry Pressly (2024). _The Right to Oblivion: Privacy and the Good Life
 Link: https://search.worldcat.org/en/title/1427708093  
 
 pages 3 - 4:  
-> Contemporary debates over privacy re blinkered by an unreflective tendency to understand everything in terms of "the information age," under whose ideological sway so much of contemporary life takes place.  
+> Contemporary debates over privacy are blinkered by an unreflective tendency to understand everything in terms of "the information age," under whose ideological sway so much of contemporary life takes place.  
 > ... we are correct to think that we have, or ought to have, moral and legal rights to exercise control control over such information .... But we are mistaken to think that this is what _privacy_ is for.  
 > One of the main claims of this book is that privacy is valuable not because it empowers us to exercise control over our information, but because it protects against the creation of such information in the first place.  
 
