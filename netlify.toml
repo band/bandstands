@@ -5,4 +5,4 @@
   command = "markpub build -i .. -o ./output --lunr --commits"
 
 [build.environment]
-  PYTHON_VERSION = "3.8"
+  PYTHON_VERSION = "3.12"
