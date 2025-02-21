@@ -1,3 +1,6 @@
+---
+bluesky_comments_post: https://bsky.app/profile/anderbill.bsky.social/post/3lipv4nlp2s2c
+---
 # Lowry Pressly - The Right to Oblivion
 
 APAvar.: Lowry Pressly (2024). _The Right to Oblivion: Privacy and the Good Life_. Harvard University Press.  
