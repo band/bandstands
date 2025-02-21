@@ -1,6 +1,6 @@
 # Lowry Pressly - The Right to Oblivion
 
-APAvar.: Lowry Pressly (2024). _The Right to Oblivion: Privacy and the Good Life_. Harvard University Press.
+APAvar.: Lowry Pressly (2024). _The Right to Oblivion: Privacy and the Good Life_. Harvard University Press.  
 Link: https://search.worldcat.org/en/title/1427708093  
 
 pages 3 - 4:  
