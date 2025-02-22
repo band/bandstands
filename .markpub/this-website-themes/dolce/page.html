@@ -44,21 +44,25 @@
     {
 	"imports": {
 	    "react": "https://esm.sh/react@18",
-	    "react-dom": "https://esm.sh/react-dom@18"
+	    "react-dom/client": "https://esm.sh/react-dom@18"
 	}
     }
   </script>
   <script type="module">
-    import BlueskyComments from 'https://unpkg.com/bluesky-comments@0.5.1/dist/bluesky-comments.es.js';
-    document.addEventListener('DOMContentLoaded', function() {
-	const uri = '{{bluesky_comments_post}}';
-	if (uri) {
-	    BlueskyComments.init('bluesky-comments', {uri});
-	}
-    });
+    import { createElement } from 'react'
+    import { createRoot } from 'react-dom/client'
+    import { BlueskyComments } from 'https://unpkg.com/bluesky-comments@0.9.0/dist/bluesky-comments.es.js'
+
+    const uri = '{{bluesky_comments_post}}'
+    const container = document.getElementById('bluesky-comments')
+    const root = createRoot(container)
+    root.render(
+	createElement(BlueskyComments, {
+	    "uri": uri,
+	})
+    )
   </script>
   {% endif %}
   {% include '_footer.html' %}
-  <script src="https://hypothes.is/embed.js" async></script>
 </body>
 </html>
