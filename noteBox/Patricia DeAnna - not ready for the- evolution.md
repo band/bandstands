@@ -1,11 +1,11 @@
-# Patricia DeAnna - not ready for the- evolution
+# Patricia DeAnna - not ready for the revolution
 
 patriciadeanna  
 Y'all aren't ready for this revolution-and that's the problem. Protests alone won't win. Power isn't granted, it's built.  
 The right played the long game. The left waited. If you're not thinking long-term, you're just making noise.  
 Swipe through. Let's talk strategy.  #PowerlsBuilt  
 
-Link: https://www.threads.net/@patriciadeanna/post/DHOOx3lpaVA?xmt=AQGz3312wv2ZgMMT4-GGL5IzBh_P2jQtOhKIcegBtmzDlA  
+Link: https://www.threads.net/@patriciadeanna/post/DHOOx3lpaVA    
 
 I Need You to Hear Me When I Say This ...
 Because I say it with love and conviction:
