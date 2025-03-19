@@ -1,11 +1,10 @@
 # Patricia DeAnna - not ready for the revolution
 
-patriciadeanna  
 Y'all aren't ready for this revolution—and that's the problem. Protests alone won't win. Power isn't granted, it's built.  
 The right played the long game. The left waited. If you're not thinking long-term, you're just making noise.  
 Swipe through. Let's talk strategy.  #PowerlsBuilt  
 
-Link: https://www.threads.net/@patriciadeanna/post/DHOOx3lpaVA    
+Link: <https://www.threads.net/@patriciadeanna/post/DHOOx3lpaVA>    
 
 I Need You to Hear Me When I Say This ...
 Because I say it with love and conviction:
@@ -56,7 +55,7 @@ There's an obsession with rage, resistance, and "burning it all down" —  but w
 You are not fighting for chaos--you are fighting for something better. If you
 don't know what that is, you will not win.  
 
-### 6 - You don't understand how important influence is-or how to wield it.  
+### 6 - You don't understand how important influence is--or how to wield it.  
 Power isn't just taken. It's built. It's cultivated. It's wielded strategically.  
 - Influence moves people faster than outrage.  
 - Culture shifts before laws do.  
