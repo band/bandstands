@@ -10,7 +10,7 @@ Civile di Roma (n. 426 del 28/10/2004)– www.funzionegamma.it
 
 The paper will be presented in three sections. In section 1 a working hypothesis about transition will be formulated. In section 2 illustrative material will be presented for analysis and in section 3 the social function of dreaming in transformation will be discussed.
 
-### Key words: dreaming, myth, soail dreaming, tansformation
+### Key words: dreaming, myth, social dreaming, tansformation
 
 ### Section 1: The working hypothesis
 
