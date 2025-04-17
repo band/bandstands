@@ -1,0 +1,178 @@
+# Files in journalNotes
+
+- [[2023-05-14 Notes on Gnosticism]] *(11/29/2024, 3:04:30 PM)*
+- [[2021-08-19-07 The Ides of August]] *(8/18/2024, 7:42:27 AM)*
+- [[journalNotes]] *(8/18/2024, 7:42:20 AM)*
+- [[journalNotes-index]] *(8/18/2024, 7:42:20 AM)*
+- [[2021-07-22 the education of children]] *(8/18/2024, 7:41:51 AM)*
+- [[2021-07-18 Samuel Beckett]] *(8/18/2024, 7:40:33 AM)*
+- [[2021-07-13 Tom Nichols]] *(8/18/2024, 7:39:30 AM)*
+- [[2021-07-12 Naruda - understanding ourselves]] *(8/18/2024, 7:38:36 AM)*
+- [[2021-07-12  maps]] *(8/18/2024, 7:37:59 AM)*
+- [[2021-07-02 not angry enough]] *(8/18/2024, 7:36:03 AM)*
+- [[A.R. Moxon - What is a socialist]] *(5/28/2024, 4:09:44 PM)*
+- [[2024-02-27 WLA-notesOnGhoshApocalypse]] *(3/15/2024, 7:34:42 AM)*
+- [[2024-03-10 Ken Homer - NYT Manifesting]] *(3/15/2024, 7:23:46 AM)*
+- [[Amitav Ghosh - Intimations of apocalypse]] *(3/12/2024, 9:15:49 AM)*
+- [[2023-11-24 my first AI social dream]] *(11/29/2023, 10:42:54 AM)*
+- [[2023-11-28-gabriel_export - on paths]] *(11/20/2023, 2:51:21 PM)*
+- [[2023-07-23 Ken Homer - An Indigenous Viewpoint]] *(10/22/2023, 4:31:44 PM)*
+- [[2023-09 consciousness theory in the science news]] *(10/2/2023, 11:06:18 AM)*
+- [[2023-10-02 Emily Bender post note]] *(10/2/2023, 11:03:54 AM)*
+- [[2023-09-24 Peter Hotez]] *(9/24/2023, 2:49:03 PM)*
+- [[OTM-2023-091-5 NaomiKlein doppelganger]] *(9/17/2023, 1:55:40 PM)*
+- [[2023-09-16 Bandy Lee - psychic contagion]] *(9/16/2023, 3:18:18 PM)*
+- [[Parul Seghal - jacqueline-rose-puts-the-world-on-the-couch]] *(8/18/2023, 2:07:21 PM)*
+- [[2023-07-30 Driftless Bioregional Foundation]] *(7/30/2023, 4:08:44 PM)*
+- [[H Farrell Debt- 4102 days later]] *(7/8/2023, 4:32:41 PM)*
+- [[2023-07-06 J Park graph database observation]] *(7/6/2023, 11:04:33 AM)*
+- [[2023-06-19  i might be wrong]] *(6/20/2023, 7:25:02 AM)*
+- [[2023-06-17 Philip Pullman on poetry]] *(6/17/2023, 4:31:59 PM)*
+- [[2023-06-14 A simple web-interface for document Q&A]] *(6/14/2023, 4:05:26 PM)*
+- [[2021-07-25-21 ZeroWrites on eugenics]] *(2/19/2023, 4:23:30 PM)*
+- [[2022-02-14 Cory Doctorow - DSHR on cryptocurrency and blockchain]] *(2/19/2023, 2:51:09 PM)*
+- [[2023-02-02 Dennis Hamilton on modus ponens]] *(2/6/2023, 7:18:56 AM)*
+- [[2023-01-24 chapGPT and the scientifc worldview]] *(1/24/2023, 11:28:39 AM)*
+- [[2022-10-01 systems and elements]] *(1/12/2023, 7:31:28 AM)*
+- [[2023-01-11 philosophy note]] *(1/11/2023, 9:42:04 AM)*
+- [[2022-12-31 a few musings about the year]] *(1/1/2023, 7:28:30 AM)*
+- [[2022-12-24 Bob Wachter covid practical actions]] *(12/31/2022, 1:41:00 PM)*
+- [[2022-12-26 Timothy Snyder J6 report findings summary]] *(12/30/2022, 3:24:36 PM)*
+- [[2022-12-30 Martha Lincoln on Emma Green New Yorker essay]] *(12/30/2022, 3:23:57 PM)*
+- [[2022-12-22 Stefan Rahmstorf]] *(12/30/2022, 3:19:41 PM)*
+- [[2022-12-18 osmosis]] *(12/19/2022, 11:37:36 AM)*
+- [[2022-12-16 Trail Marks - web frontier]] *(12/16/2022, 10:16:25 AM)*
+- [[2022-01-11 Dr Angela Rasmussen - is SARS-CoV-2 endemic]] *(12/12/2022, 2:17:36 PM)*
+- [[2022-12-09 David Roberts - moral tribal membership]] *(12/10/2022, 2:23:00 PM)*
+- [[2022-12-03 Yoon Kim]] *(12/10/2022, 1:52:29 PM)*
+- [[2022-12-23 Elizabeth Kolbert - Climate change A to Z]] *(11/24/2022, 7:17:59 AM)*
+- [[2022-11-14 Dr Vive - climate change a present threat]] *(11/15/2022, 11:07:40 AM)*
+- [[2022-10-26-09-19]] *(10/26/2022, 9:19:12 AM)*
+- [[2022-06-22-22 Andrew Akbashev changes in academia]] *(10/23/2022, 9:35:04 AM)*
+- [[2022-10-22 S Bear Bergman - wanting mutual aid]] *(10/23/2022, 9:17:59 AM)*
+- [[2022-02-12 Ana Mardoll - the past is not coming back]] *(10/23/2022, 9:15:33 AM)*
+- [[2022-10-23 Dr Vive - the nature of change]] *(10/23/2022, 9:10:37 AM)*
+- [[2022-10-21 Prof Julia - Bruno Latour]] *(10/22/2022, 7:42:20 AM)*
+- [[2022-10-20 Yvonne Lam - power relations and infrastructure]] *(10/22/2022, 7:40:20 AM)*
+- [[2022-09-23 William Stafford - Be Ready]] *(10/16/2022, 1:43:52 PM)*
+- [[2022-10-14 Kate Mackenzie - political econ of everything]] *(10/16/2022, 1:29:57 PM)*
+- [[2022-10-16 Beth Sawin - ordinary actions]] *(10/16/2022, 1:29:33 PM)*
+- [[2021-10-04 Brian Klass Authoritarianism tipping points]] *(10/16/2022, 9:00:23 AM)*
+- [[2021-04-22 Earth day thoughts]] *(10/16/2022, 8:55:25 AM)*
+- [[2022-10-10 Jean Russell - hot chocolate-y savoring pragmatism]] *(10/11/2022, 7:48:45 AM)*
+- [[2021-10-13 PolicyTensor on working class ethos]] *(10/11/2022, 7:42:57 AM)*
+- [[2021-08-13 Lauren Berlant on Writing Light]] *(10/11/2022, 7:39:39 AM)*
+- [[2022-10-09 Franny Gaede - text analysis at DLF]] *(10/9/2022, 2:06:42 PM)*
+- [[2022-10-06 Against Algebra]] *(10/7/2022, 10:16:49 AM)*
+- [[2022-09-27 Matt K Parker untangle hierarchy from dominance]] *(10/5/2022, 10:02:42 AM)*
+- [[2022-10-04 Adrienne Rich - without tenderness]] *(10/5/2022, 10:00:57 AM)*
+- [[2022-10-04 Dr Karen Stenner - Transactional Organized Crime]] *(10/5/2022, 9:40:13 AM)*
+- [[2022-10-03 Dr Kate Ozment - favorite part about ungrading]] *(10/5/2022, 9:36:05 AM)*
+- [[2022-09-08 Olúfẹ́mi O. Táíwò - complicity a bogus moral framework]] *(9/30/2022, 3:31:40 PM)*
+- [[2022-09-04 Irthu Suresh - let us rebuild from our mistakes]] *(9/30/2022, 3:31:33 PM)*
+- [[2022-09-03 dj franzia hip-hop a case study in why black capitalism sucks]] *(9/30/2022, 3:31:22 PM)*
+- [[2022-08-28 Jay Rosen When in doubt, draw a distinction]] *(9/30/2022, 3:31:01 PM)*
+- [[2022-08-26 Stephen Barlow - permanent system change]] *(9/30/2022, 3:30:54 PM)*
+- [[2022-08-26 Sachiko Ishikawa]] *(9/30/2022, 3:30:45 PM)*
+- [[2022-08-26 Eric Reinhart evidence and ethics]] *(9/30/2022, 3:30:39 PM)*
+- [[2022-08-13 DrVive on moving to a planetary systems view]] *(9/30/2022, 3:30:30 PM)*
+- [[2022-08-09 Sarah Levins on the future of journalism]] *(9/30/2022, 3:30:13 PM)*
+- [[2022-08-08 Teri Kanefield on the purpose of government]] *(9/30/2022, 3:30:07 PM)*
+- [[2022-08-07 Jack Clark one spicy take about AI policy]] *(9/30/2022, 3:29:58 PM)*
+- [[2022-08-07 Eric Reinhart community and safety demand healthcare]] *(9/30/2022, 3:29:26 PM)*
+- [[2022-08-03 Elbridge Colby on China and American econ interest and sovereignty]] *(9/30/2022, 3:29:10 PM)*
+- [[2022-08-02 DrVive a planetary ecosystem is not an externality]] *(9/30/2022, 3:28:57 PM)*
+- [[2022-07-31 Tweet of the day]] *(9/30/2022, 3:28:47 PM)*
+- [[2022-07-31 Albert Pinto Project Drawdown and climate solutions]] *(9/30/2022, 3:28:39 PM)*
+- [[2022-07-24 Ted Fertik post-mortem on Democrats' abject failure]] *(9/30/2022, 3:28:17 PM)*
+- [[2022-07-23 Katie Mack capitalism and personal workaholism]] *(9/30/2022, 3:28:04 PM)*
+- [[2022-07-12-09 Emily (@the_aiju) art is not dead]] *(9/30/2022, 3:27:34 PM)*
+- [[2022-07-10 Covid is airborne]] *(9/30/2022, 3:27:28 PM)*
+- [[2022-04-23-11-24 ad-hoc]] *(9/30/2022, 3:26:23 PM)*
+- [[2021-06-30-07 healing the climate]] *(9/30/2022, 3:24:06 PM)*
+- [[2021-06-27-17 Pacific-NW heat wave]] *(9/30/2022, 3:23:57 PM)*
+- [[2021-06-27-09 auctioning spectrum]] *(9/30/2022, 3:23:50 PM)*
+- [[2021-05-03-14-27 musing]] *(9/30/2022, 3:23:09 PM)*
+- [[2021-02-14 US political parties]] *(9/30/2022, 3:22:40 PM)*
+- [[2022-09-29 Katharina Pistor on monetary and financial sector stability policy]] *(9/29/2022, 7:57:24 AM)*
+- [[2022-09-27 Marge Piercy]] *(9/27/2022, 4:35:19 PM)*
+- [[2022-08-22 Neologism of the day_ Properganda]] *(9/11/2022, 10:08:03 AM)*
+- [[2022-08-12 Mary Ruefle]] *(9/11/2022, 9:53:50 AM)*
+- [[2022-08-31 Jonathan Foley - Twitter exchange on climate optimism]] *(9/11/2022, 9:50:35 AM)*
+- [[2022-09-04 Dr Norlaine Thomas some talk about Anglo-Saxons]] *(9/11/2022, 9:49:08 AM)*
+- [[2022-09-02 Kashif Pirzada, MD advice on Covid-SARS2]] *(9/4/2022, 4:36:31 PM)*
+- [[2021-11-01 Wallace-Wells on Graeber and Wengrow]] *(9/3/2022, 8:48:39 AM)*
+- [[2022-08-30 Cheryl Rofer - thoughts on Gorbachev]] *(9/2/2022, 11:12:44 AM)*
+- [[2022-08-28 Michael Bang Petersen - to stop misinfo in a crisis]] *(8/30/2022, 3:39:45 PM)*
+- [[2022-08-26 darryl li - debts of imperialism]] *(8/30/2022, 3:35:03 PM)*
+- [[2022-07-21 Madi Hilly nuclear waste is not a problem]] *(8/14/2022, 5:02:47 PM)*
+- [[2022-08-02 Asha Rangappa Valdis Krebs mapping the scenes of the crimes]] *(8/14/2022, 4:50:35 PM)*
+- [[2022-08-02 Elizabeth McCracken on ectopic pregnancy and abortion laws]] *(8/14/2022, 4:49:03 PM)*
+- [[2022-08-04 Krugman and Hickel on degrowth]] *(8/14/2022, 4:44:18 PM)*
+- [[2022-08-05 Thomas Zimmer on the Forward Party]] *(8/14/2022, 4:42:58 PM)*
+- [[2022-08-10 Michael Ross Learning about climate politics from the IRA]] *(8/14/2022, 10:32:04 AM)*
+- [[2022-07-16 David Roberts talking about conservatism]] *(7/20/2022, 2:13:31 PM)*
+- [[2022-07-15 Lisa Rokusek - when conversations get political]] *(7/20/2022, 2:03:24 PM)*
+- [[2022-07-19 orcmid call notes]] *(7/19/2022, 2:21:46 PM)*
+- [[eco-modernism defense (wtfit)]] *(7/17/2022, 1:22:33 PM)*
+- [[2022-07-15 the right and the left]] *(7/16/2022, 3:31:56 PM)*
+- [[2022-07-14 Jamelle Bouie the Republican ideal]] *(7/14/2022, 9:15:40 AM)*
+- [[2021-07-01-16 Wallace-Wells on reducing fossil fuel use]] *(7/11/2022, 7:20:11 AM)*
+- [[2021-04-29 a search for reclamation]] *(7/11/2022, 7:15:23 AM)*
+- [[2021-03-19-14-40]] *(7/11/2022, 7:13:55 AM)*
+- [[2021-03-17-09-08]] *(7/11/2022, 7:13:29 AM)*
+- [[2021-05-25 - a world of tropes]] *(7/11/2022, 7:11:59 AM)*
+- [[2021-04-07 notes on Distill hiatus]] *(7/11/2022, 7:10:30 AM)*
+- [[2022-06-14 Linda Tirado I think I would like to talk about fear]] *(7/10/2022, 2:02:18 PM)*
+- [[2022-05-30 Anil Dash broken centrist Democrat rhetoric]] *(7/10/2022, 2:01:08 PM)*
+- [[2022-06-06 Michael Mann ethics and rules of climate tinkering]] *(7/10/2022, 1:59:11 PM)*
+- [[2022-06-15 Blythe Gryphon thought control is already here]] *(7/10/2022, 1:56:02 PM)*
+- [[2022-06-26 Kevin Anderson IPCC WG3 scenarios]] *(7/10/2022, 1:49:58 PM)*
+- [[2022-06-27 OlufemiOTaiwo fight inflation with surplus]] *(7/10/2022, 1:48:24 PM)*
+- [[Marshall Steinbaum history of public land agencies]] *(7/10/2022, 1:42:54 PM)*
+- [[2022-07-01 Prof Julia Steinberger climate and ecology crises thoughts]] *(7/10/2022, 1:39:05 PM)*
+- [[2021-07-16-10 Virginia Dignum Humans and AI]] *(7/9/2022, 2:38:21 PM)*
+- [[2022-06-27 Molly Jong-Fast Stop giving republicans the benefit of the doubt]] *(7/9/2022, 11:43:54 AM)*
+- [[2022-07-06-20 Jesse Stommel Pedagogy begins with small gestures]] *(7/9/2022, 11:41:35 AM)*
+- [[2022-06-26 Imani Barbarin get to know your community]] *(7/9/2022, 11:40:20 AM)*
+- [[2022-07-06-21 David Hogg on mass terrorism in the USA]] *(7/9/2022, 11:37:38 AM)*
+- [[2022-07-09-08 Meghan McNulty on Indoor Air Quality]] *(7/9/2022, 11:35:14 AM)*
+- [[2022-07-09-08 Thomas Zimmer on American liberal elite]] *(7/9/2022, 11:34:30 AM)*
+- [[2022-06-05 @DoctorVive on 2.7 degC]] *(6/9/2022, 10:58:05 AM)*
+- [[2022-05-28 Jason Hickel capitalism and democracy]] *(5/28/2022, 3:12:48 PM)*
+- [[2022-04-26 Beth Sawin designing change to withstand shocks]] *(4/26/2022, 7:37:28 AM)*
+- [[2022-01-31 Rabbi Danya Ruttenberg The only way forward must include all of us]] *(4/20/2022, 4:20:27 PM)*
+- [[2021-10-12 Eugenio Montale]] *(4/20/2022, 4:19:22 PM)*
+- [[2022-03-10-10 Jessica Wildfire Putin has already won]] *(3/10/2022, 10:50:39 AM)*
+- [[2022-03-02-07-39 remarks]] *(3/4/2022, 2:33:24 PM)*
+- [[2022-02-19 brief thoughts]] *(2/19/2022, 1:31:20 PM)*
+- [[2022-01-22 JMikolay Thread - writing well without getting stuck]] *(1/25/2022, 11:53:30 AM)*
+- [[2021-09-19 Adrienne Rich In those years]] *(11/25/2021, 10:11:18 PM)*
+- [[2021-09-17-13-32 moral case for guaranteed income]] *(11/25/2021, 3:17:55 PM)*
+- [[2021-09-02-13-39 Beth Sawin on multisolving]] *(11/25/2021, 3:17:35 PM)*
+- [[2021-11-25 Donna Thomson A Truer Thanksgiving Story]] *(11/25/2021, 2:50:12 PM)*
+- [[2021-10-31 Lord of the Flies free associations]] *(11/25/2021, 11:58:00 AM)*
+- [[2021-10-03 Aria Aber Mysticism]] *(10/14/2021, 2:11:25 PM)*
+- [[2021-10-10 Twenty years of Republican rule in Texas]] *(10/14/2021, 2:06:49 PM)*
+- [[2021-09-13 Mass hysteria by digby]] *(10/1/2021, 3:28:23 PM)*
+- [[2021-09-23 Alexey Navalny big tech as Putin accomplices]] *(9/25/2021, 4:15:40 PM)*
+- [[2021-09-11-21-07-54 Stillness as discernment practice]] *(9/14/2021, 9:30:23 PM)*
+- [[2021-08-20 And the mountains echoed]] *(8/25/2021, 4:01:29 PM)*
+- [[2021-08-07-17-47-34 Preparing for the report]] *(8/11/2021, 3:52:26 PM)*
+- [[2021-08-10 Mood This is not hot girl summer]] *(8/11/2021, 3:11:31 PM)*
+- [[2021-08-03 A Ghosh on Dan Sherell Warmth]] *(8/3/2021, 9:44:10 AM)*
+- [[2021-07-26-17-24-25 Alain de Botton one has to laugh]] *(7/28/2021, 4:22:40 PM)*
+- [[2021-07-03 the thread is lost]] *(7/28/2021, 3:56:33 PM)*
+- [[2021-07-19-20-50-45 Rilke on the colour blue]] *(7/28/2021, 3:06:49 PM)*
+- [[2021-07-27 Glennon Doyle raising a boy]] *(7/28/2021, 10:01:07 AM)*
+- [[2021-07-19-17-51-45 critical race theory]] *(7/25/2021, 3:59:32 PM)*
+- [[2021-07-23-17-43-27 pandemic collective action]] *(7/25/2021, 3:53:32 PM)*
+- [[2021-07-24-21-20-36 we need chief sociologists]] *(7/25/2021, 3:52:30 PM)*
+- [[2021-07-11-21-19-11 Eric Holthaus on Death Valley temperatures]] *(7/19/2021, 10:40:07 AM)*
+- [[2021-07-19-09-06 simsa04 on climate and recent floods in Germany]] *(7/19/2021, 10:26:20 AM)*
+- [[2021-07-03-21-46-41 Andrew Dessler wet bulb temp and human life]] *(7/13/2021, 3:20:17 PM)*
+- [[2021-06-26-14-56-42]] *(6/30/2021, 2:55:31 PM)*
+- [[2021-06-06 Our nationalistic future]] *(6/6/2021, 2:11:33 PM)*
+- [[2021-03-28 David Swedlow]] *(5/9/2021, 1:30:34 PM)*
+
+*This list contains 174 files and was last updated on 4/17/2025, 2:24:45 PM*

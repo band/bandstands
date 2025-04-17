@@ -1,0 +1,94 @@
+# Files in readingNotes
+
+- [[Italo Calvino - Six Memos for the Next Millenium]] *(3/9/2025, 7:35:12 AM)*
+- [[Marina Warner - Six Myths of Our Time]] *(3/9/2025, 7:24:28 AM)*
+- [[#Marina Warner - Six myths of our time]] *(3/9/2025, 7:05:36 AM)*
+- [[Margalit - Ethics of Memory]] *(2/21/2025, 3:48:37 PM)*
+- [[2025-02-16-JasonHickel-thread]] *(2/16/2025, 2:02:37 PM)*
+- [[David Byrne - The world is a song]] *(1/26/2025, 10:44:24 AM)*
+- [[Gerald Murnane - avoiding writing]] *(1/2/2025, 4:41:54 PM)*
+- [[Collapse of Western Civilization - Oreskes and Conway]] *(1/2/2025, 9:13:46 AM)*
+- [[Langdon Winner - Autonomous Technology]] *(12/16/2024, 7:32:24 AM)*
+- [[Gurdjieff - intervals in life]] *(11/19/2024, 7:38:23 AM)*
+- [[Mary Ruefle - The Book]] *(10/16/2024, 11:13:52 AM)*
+- [[Peter Cornell - The Ways of Paradise]] *(10/6/2024, 1:21:14 PM)*
+- [[Jonathan Rosen - The Talmud and The Internet]] *(9/30/2024, 10:48:12 AM)*
+- [[Mary Midgley - Science As Salvation]] *(9/29/2024, 10:19:19 PM)*
+- [[Peter Handke - Quiet Places - collected essays]] *(9/29/2024, 3:45:59 PM)*
+- [[Arundhati Roy - highlights from Azadi]] *(8/28/2024, 12:58:49 PM)*
+- [[Martha Gellhorn - politics is everything]] *(8/5/2024, 3:31:27 PM)*
+- [[Stafford A-Ritual-to-Read-to-Each-Other]] *(7/20/2024, 1:48:17 PM)*
+- [[Steve Lewis - art on the other side]] *(7/20/2024, 1:45:48 PM)*
+- [[2022 Nomad Century notes]] *(7/19/2024, 9:09:53 AM)*
+- [[Douglass Carmichael - the loss of Christianity]] *(7/17/2024, 1:54:11 PM)*
+- [[Jacqueline Rose - The Plague]] *(7/7/2024, 3:56:10 PM)*
+- [[KateSoper-Post-growth-living]] *(6/30/2024, 11:16:59 AM)*
+- [[Devall and Sessions  - Deep Ecology]] *(6/13/2024, 10:23:49 AM)*
+- [[Bleier_1988_FeministApproachesToScience]] *(5/26/2024, 4:06:25 PM)*
+- [[Essays on the work of Charles Taylor]] *(5/26/2024, 1:18:51 PM)*
+- [[Oreskes and Conway - The Big Myth]] *(5/26/2024, 11:23:31 AM)*
+- [[Nobody's Looking at You notes]] *(5/26/2024, 11:23:12 AM)*
+- [[Martha Nussbaum - Upheavals of thought]] *(5/26/2024, 11:21:07 AM)*
+- [[Lewis Hyde - Remembered Forgotten]] *(5/26/2024, 11:20:43 AM)*
+- [[Kornbluh_2023_immediacy]] *(5/26/2024, 11:19:01 AM)*
+- [[H Segal - Intro to the work of Melanie Klein]] *(5/26/2024, 11:17:34 AM)*
+- [[Greg Tate _2016_ FLYBOY2]] *(5/26/2024, 11:17:10 AM)*
+- [[Goldstein - 36 Arguments]] *(5/26/2024, 11:16:40 AM)*
+- [[Gabriel García Márquez - the Master of Magic Realism]] *(5/26/2024, 11:16:00 AM)*
+- [[From An Essay on Waiting]] *(5/26/2024, 11:14:29 AM)*
+- [[Doris Lessing - on education]] *(5/26/2024, 11:13:59 AM)*
+- [[China Miéville - A Spectre Haunting]] *(5/26/2024, 11:13:30 AM)*
+- [[Charles Taylor - A Secular Age]] *(5/26/2024, 11:13:10 AM)*
+- [[Berlant and Stewart - The Hundreds]] *(5/26/2024, 11:12:18 AM)*
+- [[Amy Leach - Things That Are]] *(5/26/2024, 11:04:57 AM)*
+- [[Amitav Ghosh The Great Derangement]] *(5/26/2024, 11:04:32 AM)*
+- [[Albert Camus - Neither Victims nor Executioners]] *(5/26/2024, 11:03:27 AM)*
+- [[A E Stallings - This Afterlife (Selected Poems)]] *(5/26/2024, 11:02:58 AM)*
+- [[2023-05-21 Paul Roquet Ambient Media - notes]] *(5/26/2024, 11:02:32 AM)*
+- [[2023 Drive your plow over the bones of the dead]] *(5/26/2024, 11:01:47 AM)*
+- [[Mattei - The Capital Order]] *(5/26/2024, 10:46:22 AM)*
+- [[Melanie Klein & Critical Social Theory]] *(5/24/2024, 7:52:49 AM)*
+- [[Mary Ruefle - On Imagination]] *(5/24/2024, 7:49:26 AM)*
+- [[C A Bayly The Birth of the Modern World 1780-1914]] *(5/23/2024, 4:09:12 PM)*
+- [[2022 Dawn of Everything notes]] *(5/23/2024, 4:08:16 PM)*
+- [[2023-03-02 Jo Freeman - Tyranny of structurelessness]] *(5/12/2024, 1:49:00 PM)*
+- [[2023-08-28 Timothy Garton Ash - decline of the Russian empire]] *(4/3/2024, 11:45:43 AM)*
+- [[readingNotes]] *(3/15/2024, 7:30:14 AM)*
+- [[Shoshana Zuboff Surveillance Capitalism notes]] *(3/15/2024, 7:29:49 AM)*
+- [[Ruth Ben-Ghiat Strongmen - Mussolini to the Present]] *(12/19/2023, 9:40:18 AM)*
+- [[Larry Hirschhorn 2021 Extending the Tavistock Model - notes]] *(12/2/2023, 2:13:02 PM)*
+- [[Wendy Brown - Nihilstic Times]] *(11/24/2023, 1:19:15 PM)*
+- [[Hannah Arendt on the post-truth presidency]] *(11/1/2023, 3:56:44 PM)*
+- [[Graeber and Grubacic anarchist critique of liberal state]] *(11/1/2023, 3:54:12 PM)*
+- [[DW Winnicott - Discussion of War Aims]] *(11/1/2023, 3:52:24 PM)*
+- [[Temple Grandin - Against Algebra]] *(11/1/2023, 3:39:48 PM)*
+- [[Whittaker-Suchman_2021_Myth_Artifical_Intelligence]] *(9/20/2023, 10:40:10 AM)*
+- [[Wuhan Diary notes]] *(9/9/2023, 12:29:15 PM)*
+- [[Jonathan Taplin The End of Reality - excerpts]] *(8/28/2023, 10:15:56 AM)*
+- [[Schabas_2005_NaturalOriginsEconomics]] *(8/5/2023, 8:57:39 AM)*
+- [[essentialMaryMidgley]] *(7/23/2023, 2:52:12 PM)*
+- [[Einstein and Infeld on Physical Concepts]] *(7/22/2023, 1:27:44 PM)*
+- [[Peter Newton 1973 The Work Group Within the Organization - excerpts]] *(7/19/2023, 12:32:19 PM)*
+- [[Sartre - on Anti-Semitism]] *(7/6/2023, 1:56:52 PM)*
+- [[Steiner_1991_ParanoidAndDepressivePositions]] *(4/11/2023, 10:12:55 AM)*
+- [[2022-11-29 Maurice Mitchell - Building Resilient Organizations]] *(3/2/2023, 4:38:14 PM)*
+- [[DecentSocial-2023-Session-2-(Americas)-Room-S-Notes]] *(2/13/2023, 7:39:11 AM)*
+- [[2023-01-27 Small Kindnesses]] *(1/27/2023, 2:20:52 PM)*
+- [[2023-01-26 Greenhouse Victimhood and Vengeance]] *(1/26/2023, 3:08:57 PM)*
+- [[2023-01-19-ZMEScience What Is Conflict Theory]] *(1/24/2023, 2:53:14 PM)*
+- [[Stacey - 1996 - complexityInOrganizations]] *(11/16/2022, 4:12:36 PM)*
+- [[Notes on learning and instructional design]] *(10/27/2022, 1:47:22 PM)*
+- [[Zerlina Maxwell The End of White Politics Notes]] *(10/2/2022, 10:03:24 AM)*
+- [[Khilnani_2022_theBritishEmpireWasMuchWorse]] *(8/14/2022, 10:26:29 AM)*
+- [[Jiddu Krishnamurti on Truth]] *(7/9/2022, 2:16:43 PM)*
+- [[James Krantz 2010 Social Defenses and 21st Century Organizations]] *(7/8/2022, 9:50:14 AM)*
+- [[Alastair Bain 1998 Social Defense Against Org Learning]] *(7/7/2022, 3:43:16 PM)*
+- [[2022-06-16 Rasheedah Phillips PLACING TIME, TIMING SPACE]] *(6/16/2022, 10:31:43 AM)*
+- [[2022-06-04 Heather Cox Richardson]] *(6/5/2022, 7:43:06 AM)*
+- [[Paul Mason 2021 The Future is Over]] *(4/22/2022, 7:44:43 AM)*
+- [[Tolstoy_1908_ALetterToAHindu]] *(4/2/2022, 11:03:25 AM)*
+- [[Bruno Schulz - The Book]] *(2/13/2022, 4:22:17 PM)*
+- [[Donna Thompson - ancient dreams]] *(5/15/2021, 3:56:10 PM)*
+- [[Michael Kinnucan - Texas power market structure]] *(2/26/2021, 12:59:54 PM)*
+
+*This list contains 90 files and was last updated on 4/17/2025, 2:24:57 PM*

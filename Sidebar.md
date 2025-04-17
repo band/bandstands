@@ -15,8 +15,8 @@
 
 #### Selected Content
 
-[[journalNotes|Journal-like notes]]  
-[[readingNotes|Reading notes]]  
+[[journalNotes/folderIndex|Journal-like notes]]    
+[[readingNotes/folderIndex|Reading notes]]  
 [[Zeitgeist notes]]  
 
 [[Einstein and Infeld on Physical Concepts]]  
