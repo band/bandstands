@@ -14,9 +14,9 @@
 {< /div >}
 
 #### Selected Content
-
-[[journalNotes/folderIndex|Journal-like notes]]    
-[[readingNotes/folderIndex|Reading notes]]  
+   
+[[idx-journalNotes|Journal-like notes]]  
+[[idx-readingNotes|Reading notes]]  
 [[Zeitgeist notes]]  
 
 [[Einstein and Infeld on Physical Concepts]]  
