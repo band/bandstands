@@ -2,7 +2,6 @@
 
 - [[Italo Calvino - Six Memos for the Next Millenium]] *(3/9/2025, 7:35:12 AM)*
 - [[Marina Warner - Six Myths of Our Time]] *(3/9/2025, 7:24:28 AM)*
-- [[#Marina Warner - Six myths of our time]] *(3/9/2025, 7:05:36 AM)*
 - [[Margalit - Ethics of Memory]] *(2/21/2025, 3:48:37 PM)*
 - [[2025-02-16-JasonHickel-thread]] *(2/16/2025, 2:02:37 PM)*
 - [[David Byrne - The world is a song]] *(1/26/2025, 10:44:24 AM)*
@@ -91,4 +90,4 @@
 - [[Donna Thompson - ancient dreams]] *(5/15/2021, 3:56:10 PM)*
 - [[Michael Kinnucan - Texas power market structure]] *(2/26/2021, 12:59:54 PM)*
 
-*This list contains 90 files and was last updated on 4/17/2025, 3:39:05 PM*
+*This list contains 89 files and was last updated on 4/17/2025, 3:47:44 PM*
