@@ -1,5 +1,6 @@
 # Files in readingNotes
 
+- [[Peter Cornell - The Ways of Paradise]] *(4/18/2025, 4:02:01 PM)*
 - [[Italo Calvino - Six Memos for the Next Millenium]] *(3/9/2025, 7:35:12 AM)*
 - [[Marina Warner - Six Myths of Our Time]] *(3/9/2025, 7:24:28 AM)*
 - [[Margalit - Ethics of Memory]] *(2/21/2025, 3:48:37 PM)*
@@ -10,7 +11,6 @@
 - [[Langdon Winner - Autonomous Technology]] *(12/16/2024, 7:32:24 AM)*
 - [[Gurdjieff - intervals in life]] *(11/19/2024, 7:38:23 AM)*
 - [[Mary Ruefle - The Book]] *(10/16/2024, 11:13:52 AM)*
-- [[Peter Cornell - The Ways of Paradise]] *(10/6/2024, 1:21:14 PM)*
 - [[Jonathan Rosen - The Talmud and The Internet]] *(9/30/2024, 10:48:12 AM)*
 - [[Mary Midgley - Science As Salvation]] *(9/29/2024, 10:19:19 PM)*
 - [[Peter Handke - Quiet Places - collected essays]] *(9/29/2024, 3:45:59 PM)*
@@ -90,4 +90,4 @@
 - [[Donna Thompson - ancient dreams]] *(5/15/2021, 3:56:10 PM)*
 - [[Michael Kinnucan - Texas power market structure]] *(2/26/2021, 12:59:54 PM)*
 
-*This list contains 89 files and was last updated on 4/18/2025, 9:52:47 AM*
+*This list contains 89 files and was last updated on 4/18/2025, 4:02:04 PM*

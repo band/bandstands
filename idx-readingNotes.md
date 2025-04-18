@@ -1,2 +1,0 @@
-# Idx-readingNotes
-
