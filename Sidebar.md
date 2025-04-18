@@ -15,8 +15,8 @@
 
 #### Selected Content
    
-[[idx-journalNotes|Journal-like notes]]  
-[[idx-readingNotes|Reading notes]]  
+[[ndx-journalNotes|Journal-like notes]]  
+[[ndx-readingNotes|Reading notes]]  
 [[Zeitgeist notes]]  
 
 [[Einstein and Infeld on Physical Concepts]]  

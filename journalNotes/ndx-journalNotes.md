@@ -2,8 +2,6 @@
 
 - [[2023-05-14 Notes on Gnosticism]] *(11/29/2024, 3:04:30 PM)*
 - [[2021-08-19-07 The Ides of August]] *(8/18/2024, 7:42:27 AM)*
-- [[journalNotes]] *(8/18/2024, 7:42:20 AM)*
-- [[journalNotes-index]] *(8/18/2024, 7:42:20 AM)*
 - [[2021-07-22 the education of children]] *(8/18/2024, 7:41:51 AM)*
 - [[2021-07-18 Samuel Beckett]] *(8/18/2024, 7:40:33 AM)*
 - [[2021-07-13 Tom Nichols]] *(8/18/2024, 7:39:30 AM)*
@@ -175,4 +173,4 @@
 - [[2021-06-06 Our nationalistic future]] *(6/6/2021, 2:11:33 PM)*
 - [[2021-03-28 David Swedlow]] *(5/9/2021, 1:30:34 PM)*
 
-*This list contains 174 files and was last updated on 4/17/2025, 3:47:44 PM*
+*This list contains 172 files and was last updated on 4/18/2025, 9:52:11 AM*
