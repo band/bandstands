@@ -10,11 +10,11 @@ Civile di Roma (n. 426 del 28/10/2004)– www.funzionegamma.it
 
 The paper will be presented in three sections. In section 1 a working hypothesis about transition will be formulated. In section 2 illustrative material will be presented for analysis and in section 3 the social function of dreaming in transformation will be discussed.
 
-### Key words: dreaming, myth, social dreaming, tansformation
+### Key words: dreaming, myth, social dreaming, transformation
 
 ### Section 1: The working hypothesis
 
-During times of social migration, especially if it is experienced as a migratory imperative, a occupation with identity develops. A general sense of mistrust and incohesion (Hopper, 1996) is experienced. Transformation is typified with a social feelings of being distanced, isolated and of spectatorship (as if the social is an object).  This brings to the fore a ‘constellational’ dynamic during which members are becoming aware of their relatedness and affiliation within organizational and institutional structures. There is also an overbearing concern by management to control process and structure manifesting into ‘strategy-as-dream’. It is proposed that the constellational dynamic has a discernible manifestation in both the organization and institution and that is helpful to differentiate the two.
+During times of social migration, especially if it is experienced as a migratory imperative, an occupation with identity develops. A general sense of mistrust and incohesion (Hopper, 1996) is experienced. Transformation is typified with a social feelings of being distanced, isolated and of spectatorship (as if the social is an object).  This brings to the fore a ‘constellational’ dynamic during which members are becoming aware of their relatedness and affiliation within organizational and institutional structures. There is also an overbearing concern by management to control process and structure manifesting into ‘strategy-as-dream’. It is proposed that the constellational dynamic has a discernible manifestation in both the organization and institution and that is helpful to differentiate the two.
 
 This is a personalised and dreamlike exposition. I have taken my position seriously in the sense that I carry something of the ‘outsider position’. I only have to remind you of the reference to the ‘Third World’ and what that might represent. I have assumed that we are all very attentive to the psychological significance of being spectator and being observed. It is this visual quality of both the dream and our thinking that has made this paper possible.
 
