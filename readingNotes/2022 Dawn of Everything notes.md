@@ -81,7 +81,7 @@ Page 86:
 
 > ... (Christopher Boehm) argues that while humans do have an instinctual tendency to engage in dominance-submissive behavior, no doubt inherited from our simian ancestors, what makes societies distinctively human is our ability to make the conscious decision *not* to act that way.
 
-> This, he concludes, is the essence of politics: the ability to reflect consciously on different directions one's society could take, and to make explicit arguments why it should take one path rather than another. In this sense, once could say Aristotle was right when he described human beings as 'political animaals' -- since this is precisely what other primates never do, at least not to our knowledge.
+> This, he concludes, is the essence of politics: the ability to reflect consciously on different directions one's society could take, and to make explicit arguments why it should take one path rather than another. In this sense, once could say Aristotle was right when he described human beings as 'political animals' -- since this is precisely what other primates never do, at least not to our knowledge.
 
 Page 111:
 

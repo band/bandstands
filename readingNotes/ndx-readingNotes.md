@@ -1,5 +1,6 @@
 # Files in readingNotes
 
+- [[2022 Dawn of Everything notes]] *(5/5/2025, 2:13:38 PM)*
 - [[Peter Cornell - The Ways of Paradise]] *(4/18/2025, 4:02:01 PM)*
 - [[Italo Calvino - Six Memos for the Next Millenium]] *(3/9/2025, 7:35:12 AM)*
 - [[Marina Warner - Six Myths of Our Time]] *(3/9/2025, 7:24:28 AM)*
@@ -49,7 +50,6 @@
 - [[Melanie Klein & Critical Social Theory]] *(5/24/2024, 7:52:49 AM)*
 - [[Mary Ruefle - On Imagination]] *(5/24/2024, 7:49:26 AM)*
 - [[C A Bayly The Birth of the Modern World 1780-1914]] *(5/23/2024, 4:09:12 PM)*
-- [[2022 Dawn of Everything notes]] *(5/23/2024, 4:08:16 PM)*
 - [[2023-03-02 Jo Freeman - Tyranny of structurelessness]] *(5/12/2024, 1:49:00 PM)*
 - [[2023-08-28 Timothy Garton Ash - decline of the Russian empire]] *(4/3/2024, 11:45:43 AM)*
 - [[readingNotes]] *(3/15/2024, 7:30:14 AM)*
@@ -90,4 +90,4 @@
 - [[Donna Thompson - ancient dreams]] *(5/15/2021, 3:56:10 PM)*
 - [[Michael Kinnucan - Texas power market structure]] *(2/26/2021, 12:59:54 PM)*
 
-*This list contains 89 files and was last updated on 4/20/2025, 12:19:34 PM*
+*This list contains 89 files and was last updated on 5/5/2025, 3:08:20 PM*
