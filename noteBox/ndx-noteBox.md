@@ -1,7 +1,7 @@
 # Files in noteBox
 
+- [[Al Has a Critical Flaw]] *(5/14/2025, 4:37:44 PM)*
 - [[2022-11-05 W.D.Greason counter-convergence]] *(5/12/2025, 5:01:25 PM)*
-- [[Al Has a Critical Flaw]] *(5/11/2025, 3:15:55 PM)*
 - [[Bayo Akomolafe - the new is not forward]] *(4/3/2025, 2:35:46 PM)*
 - [[2025-03-29 boredom is useful]] *(3/29/2025, 8:12:19 AM)*
 - [[2022-10-29 Zuboff - a public square is not owned by billionaires]] *(3/24/2025, 10:17:58 AM)*
@@ -167,4 +167,4 @@
 - [[2021-07-17-17-31-41]] *(7/18/2021, 2:56:15 PM)*
 - [[2021-07-12-07-38-35]] *(7/13/2021, 2:31:39 PM)*
 
-*This list contains 166 files and was last updated on 5/12/2025, 5:01:28 PM*
+*This list contains 166 files and was last updated on 5/15/2025, 4:50:27 PM*
