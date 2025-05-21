@@ -2,7 +2,7 @@
   ignore = "/bin/false"
   base = ".markpub"
   publish = "./output"
-  command = "markpub build -i .. -o ./output --lunr --commits"
+  command = "markpub build -i .. -o ./output -t ./this-website-themes/wla-dolce --lunr --commits"
 
 [build.environment]
   PYTHON_VERSION = "3.12"
