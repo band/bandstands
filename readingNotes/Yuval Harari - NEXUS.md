@@ -1,7 +1,7 @@
-# Yuval Harari - NEXUS
+# Yuval Harari - Nexus
 
 APAvar: Yuval Noah Harari (2024). _Nexus: A brief history of information networks from the Stone Age to AI._ Random House.  
-Link: LC ebook record available at https://1ccn.loc.gov/2024011714  
+Link: <https://www.penguinrandomhouse.com/books/762444/nexus-by-yuval-noah-harari/ebook/>    
 
 My review: Harari is concerned about the current adoption of new AI systems (LLMs and AGIs). He argues that information networks is a useful frame with which to examine the potential impacts on current human societies of AI system adoption. He examines other human information networks that have supported religion, education, governance in the past and the present. He comes down hard on institutions like religions and bureaucracies.  
 The excerpts below are what I underlined while reading (page numbers are from the ebook version I purchased). They are not a summary of his argument.  
