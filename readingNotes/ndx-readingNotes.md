@@ -1,5 +1,6 @@
 # Files in readingNotes
 
+- [[Yuval Harari - NEXUS]] *(5/21/2025, 9:24:56 AM)*
 - [[2022 Dawn of Everything notes]] *(5/5/2025, 2:13:38 PM)*
 - [[Peter Cornell - The Ways of Paradise]] *(4/18/2025, 4:02:01 PM)*
 - [[Italo Calvino - Six Memos for the Next Millenium]] *(3/9/2025, 7:35:12 AM)*
@@ -90,4 +91,4 @@
 - [[Donna Thompson - ancient dreams]] *(5/15/2021, 3:56:10 PM)*
 - [[Michael Kinnucan - Texas power market structure]] *(2/26/2021, 12:59:54 PM)*
 
-*This list contains 89 files and was last updated on 5/15/2025, 4:50:27 PM*
+*This list contains 90 files and was last updated on 5/21/2025, 9:24:59 AM*

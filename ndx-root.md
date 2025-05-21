@@ -21,6 +21,5 @@
 - [[2022-10-02 why folders or attributes]] *(1/12/2023, 3:21:58 PM)*
 - [[Akwaeke Emezi - revolutionary imagination]] *(9/30/2022, 3:57:24 PM)*
 - [[Decentralized organizations and social defenses - notes]] *(7/29/2022, 9:44:33 AM)*
-- [[404]] *(5/15/2021, 1:59:57 PM)*
 
-*This list contains 22 files and was last updated on 5/15/2025, 4:50:27 PM*
+*This list contains 21 files and was last updated on 5/21/2025, 8:37:24 AM*
