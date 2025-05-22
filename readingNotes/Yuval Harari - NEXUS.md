@@ -12,3 +12,16 @@ page 5:
 > ... The Phaethon myth and Goethe's poem fail to provide useful advice because they mis-construe the way humans gain power. ....  human power is never the outcome of individual initiative. Power always stems from cooperation between large numbers of humans.  
 > ... The main argument of this book is that humankind gains enormous power by building large networks of cooperation, but the way those networks are built predisposes us to use that power unwisely. Our problem, then, is a network problem.  
 
+page 8:  
+> ... the real hero of history has always been information, rather than Homo sapiens, and that scientists increasingly understand not just history but also biology, politics, and economics in terms of information flows. Animals, states, and markets are all information networks, absorbing data from the environment, making decisions, and releasing data back.  
+
+\[reducing everything to information does provide Harari a framework, but not an explanation of what "information" is (or even "history"?\]
+
+page 14:  
+> ... information has no essential link to truth. ... Its defining feature is connection rather than representation, and information is whatever connects different points into a network. Information doesn’t necessarily inform us about things. Rather, it puts things in formation.  
+
+page 15:  
+> Viewing information as a social nexus helps us understand many aspects of human history that confound the naive view of information as representation.
+
+
+
