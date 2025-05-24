@@ -1,6 +1,6 @@
 # Files in journalNotes
 
-- [[David Roberts - narratives all the way down]] *(5/23/2025, 1:14:24 PM)*
+- [[David Roberts - narratives all the way down]] *(5/24/2025, 12:25:49 PM)*
 - [[2023-05-14 Notes on Gnosticism]] *(11/29/2024, 3:04:30 PM)*
 - [[2021-08-19-07 The Ides of August]] *(8/18/2024, 7:42:27 AM)*
 - [[2021-07-22 the education of children]] *(8/18/2024, 7:41:51 AM)*
@@ -174,4 +174,4 @@
 - [[2021-06-06 Our nationalistic future]] *(6/6/2021, 2:11:33 PM)*
 - [[2021-03-28 David Swedlow]] *(5/9/2021, 1:30:34 PM)*
 
-*This list contains 173 files and was last updated on 5/23/2025, 1:14:51 PM*
+*This list contains 173 files and was last updated on 5/24/2025, 12:25:52 PM*
