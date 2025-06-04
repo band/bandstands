@@ -1,5 +1,6 @@
 # Files in readingNotes
 
+- [[From An Essay on Waiting]] *(6/3/2025, 10:17:24 AM)*
 - [[Yuval Harari - Nexus]] *(5/22/2025, 4:53:14 PM)*
 - [[2022 Dawn of Everything notes]] *(5/5/2025, 2:13:38 PM)*
 - [[Peter Cornell - The Ways of Paradise]] *(4/18/2025, 4:02:01 PM)*
@@ -36,7 +37,6 @@
 - [[Greg Tate _2016_ FLYBOY2]] *(5/26/2024, 11:17:10 AM)*
 - [[Goldstein - 36 Arguments]] *(5/26/2024, 11:16:40 AM)*
 - [[Gabriel García Márquez - the Master of Magic Realism]] *(5/26/2024, 11:16:00 AM)*
-- [[From An Essay on Waiting]] *(5/26/2024, 11:14:29 AM)*
 - [[Doris Lessing - on education]] *(5/26/2024, 11:13:59 AM)*
 - [[China Miéville - A Spectre Haunting]] *(5/26/2024, 11:13:30 AM)*
 - [[Charles Taylor - A Secular Age]] *(5/26/2024, 11:13:10 AM)*
@@ -91,4 +91,4 @@
 - [[Donna Thompson - ancient dreams]] *(5/15/2021, 3:56:10 PM)*
 - [[Michael Kinnucan - Texas power market structure]] *(2/26/2021, 12:59:54 PM)*
 
-*This list contains 90 files and was last updated on 5/22/2025, 4:53:17 PM*
+*This list contains 90 files and was last updated on 6/3/2025, 10:17:27 AM*

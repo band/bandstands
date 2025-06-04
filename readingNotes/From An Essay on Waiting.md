@@ -1,6 +1,6 @@
 # From An Essay on Waiting
 
-APAvar:  Köhler, Andrea Year:  2017.  Passing Time : an Essay on Waiting.  Upper West Side Philosophers.  
+APAvar:  Köhler, Andrea Year:  2017.  _Passing Time : an Essay on Waiting_.  Upper West Side Philosophers.  
 Link: <http://www.worldcat.org/oclc/1088317889>  
 
 I am reading "An Essay on Waiting" by Andrea Köhler, and in a section called "The Lagoon of Dreams", she writes:
