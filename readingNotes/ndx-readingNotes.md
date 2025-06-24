@@ -91,4 +91,4 @@
 - [[Donna Thompson - ancient dreams]] *(5/15/2021, 3:56:10 PM)*
 - [[Michael Kinnucan - Texas power market structure]] *(2/26/2021, 12:59:54 PM)*
 
-*This list contains 90 files and was last updated on 6/3/2025, 10:17:27 AM*
+*This list contains 90 files and was last updated on 6/19/2025, 5:03:18 PM*
