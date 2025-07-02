@@ -8,3 +8,7 @@ ber9ta : I steal time every morning
 > And you need to be."
 
 — Albert Camus, from "Notebooks, 1951-1959"
+
+
+(WLA 2025-06-26): I have been in a mood these past several months. Something about the "ways of the world" and "these uncertain times" and so on. It almost seems that every well-known and well-worn phrase, and aphorism, and ??? is amplified in every news commentary, analysis, and editorial. Whew! It's a lot! ...
+And then on June 19, this short excerpt from Albert Camus' "Notebooks, 1951-1959" showed up in my Threads social network stream.

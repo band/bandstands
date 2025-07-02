@@ -1,5 +1,6 @@
 # Files in readingNotes
 
+- [[Charles Taylor - A Secular Age]] *(7/2/2025, 8:34:16 AM)*
 - [[From An Essay on Waiting]] *(6/3/2025, 10:17:24 AM)*
 - [[Yuval Harari - Nexus]] *(5/22/2025, 4:53:14 PM)*
 - [[2022 Dawn of Everything notes]] *(5/5/2025, 2:13:38 PM)*
@@ -39,7 +40,6 @@
 - [[Gabriel García Márquez - the Master of Magic Realism]] *(5/26/2024, 11:16:00 AM)*
 - [[Doris Lessing - on education]] *(5/26/2024, 11:13:59 AM)*
 - [[China Miéville - A Spectre Haunting]] *(5/26/2024, 11:13:30 AM)*
-- [[Charles Taylor - A Secular Age]] *(5/26/2024, 11:13:10 AM)*
 - [[Berlant and Stewart - The Hundreds]] *(5/26/2024, 11:12:18 AM)*
 - [[Amy Leach - Things That Are]] *(5/26/2024, 11:04:57 AM)*
 - [[Amitav Ghosh The Great Derangement]] *(5/26/2024, 11:04:32 AM)*
@@ -91,4 +91,4 @@
 - [[Donna Thompson - ancient dreams]] *(5/15/2021, 3:56:10 PM)*
 - [[Michael Kinnucan - Texas power market structure]] *(2/26/2021, 12:59:54 PM)*
 
-*This list contains 90 files and was last updated on 6/19/2025, 5:03:18 PM*
+*This list contains 90 files and was last updated on 7/2/2025, 8:34:19 AM*
