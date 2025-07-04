@@ -11,4 +11,6 @@ ber9ta : I steal time every morning
 
 
 (WLA 2025-06-26): I have been in a mood these past several months. Something about the "ways of the world" and "these uncertain times" and so on. It almost seems that every well-known and well-worn phrase, and aphorism, and ??? is amplified in every news commentary, analysis, and editorial. Whew! It's a lot! ...
-And then on June 19, this short excerpt from Albert Camus' "Notebooks, 1951-1959" showed up in my Threads social network stream.
+And then on June 19, this short excerpt from Albert Camus' "Notebooks, 1951-1959" showed up in my Threads social network stream.  
+
+And speaking of mood there is this from Humans of New York: [[2025-07-03 Humans of New York]]  

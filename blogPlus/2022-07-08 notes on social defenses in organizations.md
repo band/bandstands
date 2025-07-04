@@ -22,4 +22,3 @@ How new structures and work methods will interact with individual’s anxieties 
 
 References:  
 1. Alford, C. Fred, Melanie Klein & Critical Social Theory, Yale Univ Press, 1989, ISBN 0-300-04506-9, p. 35
-2. 

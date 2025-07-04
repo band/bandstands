@@ -1,6 +1,7 @@
 # Files in journalNotes
 
-- [[2025-06-19-17 Camus - distinguish melancholy from sadness]] *(6/27/2025, 6:58:44 AM)*
+- [[2025-06-19-17 Camus - distinguish melancholy from sadness]] *(7/3/2025, 11:01:34 AM)*
+- [[2025-07-03 Humans of New York]] *(7/3/2025, 10:59:21 AM)*
 - [[David Roberts - narratives all the way down]] *(5/24/2025, 12:25:49 PM)*
 - [[2023-05-14 Notes on Gnosticism]] *(11/29/2024, 3:04:30 PM)*
 - [[2021-08-19-07 The Ides of August]] *(8/18/2024, 7:42:27 AM)*
@@ -175,4 +176,4 @@
 - [[2021-06-06 Our nationalistic future]] *(6/6/2021, 2:11:33 PM)*
 - [[2021-03-28 David Swedlow]] *(5/9/2021, 1:30:34 PM)*
 
-*This list contains 174 files and was last updated on 6/27/2025, 6:58:47 AM*
+*This list contains 175 files and was last updated on 7/3/2025, 11:01:37 AM*
