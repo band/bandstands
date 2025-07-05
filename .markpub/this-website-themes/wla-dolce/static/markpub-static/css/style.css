@@ -6,7 +6,6 @@ body {
   line-height: 1.6;
   line-height: 1.3;
   font-weight: 400;
-  font-family: Georgia, Times New Roman, serif;
   font-family: "Roboto", "Trebuchet MS", Arial, sans-serif;
   color: #333;
   background: #FEFEFE;
@@ -23,9 +22,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Media */
-img, video, iframe {
+img, video {
   max-width: 100%;
   height: auto;
+}
+
+iframe {
+  max-width: 100%;
 }
 
 /* Layout */
