@@ -1,5 +1,6 @@
 # Files in noteBox
 
+- [[elle armageddon - neither doomerism or toxicity]] *(7/6/2025, 9:52:17 AM)*
 - [[2025-06-26 what does freedom mean?]] *(6/26/2025, 7:58:51 AM)*
 - [[20250615 Tooze-chartbook]] *(6/19/2025, 5:29:36 PM)*
 - [[2025-05-25 Westenberg - web as infrastructure]] *(5/25/2025, 4:32:03 PM)*
@@ -170,4 +171,4 @@
 - [[2021-07-13-21-46-25]] *(7/18/2021, 2:56:15 PM)*
 - [[2021-07-12-07-38-35]] *(7/13/2021, 2:31:39 PM)*
 
-*This list contains 169 files and was last updated on 7/3/2025, 10:57:55 AM*
+*This list contains 170 files and was last updated on 7/6/2025, 9:52:20 AM*
