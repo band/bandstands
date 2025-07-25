@@ -1,4 +1,4 @@
-# 2025-06-19 Camus - a false attribution
+# 2025-06-19 Camus - a fabricated quote
 
 A `threads` gem from today: (N.B.: see WLA-2025-07-25 paragraph below)  
 

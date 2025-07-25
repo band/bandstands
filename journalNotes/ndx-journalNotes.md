@@ -1,6 +1,6 @@
 # Files in journalNotes
 
-- [[2025-06-19-17 Camus - a false attribution]] *(7/25/2025, 4:53:41 PM)*
+- [[2025-06-19-17 Camus - a fabricated quote]] *(7/25/2025, 5:05:37 PM)*
 - [[20250725-AdamTooze]] *(7/25/2025, 12:57:54 PM)*
 - [[2025-07-03 Humans of New York]] *(7/3/2025, 10:59:21 AM)*
 - [[David Roberts - narratives all the way down]] *(5/24/2025, 12:25:49 PM)*
@@ -177,4 +177,4 @@
 - [[2021-06-06 Our nationalistic future]] *(6/6/2021, 2:11:33 PM)*
 - [[2021-03-28 David Swedlow]] *(5/9/2021, 1:30:34 PM)*
 
-*This list contains 176 files and was last updated on 7/25/2025, 4:54:59 PM*
+*This list contains 176 files and was last updated on 7/25/2025, 5:05:46 PM*
