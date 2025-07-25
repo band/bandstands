@@ -1,5 +1,6 @@
 # Files in readingNotes
 
+- [[Camus - Notebooks 1951-1959]] *(7/25/2025, 4:14:40 PM)*
 - [[Michael Kinnucan - Texas power market structure]] *(7/4/2025, 10:23:32 AM)*
 - [[Charles Taylor - A Secular Age]] *(7/2/2025, 8:34:16 AM)*
 - [[From An Essay on Waiting]] *(6/3/2025, 10:17:24 AM)*
@@ -91,4 +92,4 @@
 - [[Bruno Schulz - The Book]] *(2/13/2022, 4:22:17 PM)*
 - [[Donna Thompson - ancient dreams]] *(5/15/2021, 3:56:10 PM)*
 
-*This list contains 90 files and was last updated on 7/4/2025, 10:23:35 AM*
+*This list contains 91 files and was last updated on 7/25/2025, 4:15:00 PM*
