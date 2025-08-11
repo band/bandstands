@@ -1,15 +1,15 @@
 # Files in readingNotes
 
+- [[Marina Warner - Six Myths of Our Time]] *(8/11/2025, 8:43:15 AM)*
+- [[From An Essay on Waiting]] *(8/11/2025, 8:43:07 AM)*
+- [[Margalit - Ethics of Memory]] *(8/11/2025, 8:42:56 AM)*
+- [[Italo Calvino - Six Memos for the Next Millenium]] *(8/11/2025, 8:42:30 AM)*
+- [[Peter Cornell - The Ways of Paradise]] *(8/11/2025, 8:41:11 AM)*
+- [[Charles Taylor - A Secular Age]] *(8/11/2025, 8:40:32 AM)*
 - [[Camus - Notebooks 1951-1959]] *(7/25/2025, 4:14:40 PM)*
 - [[Michael Kinnucan - Texas power market structure]] *(7/4/2025, 10:23:32 AM)*
-- [[Charles Taylor - A Secular Age]] *(7/2/2025, 8:34:16 AM)*
-- [[From An Essay on Waiting]] *(6/3/2025, 10:17:24 AM)*
 - [[Yuval Harari - Nexus]] *(5/22/2025, 4:53:14 PM)*
 - [[2022 Dawn of Everything notes]] *(5/5/2025, 2:13:38 PM)*
-- [[Peter Cornell - The Ways of Paradise]] *(4/18/2025, 4:02:01 PM)*
-- [[Italo Calvino - Six Memos for the Next Millenium]] *(3/9/2025, 7:35:12 AM)*
-- [[Marina Warner - Six Myths of Our Time]] *(3/9/2025, 7:24:28 AM)*
-- [[Margalit - Ethics of Memory]] *(2/21/2025, 3:48:37 PM)*
 - [[2025-02-16-JasonHickel-thread]] *(2/16/2025, 2:02:37 PM)*
 - [[David Byrne - The world is a song]] *(1/26/2025, 10:44:24 AM)*
 - [[Gerald Murnane - avoiding writing]] *(1/2/2025, 4:41:54 PM)*
@@ -92,4 +92,4 @@
 - [[Bruno Schulz - The Book]] *(2/13/2022, 4:22:17 PM)*
 - [[Donna Thompson - ancient dreams]] *(5/15/2021, 3:56:10 PM)*
 
-*This list contains 91 files and was last updated on 8/3/2025, 12:37:11 PM*
+*This list contains 91 files and was last updated on 8/11/2025, 8:43:18 AM*

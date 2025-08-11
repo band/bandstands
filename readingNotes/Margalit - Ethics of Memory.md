@@ -1,6 +1,6 @@
 # Margalit - Ethics of Memory
 
-APAvar.: Avishai Margalit (2002). The Ethics of Memory. Harvard University Press.  
+APA.: Avishai Margalit (2002). _The Ethics of Memory_. Harvard University Press.  
 Link: https://search.worldcat.org/en/title/450989717  
 
 page 5:  
