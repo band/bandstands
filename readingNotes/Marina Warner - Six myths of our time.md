@@ -7,7 +7,7 @@ Open access link: <https://archive.org/details/managingmonsters0000warn>
 In early 1994 Marina Warner delivered the prestigious Reith Lectures for the BBC, titled "Managing Monsters".    
 
 page xvii: (Forward)  
-> ... argue my conviction that the fictions and narratives of a society contribute as fundmentally to its character as its laws and economy and political arrangements, that the dimension of the 'imaginary' is too often overlooked in the struggles to define the nature of men, of women, of children, to express exclusion and belonging.
+> ... argue my conviction that the fictions and narratives of a society contribute as fundamentally to its character as its laws and economy and political arrangements, that the dimension of the 'imaginary' is too often overlooked in the struggles to define the nature of men, of women, of children, to express exclusion and belonging.
 
 page xx: (Forward)  
 > 'Myth' \[Roland Barthes\] writes, 'transforms history into nature.' Barthe's study almost amounts to an exposé of myth, as he reveals how it works to conceal political motives and secretly circulate ideology through society.  

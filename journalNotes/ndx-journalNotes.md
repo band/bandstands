@@ -177,4 +177,4 @@
 - [[2021-06-06 Our nationalistic future]] *(6/6/2021, 2:11:33 PM)*
 - [[2021-03-28 David Swedlow]] *(5/9/2021, 1:30:34 PM)*
 
-*This list contains 176 files and was last updated on 8/3/2025, 12:37:11 PM*
+*This list contains 176 files and was last updated on 8/30/2025, 9:32:51 PM*
