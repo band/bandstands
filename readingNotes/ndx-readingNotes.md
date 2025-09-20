@@ -1,5 +1,6 @@
 # Files in readingNotes
 
+- [[Bruno Schulz - The Book]] *(9/20/2025, 2:37:38 PM)*
 - [[Marina Warner - Six Myths of Our Time]] *(8/19/2025, 2:45:58 PM)*
 - [[From An Essay on Waiting]] *(8/11/2025, 8:43:07 AM)*
 - [[Margalit - Ethics of Memory]] *(8/11/2025, 8:42:56 AM)*
@@ -89,7 +90,6 @@
 - [[2022-06-04 Heather Cox Richardson]] *(6/5/2022, 7:43:06 AM)*
 - [[Paul Mason 2021 The Future is Over]] *(4/22/2022, 7:44:43 AM)*
 - [[Tolstoy_1908_ALetterToAHindu]] *(4/2/2022, 11:03:25 AM)*
-- [[Bruno Schulz - The Book]] *(2/13/2022, 4:22:17 PM)*
 - [[Donna Thompson - ancient dreams]] *(5/15/2021, 3:56:10 PM)*
 
-*This list contains 91 files and was last updated on 9/19/2025, 5:10:17 PM*
+*This list contains 91 files and was last updated on 9/20/2025, 2:43:20 PM*
