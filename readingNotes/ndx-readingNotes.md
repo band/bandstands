@@ -1,5 +1,6 @@
 # Files in readingNotes
 
+- [[2025-10-02 Paris Review notes]] *(10/2/2025, 3:52:32 PM)*
 - [[Bruno Schulz - The Book]] *(9/20/2025, 2:37:38 PM)*
 - [[Marina Warner - Six Myths of Our Time]] *(8/19/2025, 2:45:58 PM)*
 - [[From An Essay on Waiting]] *(8/11/2025, 8:43:07 AM)*
@@ -92,4 +93,4 @@
 - [[Tolstoy_1908_ALetterToAHindu]] *(4/2/2022, 11:03:25 AM)*
 - [[Donna Thompson - ancient dreams]] *(5/15/2021, 3:56:10 PM)*
 
-*This list contains 91 files and was last updated on 9/20/2025, 2:43:20 PM*
+*This list contains 92 files and was last updated on 10/2/2025, 3:52:35 PM*
