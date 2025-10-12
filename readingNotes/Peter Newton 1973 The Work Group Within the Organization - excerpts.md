@@ -4,6 +4,9 @@ Peter M. Newton and Daniel J. Levinson
 Department of Psychiatry, Yale University Medical School
 PSYCHIATRY, Vol. 36, May 1973, pp. 115-142.
 
+Citation: Newton, P. M., & Levinson, D. J. (1973). The work group within the organization: A sociopsychological approach. _Psychiatry: Journal for the Study of Interpersonal Processes_, 36(2), 115–142.
+Link (paywalled): https://doi.org/10.1080/00332747.1973.11023751
+
 (Excerpts formatted by Bill Anderson, 2021-04-19. Note: footnote numberings are unique to this extract; they do not match the numbering in the full article.)
 
 ### Abstract

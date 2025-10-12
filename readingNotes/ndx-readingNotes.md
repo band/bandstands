@@ -1,5 +1,6 @@
 # Files in readingNotes
 
+- [[Peter Newton 1973 The Work Group Within the Organization - excerpts]] *(10/12/2025, 11:27:11 AM)*
 - [[2025-10-02 Paris Review notes]] *(10/2/2025, 3:52:32 PM)*
 - [[Bruno Schulz - The Book]] *(9/20/2025, 2:37:38 PM)*
 - [[Marina Warner - Six Myths of Our Time]] *(8/19/2025, 2:45:58 PM)*
@@ -72,7 +73,6 @@
 - [[Schabas_2005_NaturalOriginsEconomics]] *(8/5/2023, 8:57:39 AM)*
 - [[essentialMaryMidgley]] *(7/23/2023, 2:52:12 PM)*
 - [[Einstein and Infeld on Physical Concepts]] *(7/22/2023, 1:27:44 PM)*
-- [[Peter Newton 1973 The Work Group Within the Organization - excerpts]] *(7/19/2023, 12:32:19 PM)*
 - [[Sartre - on Anti-Semitism]] *(7/6/2023, 1:56:52 PM)*
 - [[Steiner_1991_ParanoidAndDepressivePositions]] *(4/11/2023, 10:12:55 AM)*
 - [[2022-11-29 Maurice Mitchell - Building Resilient Organizations]] *(3/2/2023, 4:38:14 PM)*
@@ -93,4 +93,4 @@
 - [[Tolstoy_1908_ALetterToAHindu]] *(4/2/2022, 11:03:25 AM)*
 - [[Donna Thompson - ancient dreams]] *(5/15/2021, 3:56:10 PM)*
 
-*This list contains 92 files and was last updated on 10/7/2025, 10:43:28 AM*
+*This list contains 92 files and was last updated on 10/12/2025, 11:27:14 AM*
