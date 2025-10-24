@@ -1,6 +1,5 @@
 # Files in Root
 
-- [[Ernst Fraenkel - The Dual State]] *(8/31/2025, 8:12:59 AM)*
 - [[Lowry Pressly - The Right to Oblivion]] *(2/21/2025, 4:51:36 PM)*
 - [[Zeitgeist notes]] *(1/26/2025, 10:46:56 AM)*
 - [[The socials - notes on praxis]] *(12/16/2024, 8:02:43 AM)*
@@ -23,4 +22,4 @@
 - [[Akwaeke Emezi - revolutionary imagination]] *(9/30/2022, 3:57:24 PM)*
 - [[Decentralized organizations and social defenses - notes]] *(7/29/2022, 9:44:33 AM)*
 
-*This list contains 22 files and was last updated on 10/12/2025, 11:05:05 AM*
+*This list contains 21 files and was last updated on 10/24/2025, 9:04:10 AM*

@@ -1,8 +1,10 @@
 # Files in readingNotes
 
+- [[Hospicing Modernity - reading notes]] *(10/24/2025, 9:03:07 AM)*
 - [[Peter Newton 1973 The Work Group Within the Organization - excerpts]] *(10/12/2025, 11:27:11 AM)*
 - [[2025-10-02 Paris Review notes]] *(10/2/2025, 3:52:32 PM)*
 - [[Bruno Schulz - The Book]] *(9/20/2025, 2:37:38 PM)*
+- [[Ernst Fraenkel - The Dual State]] *(8/31/2025, 8:12:59 AM)*
 - [[Marina Warner - Six Myths of Our Time]] *(8/19/2025, 2:45:58 PM)*
 - [[From An Essay on Waiting]] *(8/11/2025, 8:43:07 AM)*
 - [[Margalit - Ethics of Memory]] *(8/11/2025, 8:42:56 AM)*
@@ -93,4 +95,4 @@
 - [[Tolstoy_1908_ALetterToAHindu]] *(4/2/2022, 11:03:25 AM)*
 - [[Donna Thompson - ancient dreams]] *(5/15/2021, 3:56:10 PM)*
 
-*This list contains 92 files and was last updated on 10/12/2025, 11:27:14 AM*
+*This list contains 94 files and was last updated on 10/24/2025, 9:04:10 AM*
