@@ -1,5 +1,4 @@
 # Vandana Shiva via Ken Homer
-- 2025-11-17
 
 "I do not allow myself to be overcome by hopelessness, no matter how tough the situation. I believe that if you just do your little bit without thinking of the bigness of what you stand against, if you turn to the enlargement of your own capacities, just that itself creates new potential.
 
@@ -9,4 +8,6 @@ And that combination of deep passion and deep detachment allows me to take on th
 
   ~Vandana Shiva  
   
+- posted here on 2025-11-17
+
 TODO: find a citable source  
