@@ -22,4 +22,4 @@
 - [[Akwaeke Emezi - revolutionary imagination]] *(9/30/2022, 3:57:24 PM)*
 - [[Decentralized organizations and social defenses - notes]] *(7/29/2022, 9:44:33 AM)*
 
-*This list contains 21 files and was last updated on 10/24/2025, 2:57:55 PM*
+*This list contains 21 files and was last updated on 11/17/2025, 10:41:19 AM*
