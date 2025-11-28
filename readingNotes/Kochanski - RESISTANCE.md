@@ -1,7 +1,7 @@
 # Kochanski - RESISTANCE  
 
 APA: Kochanski, Halik (2022). _RESISTANCE: The Underground War Against Hitler, 1939 - 1945_. Liveright Publishing Company.  
-Link: https://openlibrary.org/books/OL42772058M/Resistance  
+Link: <https://openlibrary.org/books/OL42772058M/Resistance>  
 
 page 46:  
 > There was a widespread rejection of the pre-war political systems. In Poland the underground government and therefore its press was run by members of the pre-war opposition parties who strove to develop programmes which would move Poland back towards a liberal democracy. ...  

@@ -1,6 +1,6 @@
 # Files in readingNotes
 
-- [[Kochanski - RESISTANCE]] *(11/28/2025, 5:04:57 PM)*
+- [[Kochanski - RESISTANCE]] *(11/28/2025, 5:18:58 PM)*
 - [[Hospicing Modernity - reading notes]] *(10/24/2025, 2:58:58 PM)*
 - [[Peter Newton 1973 The Work Group Within the Organization - excerpts]] *(10/12/2025, 11:27:11 AM)*
 - [[2025-10-02 Paris Review notes]] *(10/2/2025, 3:52:32 PM)*
@@ -96,4 +96,4 @@
 - [[Tolstoy_1908_ALetterToAHindu]] *(4/2/2022, 11:03:25 AM)*
 - [[Donna Thompson - ancient dreams]] *(5/15/2021, 3:56:10 PM)*
 
-*This list contains 95 files and was last updated on 11/28/2025, 5:05:00 PM*
+*This list contains 95 files and was last updated on 11/28/2025, 5:19:01 PM*
