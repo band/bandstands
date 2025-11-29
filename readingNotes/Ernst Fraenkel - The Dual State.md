@@ -1,7 +1,7 @@
 # Ernst Fraenkel - The Dual State
 
 APA: Fraenkel, E. (1941). _The dual state: A contribution to the theory of dictatorship_ (E. A. Shils, Trans.; with E. Lowenstein & K. Knorr). Oxford University Press.  
-Link: https://archive.org/details/in.ernet.dli.2015.13142/mode/2up  
+Link: <https://archive.org/details/in.ernet.dli.2015.13142/mode/2up>  
 
 page xiii:  
 > 'TOTALITARIAN' is a word of many meanings too often inadequately defined. In this treatise we have tried to isolate one important characteristic of the totalitarian state in Germany, and by studying this fundamental aspect of the National-Socialist regime we hope to make clearer the legal reality of the Third Reich. We have not attempted an exhaustive picture of the whole of the emerging legal system; rather we have sought to analyze the two states, the 'Prerogative State' and the 'Normative State,' as we shall call them, which co-exist in National-Socialist Germany. By the Prerogative State we mean that governmental system which exercises unlimited arbitrariness and violence unchecked by any legal guarantees, and by the Normative State an administrative body endowed with elaborate powers for safeguarding the legal order as expressed in statutes, decisions of the courts, and activities of the administrative agencies. We shall try to find the meaning of these simultaneous states through an analysis of the decisions of the German administrative, civil and criminal courts, at the same time attempting to indicate the line of division between the two.  

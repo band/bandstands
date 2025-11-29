@@ -1,7 +1,7 @@
 # Files in noteBox
 
-- [[Vandana Shiva via Ken Homer]] *(11/17/2025, 2:33:05 PM)*
-- [[2021-08-25 Beth Sawin on slowing down]] *(10/7/2025, 12:56:03 PM)*
+- [[2021-08-25 Beth Sawin on slowing down]] *(11/29/2025, 7:29:19 AM)*
+- [[Vandana Shiva via Ken Homer]] *(11/29/2025, 7:23:56 AM)*
 - [[Jonathan Flowers - Freire on allies]] *(9/19/2025, 5:21:56 PM)*
 - [[2025-09-08 Hospicing Modernity notes]] *(9/8/2025, 8:45:24 AM)*
 - [[elle armageddon - neither doomerism or toxicity]] *(7/6/2025, 3:08:16 PM)*
@@ -174,4 +174,4 @@
 - [[2021-07-17-17-31-41]] *(7/18/2021, 2:56:15 PM)*
 - [[2021-07-12-07-38-35]] *(7/13/2021, 2:31:39 PM)*
 
-*This list contains 173 files and was last updated on 11/28/2025, 4:42:47 PM*
+*This list contains 173 files and was last updated on 11/29/2025, 7:29:22 AM*

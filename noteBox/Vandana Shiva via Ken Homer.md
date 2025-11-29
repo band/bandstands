@@ -10,14 +10,14 @@ And that combination of deep passion and deep detachment allows me to take on th
   
 - posted here on 2025-11-17
 
-Link: https://en.wikiquote.org/wiki/Vandana_Shiva  
+Link: <https://en.wikiquote.org/wiki/Vandana_Shiva>  
 
 
 #### Information about Vandana Shiva's life and work:  
 
 - Wikipedia article includes some criticisms and responses:  
-  - https://en.wikipedia.org/wiki/Vandana_Shiva  
+  - <https://en.wikipedia.org/wiki/Vandana_Shiva>  
 
 - Britannica artice describes background and some of her key works:  
-  - https://www.britannica.com/biography/Vandana-Shiva  
+  - <https://www.britannica.com/biography/Vandana-Shiva>  
 

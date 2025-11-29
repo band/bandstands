@@ -1,6 +1,6 @@
 # Files in Root
 
-- [[Lowry Pressly - The Right to Oblivion]] *(2/21/2025, 4:51:36 PM)*
+- [[Lowry Pressly - The Right to Oblivion]] *(11/29/2025, 7:22:45 AM)*
 - [[Zeitgeist notes]] *(1/26/2025, 10:46:56 AM)*
 - [[The socials - notes on praxis]] *(12/16/2024, 8:02:43 AM)*
 - [[The Guest House - Jalaluddin Rumi]] *(11/28/2024, 10:44:58 AM)*
@@ -22,4 +22,4 @@
 - [[Akwaeke Emezi - revolutionary imagination]] *(9/30/2022, 3:57:24 PM)*
 - [[Decentralized organizations and social defenses - notes]] *(7/29/2022, 9:44:33 AM)*
 
-*This list contains 21 files and was last updated on 11/28/2025, 4:59:49 PM*
+*This list contains 21 files and was last updated on 11/29/2025, 7:22:48 AM*

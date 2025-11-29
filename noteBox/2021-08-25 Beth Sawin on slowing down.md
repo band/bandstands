@@ -6,10 +6,8 @@ modified: 2021-08-25T07:17:07-05:00
 
 Dr. Elizabeth Sawin (@bethsawin): What if that longing of yours to slow down isn't only your personal exhaustion but also your contribution to collective wisdom and a deep knowing about what's needed in this moment?
 
-Donella Meadows said it pretty well: https://donellameadows.org/archives/not-so-fast/ https://twitter.com/bethsawin/status/1430254197652459531/photo/1
+Donella Meadows said it pretty well: <https://donellameadows.org/archives/not-so-fast/>  
 
-
-https://donellameadows.org/archives/not-so-fast/
 
 
 

@@ -1,7 +1,7 @@
 # Margalit - Ethics of Memory
 
 APA.: Avishai Margalit (2002). _The Ethics of Memory_. Harvard University Press.  
-Link: https://search.worldcat.org/en/title/450989717  
+Link: <https://search.worldcat.org/en/title/450989717>  
 
 page 5:  
 > What concerns me, however, is not the healing powers of knowing the truth in the case of the individual but the healing power of knowing the truth in the case of communal memories.  

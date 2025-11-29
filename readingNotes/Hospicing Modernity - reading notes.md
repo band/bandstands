@@ -1,7 +1,7 @@
 # Hospicing Modernity - reading notes
 
 APA: Machado de Oliveira, Vanessa. (2021). _Hospicing modernity : facing humanity’s wrongs and the implications for social activism_. North Atlantic Books.  
-Link: https://openlibrary.org/works/OL25457087W/Hospicing_Modernity  
+Link: <https://openlibrary.org/works/OL25457087W/Hospicing_Modernity>  
 
 pages 115-117:  
 > ... What kinds of neuropathways are created by the material, intellectual, affective, and relational economies of modernity?  
