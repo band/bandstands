@@ -4,15 +4,16 @@ Gordon Lawrence
 
 Citation: Human Relations
 [0018-7267(200305)56:5] Volume 56(5): 609–624: 034486 Copyright © 2003
-The Tavistock Institute ® SAGE Publications
-London, Thousand Oaks CA, New Delhi www.sagepublications.com
+The Tavistock Institute ® SAGE Publications London, Thousand Oaks CA, New Delhi www.sagepublications.com
 Downloaded from hum.sagepub.com at NORTH CAROLINA STATE UNIV on April 17, 2015  
+
+APA: Lawrence, G. (2003). Social Dreaming as Sustained Thinking. Human Relations, 56(5), 609-624. https://doi.org/10.1177/0018726703056005005 (Original work published 2003)
+
 2023-11-29: Markdown format by WLA.
 
 ## ABSTRACT  
 
-This article begins by describing Freud’s work on dreams, and the importance this had for dream theory. Bion’s perspective follows, with his questioning of Freud’s theory that dreams exist to disguise the wishes and conceal the needs of the dreamer. The article then goes on to consider what happens if dreaming is regarded as a normal human activity, and the working through of thinking and creativity while the dreamer is asleep. From this point, it moves on to look at the emergent theory of social dreaming, which takes place in a matrix – where the matrix is the name given to the collection of people meeting to share their dreams. Finally, seven working hypotheses of the
-developing theory of social dreaming are described.  
+This article begins by describing Freud’s work on dreams, and the importance this had for dream theory. Bion’s perspective follows, with his questioning of Freud’s theory that dreams exist to disguise the wishes and conceal the needs of the dreamer. The article then goes on to consider what happens if dreaming is regarded as a normal human activity, and the working through of thinking and creativity while the dreamer is asleep. From this point, it moves on to look at the emergent theory of social dreaming, which takes place in a matrix – where the matrix is the name given to the collection of people meeting to share their dreams. Finally, seven working hypotheses of the developing theory of social dreaming are described.  
 
 ## KEYWORDS  
  - free association - Oedipal - social dreaming - social dreaming matrix - Sphinx - transference
@@ -51,7 +52,8 @@ Without denying the achievement of Freud, who made the unconscious acceptable, h
 
 What happens if dreaming is regarded as a normal human activity and understood as the working through of thinking and creativity during sleep? What happens if adults are seen as being more aware of their own authority and capable of making their own interpretations of their dreaming because they know more from their experience than they think, and are more mature than they believe?
 
-While having a dream, the dreamer believes it to be a real experience because it generates feelings and emotions. No matter how nonsensical it may seem, the dream is comprehensible because it is telling a story in which events follow events, albeit bizarrely. The dreaming is registered in the inner world of the mind, even if it can be the victim of amnesia.
+While having a dream, the dreamer believes it to be a real experience because it generates feelings and emotions. No matter how nonsensical it may seem, the dream is comprehensible because it is telling a story in which events follow events, albeit bizarrely. The dreaming is registered in the inner world of the mind, even if it can be the victim of amnesia.  
+
 ## Dreaming as thinking  
 
 Meltzer (1984), following on the work of Wilfred Bion, argues ‘that dreaming is thinking’ because while engaged in dreaming we are not only attending to our inner world but also are thinking/dreaming of how we relate to the external world.  
@@ -81,7 +83,8 @@ Bion stated his epistemological position when introducing his _Experiences in gr
 
 A complementary perspective is to focus on how the group arrives at knowledge through experiencing both the inner and the outer world of the group. Leadership of a group can be seen as keeping the group in touch with reality by transacting the external, contextual reality with the inner group reality. Through working hypotheses, leadership tests the changing systemic reality in which the group is located. The framing of working hypotheses is a non-psychotic action. Leadership, by using working hypotheses, is following scientific method to gain knowledge of the environmental context. This is the vertex of Sphinx (Bion, 1961: 7–8).
 
-As such, the vertex of Sphinx goes against many of the accepted tenets and assumptions of dreaming as forged by Freud and his followers. Dreaming, when pursued as a personal project in the Freudian tradition, cannot fully embrace this idea of dreaming as the pursuit of knowledge, except in the narrow sense of seeing dreams as products of the personal unconscious to be interpreted from that individualistic perspective.
+As such, the vertex of Sphinx goes against many of the accepted tenets and assumptions of dreaming as forged by Freud and his followers. Dreaming, when pursued as a personal project in the Freudian tradition, cannot fully embrace this idea of dreaming as the pursuit of knowledge, except in the narrow sense of seeing dreams as products of the personal unconscious to be interpreted from that individualistic perspective.  
+
 ## Social dreaming  
 
 The alternative to personal therapeutic dreaming is the complementary method of social dreaming. Sphinx is the figure in social dreaming while Oedipus is the ground; whereas this is reversed in personal, therapeutic dream work. Whereas Freudian dreaming is egocentric in orientation, social dreaming is socio-centric because it is concerned with individuals relating to their social world, with all the complications of political and economic realities.
@@ -94,7 +97,8 @@ The dreams derived from what she called ‘man’s paradoxical existence under a
 
 The commentary is also an example of dreamers thinking how to relate their inner world experiences of the dream to the external reality of the Third Reich. These dreams fall into the realm of Sphinx because they describe how the dreamers are thinking of reality by processing their chaotic experiences of their social environment and rehearsing, through their dreaming, how they are to survive it.
 
-Social dreaming was discovered in 1982 at the Tavistock Institute in London (Lawrence & Daniel, 1982; Lawrence, 1989, 1991). It starts from the premise that dreaming and dreams cannot be explained exclusively in terms of the individual as a self-contained entity, but have to take account of the social and cultural milieux in which the experiences that fuel dreaming have their roots.
+Social dreaming was discovered in 1982 at the Tavistock Institute in London (Lawrence & Daniel, 1982; Lawrence, 1989, 1991). It starts from the premise that dreaming and dreams cannot be explained exclusively in terms of the individual as a self-contained entity, but have to take account of the social and cultural milieux in which the experiences that fuel dreaming have their roots.  
+
 ## Social dreaming matrix  
 
 Social dreaming takes place with a number of people (anything from six to 40) in a ‘matrix’ convened for the purposes of processing the dreaming by making use of free association to the dreams and amplifying the dreams presented to the matrix. What then happens is that the dreams interact with other dreams and new thinking emerges as a result. The purpose of the social dreaming matrix is to associate, as freely as possible, to the dreams of the matrix so as to make links and find connections.
@@ -105,7 +109,8 @@ The proposition that social dreaming be conducted in a matrix and not a group be
 
 The idea of a matrix was borrowed from Foulkes (Foulkes & Anthony, 1957; Foulkes, 1964, 1973). The matrix, which embodies the principle of connectedness, is the web of mental processes of proto-mental thinking that exist in any social configuration (see Capra, 2002). The matrix is that substratum of feelings, thoughts and emotions that is integral to every social configuration and allows primordial images to appear from the social unconscious. In this way the matrix mirrors the very processes that produce dreaming and dreams.
 
-Thinking and thought are integral to the social dreaming matrix. Following Bion (1970), it can be said that the pre-thought elements of the mind (Beta-elements), embodied in the social dreams, are projected on to the matrix which contains them, to be transformed into primitive elements of thought (Alpha-elements). The matrix is the parallel of the breast of the mother experienced in early infancy and, as such, is central to any evolutionary change in thinking. These elements are picked up by participants in the matrix to be used in the construction of their own thinking as they freely associate to and amplify the dreams in the matrix. The emphasis is not on face-to-face relationships between participants but on the dreaming and the dreams. Dreaming is the currency of the matrix.
+Thinking and thought are integral to the social dreaming matrix. Following Bion (1970), it can be said that the pre-thought elements of the mind (Beta-elements), embodied in the social dreams, are projected on to the matrix which contains them, to be transformed into primitive elements of thought (Alpha-elements). The matrix is the parallel of the breast of the mother experienced in early infancy and, as such, is central to any evolutionary change in thinking. These elements are picked up by participants in the matrix to be used in the construction of their own thinking as they freely associate to and amplify the dreams in the matrix. The emphasis is not on face-to-face relationships between participants but on the dreaming and the dreams. Dreaming is the currency of the matrix.  
+
 ## Free association and amplification  
 
 Thinking and thought on the dreams begins from free association to and amplification of the dreams. Freud learned free association from his patients (Bollas, 2002). In a dream, recounted in a social dreaming matrix, there will be ideas. Other participants in the matrix will associate to these aspects of the dream. Taking an idea and freely associating to it furthers the intuitive, creative use of dreams and allows participants to ‘play’, in the sense that Winnicott (1971) used the term, with the potential meanings of the dreams. To any particular dream there will be as many potential associations as there are members of the matrix. The danger is that members of the matrix may be led away from the dream by being seduced by the freedom of free association by just saying what passes through their minds.
@@ -114,10 +119,12 @@ Amplification, which was Jung’s concept, is designed to hold to the content of
 
 These associations and amplifications are projected into the matrix to be transformed into primitive elements of thought. From these elements worked-through thinking and thoughts are made possible.
 
-From the first programme, ‘Social Dreaming and Creativity’, in 1982, it was found that people can dream socially in that their dreaming illuminates daily living in the society. The working hypothesis on which the programme rested was substantiated.
+From the first programme, ‘Social Dreaming and Creativity’, in 1982, it was found that people can dream socially in that their dreaming illuminates daily living in the society. The working hypothesis on which the programme rested was substantiated.  
+
 ## The social unconscious  
 
-Each individual has a unique, personal unconscious wrought from his or her personal experiences. It is embedded, however, in the unconscious that is shared by the society and culture in which biographical life is situated. The ‘social unconscious’, according to Hopper (in press), can be understood as three categories of social phenomena, which are derived from the cultural elements that are associated with a society and all its social institutions. The first is that which people are unaware of, but of which they were previously aware, for instance the Oedipus complex. The second is that of which they are unaware, but of which they are partly aware. The fantasy life that existed before the acquisition of language is an example. Third, there is that of which people are unaware and of which they were never aware. This is information that is barely accessible to knowing and cannot be known directly. This knowledge might be ‘archaic’ or belong to the ‘dynamic non-conscious’ (Hopper, in press: 134). Again, the social unconscious by its nature has Beta-elements, as Bion postulated, that are available for transformation into Alpha-elements through the containment function of the matrix. 
+Each individual has a unique, personal unconscious wrought from his or her personal experiences. It is embedded, however, in the unconscious that is shared by the society and culture in which biographical life is situated. The ‘social unconscious’, according to Hopper (in press), can be understood as three categories of social phenomena, which are derived from the cultural elements that are associated with a society and all its social institutions. The first is that which people are unaware of, but of which they were previously aware, for instance the Oedipus complex. The second is that of which they are unaware, but of which they are partly aware. The fantasy life that existed before the acquisition of language is an example. Third, there is that of which people are unaware and of which they were never aware. This is information that is barely accessible to knowing and cannot be known directly. This knowledge might be ‘archaic’ or belong to the ‘dynamic non-conscious’ (Hopper, in press: 134). Again, the social unconscious by its nature has Beta-elements, as Bion postulated, that are available for transformation into Alpha-elements through the containment function of the matrix.  
+
 ## Working hypotheses on social dreaming  
 
 The emergent theory of social dreaming can only be expressed in terms of working hypotheses as yet. A working hypothesis is a sketch of the reality. Because reality is always emergent in its nature, a working hypothesis can be replaced by another, which better fits the reality as it is being experienced. Theory is always in a process of becoming.
@@ -147,7 +154,7 @@ This apprehension of patterns is to access the truth-in-the-moment, which comes 
 
 The fifth working hypothesis is that social dreaming, because it accesses the infinite, mobilizes the thinking capacities of participants in the matrix, and leads to the apprehension of new patterns of facts, is being used as a tool of action research.
 
-Action research is based on the idea that every participant in a system has perceptions of their experience of fulfilling a role and of the system itself from their role perspective. The social dreaming matrix makes the unconcious, the infinite, of a system that much more available for inspection.
+Action research is based on the idea that every participant in a system has perceptions of their experience of fulfilling a role and of the system itself from their role perspective. The social dreaming matrix makes the unconscious, the infinite, of a system that much more available for inspection.
 
 Maltz and Walker used a social dreaming matrix in a major manufacturer of entertainment in the US. They found that what was voiced in the social dreaming confirms the role of the unconscious in systems. They found in the dreaming the disowned aspects of the organization – for example, feminine authority and violence. The matrix reflected the issues of the organization that were important, though not known at first because there had been no opportunity to think them (Maltz & Walker, 1998: 141–67).
 

@@ -1,4 +1,4 @@
-### Site Navigation
+### SITE NAVIGATION
 
 {< div class="navlinks" >}
 - [[README|HOME]]
@@ -13,7 +13,7 @@
   </button>
 {< /div >}
 
-#### Selected Content
+#### SELECTED CONTENT
    
 [[ndx-journalNotes|Journal-like notes]]  
 [[ndx-readingNotes|Reading notes]]  

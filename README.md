@@ -4,8 +4,6 @@ A [Massive Wiki](https://massive.wiki/) housing [[Bill Anderson]]'s (a.k.a. "ban
 
 Use the "Recent Changes", "Search", "All Pages" , and "Random Page" buttons in the sidebar to find your way around.
 
-**Comments welcome!** Click the "<" icon in the upper right to open the Hypothesis annotation/highlights panel.  Sign up or log into Hypothesis in that panel to add comments and annotations to the pages in this wiki.
-
 -----
 
  Climate warming update from the Scripps Mauna Loa Observatory:

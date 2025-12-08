@@ -96,4 +96,4 @@
 - [[Tolstoy_1908_ALetterToAHindu]] *(4/2/2022, 11:03:25 AM)*
 - [[Donna Thompson - ancient dreams]] *(5/15/2021, 3:56:10 PM)*
 
-*This list contains 95 files and was last updated on 11/29/2025, 7:31:21 AM*
+*This list contains 95 files and was last updated on 12/4/2025, 3:02:43 PM*
