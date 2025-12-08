@@ -1,0 +1,14 @@
+<footer class="bg-gray-100 py-8 mt-12">
+  <div class="text-center text-gray-600 space-y-1">
+    {% if wiki_title and author %}
+    <div><strong class="font-semibold text-gray-800">{{wiki_title}}</strong> by {{author}}.</div>
+    {% endif %}
+    {% if repo %}
+    <div>Central repository at {{repo}}.</div>
+    {% endif %}
+    {% if license %}
+    <div>Licensed under {{license}}.</div>
+    {% endif %}
+    <div class="text-sm italic">Site last updated on {{build_time}}.</div>
+  </div>
+</footer>

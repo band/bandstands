@@ -11,3 +11,4 @@ no_edit_url_pages:
   - ndx-*.md
 excluded_directories:
   - _templates
+theme: forte

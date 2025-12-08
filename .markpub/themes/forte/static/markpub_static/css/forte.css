@@ -1,0 +1,159 @@
+/* ===== Design tokens =================================================== */
+:root{
+    --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI",
+                 Roboto, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji",
+                 "Segoe UI Emoji", "Segoe UI Symbol";
+    --radius: 14px;
+
+    /* Light */
+    --bg: #ffffff;
+    --text: #0f172a;          /* slate-900 */
+    --muted: #475569;         /* slate-600 */
+    --border: #e2e8f0;        /* slate-200 */
+    --card: #f8fafc;          /* slate-50 */
+    --link: #2563eb;          /* blue-600 */
+    --link-hover: #1d4ed8;    /* blue-700 */
+    --brand: #0ea5e9;         /* sky-500 */
+    --ring: rgba(37, 99, 235, .35);
+}
+@media (prefers-color-scheme: dark){
+    :root{
+        --bg: #0b1020;          /* deep indigo slate */
+        --text: #e5e7eb;        /* slate-200 */
+        --muted: #94a3b8;       /* slate-400 */
+        --border: #1f2937;      /* slate-800 */
+        --card: #0f172a;        /* slate-900 */
+        --link: #60a5fa;        /* blue-400 */
+        --link-hover: #93c5fd;  /* blue-300 */
+        --brand: #22d3ee;       /* cyan-400 */
+        --ring: rgba(96,165,250,.45);
+    }
+}
+[data-theme="light"]{:root{}}
+[data-theme="dark"]{
+    --bg: #0b1020; --text:#e5e7eb; --muted:#94a3b8; --border:#1f2937;
+    --card:#0f172a; --link:#60a5fa; --link-hover:#93c5fd; --brand:#22d3ee; --ring:rgba(96,165,250,.45);
+}
+
+/* ===== Base ============================================================ */
+html,body{height:100%}
+body{
+    margin:0;
+    font-family: var(--font-sans);
+    color: var(--text);
+    background: radial-gradient(1200px 600px at 80% -20%, color-mix(in srgb, var(--brand) 12%, transparent), transparent) , var(--bg);
+    line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+    text-rendering:optimizeLegibility;
+}
+.container{
+    width:min(1024px, 92vw);
+    margin-inline:auto;
+}
+/* Focus visible ring */
+:where(a, button, input){outline: none}
+:where(a, button, input):focus-visible{
+    box-shadow: 0 0 0 4px var(--ring);
+    border-radius: 10px;
+}
+input{
+    outline: none;
+    border: 1px solid #d1d5db; /* gray-300 */
+}
+input:focus{
+    box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.3) !important;
+}
+button{
+    border:none;
+}
+
+/* ===== Header ========================================================== */
+header{
+    position: sticky; top:0; z-index:50;
+    backdrop-filter: blur(8px);
+    background: color-mix(in srgb, var(--bg) 85%, transparent);
+    border-bottom: 1px solid var(--border);
+}
+.nav{
+    display:flex; align-items:center; gap:16px; padding:14px 0;
+}
+.brand{
+    display:flex; align-items:center; gap:10px; text-decoration:none;
+}
+.logo{
+    width:28px; height:28px; border-radius:8px;
+    background: linear-gradient(135deg, var(--brand), var(--link));
+    box-shadow: 0 6px 18px color-mix(in srgb, var(--brand) 35%, transparent);
+}
+.brand span{
+    font-weight:400; letter-spacing:.2px; font-size:3.25rem; color: var(--text);
+}
+.nav-spacer{flex:1}
+.nav a{
+    color: var(--muted); text-decoration:none; font-weight:550;
+}
+.nav a:hover{ color: var(--text) }
+.btn-theme{
+    border:1px solid var(--border); background: var(--card); color: var(--muted);
+    padding:8px 12px; border-radius:12px; cursor:pointer;
+}
+
+/* ===== Hero ============================================================ */
+.hero{ padding: 56px 0 12px 0 }
+.hero h1{
+    font-size: clamp(2.1rem, 3.2vw + 1rem, 3rem);
+    letter-spacing:-.02em; line-height:1.15; margin:0 0 10px 0;
+}
+.lead{
+    font-size: clamp(1.05rem, .6vw + .9rem, 1.25rem);
+    color: var(--muted); margin: 0;
+}
+
+/* ===== Content ========================================================= */
+main{ padding: 8px 0 28px 0 }
+section{ margin: 28px 0 }
+h2{
+    font-size:1.4rem; letter-spacing:-.01em; margin: 24px 0 8px 0;
+}
+p{ margin: 10px 0 0 0; }
+.link{
+    color: var(--link); text-decoration: none; position: relative; font-weight:600;
+}
+.link::after{
+    content:""; position:absolute; left:0; right:0; bottom:-2px; height:2px;
+    background: currentColor; transform: scaleX(0); transform-origin:left; transition: transform .22s ease;
+}
+.link:hover::after{ transform: scaleX(1) }
+
+/* Callouts / cards */
+.callout{
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: var(--radius); padding:18px 18px; margin-top:14px;
+}
+
+/* Code / inline */
+code, pre{ font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace }
+pre{
+    margin:14px 0 0 0; padding:14px 16px; overflow:auto; border-radius:12px;
+    background: color-mix(in srgb, var(--card) 85%, transparent);
+    border:1px solid var(--border);
+}
+
+/* ===== Footer ========================================================== */
+footer{
+    margin: 44px 0 36px 0;
+    border-top:1px solid var(--border);
+}
+footer .text-center {
+    text-align: left;
+    padding-left: calc(2rem + 20px); /* adapt for main-column positioning */
+    margin-left: 20%;
+}
+.foot{
+    display:grid; gap:10px; padding-top:18px;
+    background: linear-gradient(180deg, transparent, color-mix(in srgb, var(--card) 60%, transparent));
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 18px;
+}
+.muted{ color: var(--muted) }

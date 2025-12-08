@@ -1,0 +1,81 @@
+{% set page_title = title ~ ' - ' ~ wiki_title if title != 'README' else wiki_title %}{% include '_header.html' %}
+<body class="font-roboto text-gray-800 bg-gray-50 leading-relaxed">
+  <!-- Header -->
+  {% include '_body-header.html' %}
+
+  <!-- Main Container -->
+  <div id="flex-container" class="flex max-w-full px-4 sm:px-6 lg:px-8">
+    <!-- Sidebar -->
+    <aside id="side-column" class="bg-white min-w-48 max-h-[80vh] p-5
+				   mr-4 overflow-y-auto border-r
+				   border-gray-300 shadow-sm rounded-md">
+      <div class="mb-4">
+        <button id="hide-btn" class="px-3 py-1 text-xs uppercase tracking-wider font-trebuchet bg-blue-100 text-gray-700 border border-blue-200 rounded-md hover:bg-blue-200 transition-colors mr-2">
+          Hide
+        </button>
+        <button id="move-btn" class="hidden px-3 py-1 text-xs uppercase tracking-wider font-trebuchet bg-blue-100 text-gray-700 border border-blue-200 rounded-md hover:bg-blue-200 transition-colors">
+          Move to Sidebar
+        </button>
+      </div>
+      <div class="sidebar-content">
+        {{ sidebar_body }}
+      </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main id="main-column" class="max-w-3xl bg-white px-5 py-0 pb-5 flex-grow ml-8 shadow-sm rounded-lg">
+      {% if edit_url %}
+      <div class="flex justify-end mb-4 pt-4">
+        <a target="_blank" href="{{edit_url}}" 
+           class="inline-block px-3 py-1 bg-blue-100 border border-blue-200 text-gray-700 text-sm font-trebuchet rounded-lg hover:bg-blue-200 transition-colors no-underline">
+          Edit on {{git_forge}}
+        </a>
+      </div>
+      {% endif %}
+      
+      <div class="prose prose-gray max-w-none">
+        {{ markdown_body }}
+      </div>
+      
+      {% if backlinks %}
+      <hr class="my-6 border-gray-300">
+      <div>
+        <h4 class="text-lg font-semibold font-trebuchet text-gray-700 mb-3">Pages that link to this page</h4>
+        <ul class="list-disc pl-5 space-y-1">
+          {% for link in backlinks %}
+          <li><a href="{{websiteroot}}{{link[0]}}" class="text-blue-600 hover:text-blue-800 transition-colors">{{link[1]}}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+    </main>
+  </div>
+  <script src="{{websiteroot}}/markpub_static/js/script.js"></script>
+  {% if bluesky_comments_post %}
+  <div id="bluesky-comments"></div>
+  <script type="importmap">
+    {
+	"imports": {
+	    "react": "https://esm.sh/react@18",
+	    "react-dom/client": "https://esm.sh/react-dom@18"
+	}
+    }
+  </script>
+  <script type="module">
+    import { createElement } from 'react'
+    import { createRoot } from 'react-dom/client'
+    import { BlueskyComments } from 'https://unpkg.com/bluesky-comments@0.12.0/dist/bluesky-comments.es.js'
+
+    const uri = '{{bluesky_comments_post}}'
+    const container = document.getElementById('bluesky-comments')
+    const root = createRoot(container)
+    root.render(
+	createElement(BlueskyComments, {
+	    "uri": uri,
+	})
+    )
+  </script>
+  {% endif %}
+  {% include '_footer.html' %}
+</body>
+</html>
