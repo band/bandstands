@@ -1,9 +1,9 @@
 # Files in readingNotes
 
+- [[Kochanski - RESISTANCE]] *(12/22/2025, 4:58:12 PM)*
 - [[Margalit - Ethics of Memory]] *(11/29/2025, 7:31:18 AM)*
 - [[Ernst Fraenkel - The Dual State]] *(11/29/2025, 7:25:40 AM)*
 - [[Hospicing Modernity - reading notes]] *(11/29/2025, 7:24:43 AM)*
-- [[Kochanski - RESISTANCE]] *(11/28/2025, 5:18:58 PM)*
 - [[Peter Newton 1973 The Work Group Within the Organization - excerpts]] *(10/12/2025, 11:27:11 AM)*
 - [[2025-10-02 Paris Review notes]] *(10/2/2025, 3:52:32 PM)*
 - [[Bruno Schulz - The Book]] *(9/20/2025, 2:37:38 PM)*
@@ -96,4 +96,4 @@
 - [[Tolstoy_1908_ALetterToAHindu]] *(4/2/2022, 11:03:25 AM)*
 - [[Donna Thompson - ancient dreams]] *(5/15/2021, 3:56:10 PM)*
 
-*This list contains 95 files and was last updated on 12/4/2025, 3:02:43 PM*
+*This list contains 95 files and was last updated on 12/22/2025, 4:58:15 PM*
