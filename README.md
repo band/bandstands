@@ -8,7 +8,7 @@ Use the "Recent Changes", "Search", "All Pages" , and "Random Page" buttons in t
 
  Climate warming update from the Scripps Mauna Loa Observatory:
 
-![Image file not available](https://scripps.ucsd.edu/bluemoon/co2_400/daily_value.png)  
+![Data file not available](https://scripps.ucsd.edu/bluemoon/co2_400/daily_value.png)  
 
 -----
 
