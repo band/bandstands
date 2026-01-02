@@ -1,5 +1,6 @@
 # Files in readingNotes
 
+- [[Amia Srinivasan - Return of the Unconscious]] *(12/25/2025, 6:21:00 PM)*
 - [[Kochanski - RESISTANCE]] *(12/22/2025, 4:58:12 PM)*
 - [[Margalit - Ethics of Memory]] *(11/29/2025, 7:31:18 AM)*
 - [[Ernst Fraenkel - The Dual State]] *(11/29/2025, 7:25:40 AM)*
@@ -96,4 +97,4 @@
 - [[Tolstoy_1908_ALetterToAHindu]] *(4/2/2022, 11:03:25 AM)*
 - [[Donna Thompson - ancient dreams]] *(5/15/2021, 3:56:10 PM)*
 
-*This list contains 95 files and was last updated on 12/22/2025, 4:58:15 PM*
+*This list contains 96 files and was last updated on 1/2/2026, 1:07:49 PM*
