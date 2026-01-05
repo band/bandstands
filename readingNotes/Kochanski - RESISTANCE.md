@@ -12,8 +12,20 @@ page 101:
 > The principal challenge facing Rowecki when setting up the ZWZ \[Union for Armed Struggle\] was uniting under his command the over 100 underground military organizations that had emerged after Poland's defeat. He confided to his deputy Bór-Komorowski:  
 > 	I have no means of enforcing such a measure. There are no steps I can take towards it. All I have is the authority of the Polish Government abroad, and this is of necessity a moral authority only, and the future alone can show whether it is sufficiently strong to overcome political differences as well as personal ambitions and unite the whole nation.   
 
-page 102:  
+pages 102-103:  
 > The political resistance began in Poland at the same time as the military organization. ... The importance of the Polish underground state cannot be underestimated. ... The underground state was created to take the place of the civil service. Of the fifteen departments it formed, the three most important dealt with education, justice, and civilian resistance.
+> ... the underground government formed a secret teachers' organization in Warsaw in autumn 1939 ... eventually setting up almost 2,000 secret secondary schools. One of its leaders, Kazimierz Koźniewski, wrote after the war: 'Underground teaching on all levles of schooling was the most admirable work accomplished by Polish society. Neither tracts, nor violence, nor sabotage were as productive as this last manifestation of the national consciousness.'  
+
+page 109:  
+> The resistance was equally divided of its level of support for de Gaulle. For Agnès Humbert, involved in the Musèe de l'Homme resistance network, de Gaulle 'was a leader of whom we know absolutely nothing ...' but whoe speech as France fell gave the early resisters something very important in their decision ot swim against the tide of collaboration and accomodation -- hope.'  
+> ... The early stages of the French resistance movements also illustrate another pitfall applicable to other countries -- that of trying to do too much.  
+
+page 111:  
+> Intelligence has been defined as:
+> 	... the collection, collation and analysis of evidence to enable an effective use of scarce resources. Intelligence is not a form of power, but rather a means to guide its use. ... It involves finding true and useful secrets which avoiding false notions, and for the opposite on the foe, through security and deception.  
+> Intelligence could be harvested from a great variety of sources: signals intelligence ... and human intelligence gathered by people in occupied countries.  
+
+
 
 
 
