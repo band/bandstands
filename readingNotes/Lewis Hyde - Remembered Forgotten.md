@@ -1,6 +1,6 @@
 # Lewis Hyde - Remembered Forgotten
 
-APAvar: Hyde, Lewis (2019). A Primer for Forgetting: Getting Past the Past. Farrar, Strauss and Giroux.  
+APA: Hyde, Lewis (2019). _A Primer for Forgetting: Getting Past the Past_. Farrar, Strauss and Giroux.  
 Link: <https://worldcat.org/en/title/1222828730>  
 
 page 307 (posted 2019-11-05):  

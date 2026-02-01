@@ -1,7 +1,7 @@
 
 # Langdon Winner - Autonomous Technology
 
-APAvar: Winner, Langdon (1977). Autonomous Technology: Technics-out-of-control as a Theme in Political Thought. The MIT Press.  
+APA: Winner, Langdon (1977). Autonomous Technology: Technics-out-of-control as a Theme in Political Thought. The MIT Press.  
 Link: <https://worldcat.org/en/title/875436342>
 
 ## Introduction

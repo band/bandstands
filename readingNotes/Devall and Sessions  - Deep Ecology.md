@@ -1,6 +1,6 @@
 # Devall and Sessions - Deep Ecology
 
-APAvar: Bill Devall & George Sessions (1985). Deep Ecology: Living as if nature mattered. G.M. Smith.  
+APA: Bill Devall & George Sessions (1985). Deep Ecology: Living as if nature mattered. G.M. Smith.  
 Link: https://archive.org/details/deepecology0000deva  
 
 pages ix-x::

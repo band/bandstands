@@ -1,6 +1,6 @@
 # Jonathan Rosen - The Talmud and The Internet
 
-APAvar: Rosen, Jonathan (2000). The Talmud and The Internet: A journey between worlds. Picador, USA.  
+APA: Rosen, Jonathan (2000). The Talmud and The Internet: A journey between worlds. Picador, USA.  
 Link: <https://worldcat.org/en/title/43115010>  
 
 pages 9-10:    

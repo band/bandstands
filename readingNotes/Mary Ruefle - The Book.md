@@ -1,6 +1,6 @@
 # Mary Ruefle - The Book
  
-APAvar: Ruefle, Mary (2023). _The Book_. Wave Books
+APA: Ruefle, Mary (2023). _The Book_. Wave Books
 Link: https://www.wavepoetry.com/products/the-book   
 
 Epigraph:  

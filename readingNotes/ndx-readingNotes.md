@@ -1,5 +1,14 @@
 # Files in readingNotes
 
+- [[Devall and Sessions  - Deep Ecology]] *(2/1/2026, 7:13:43 AM)*
+- [[Jonathan Rosen - The Talmud and The Internet]] *(2/1/2026, 7:13:10 AM)*
+- [[Arundhati Roy - highlights from Azadi]] *(2/1/2026, 7:12:57 AM)*
+- [[Mary Ruefle - The Book]] *(2/1/2026, 7:12:51 AM)*
+- [[Langdon Winner - Autonomous Technology]] *(2/1/2026, 7:12:36 AM)*
+- [[Yuval Harari - Nexus]] *(2/1/2026, 7:12:28 AM)*
+- [[Charles Taylor - A Secular Age]] *(2/1/2026, 7:12:05 AM)*
+- [[Toby Lester - Da Vinci's Ghost]] *(2/1/2026, 7:11:13 AM)*
+- [[Lewis Hyde - Remembered Forgotten]] *(2/1/2026, 7:10:50 AM)*
 - [[Kochanski - RESISTANCE]] *(1/12/2026, 9:04:26 AM)*
 - [[Amia Srinivasan - Return of the Unconscious]] *(12/25/2025, 6:21:00 PM)*
 - [[Margalit - Ethics of Memory]] *(11/29/2025, 7:31:18 AM)*
@@ -12,22 +21,16 @@
 - [[From An Essay on Waiting]] *(8/11/2025, 8:43:07 AM)*
 - [[Italo Calvino - Six Memos for the Next Millenium]] *(8/11/2025, 8:42:30 AM)*
 - [[Peter Cornell - The Ways of Paradise]] *(8/11/2025, 8:41:11 AM)*
-- [[Charles Taylor - A Secular Age]] *(8/11/2025, 8:40:32 AM)*
 - [[Camus - Notebooks 1951-1959]] *(7/25/2025, 4:14:40 PM)*
 - [[Michael Kinnucan - Texas power market structure]] *(7/4/2025, 10:23:32 AM)*
-- [[Yuval Harari - Nexus]] *(5/22/2025, 4:53:14 PM)*
 - [[2022 Dawn of Everything notes]] *(5/5/2025, 2:13:38 PM)*
 - [[2025-02-16-JasonHickel-thread]] *(2/16/2025, 2:02:37 PM)*
 - [[David Byrne - The world is a song]] *(1/26/2025, 10:44:24 AM)*
 - [[Gerald Murnane - avoiding writing]] *(1/2/2025, 4:41:54 PM)*
 - [[Collapse of Western Civilization - Oreskes and Conway]] *(1/2/2025, 9:13:46 AM)*
-- [[Langdon Winner - Autonomous Technology]] *(12/16/2024, 7:32:24 AM)*
 - [[Gurdjieff - intervals in life]] *(11/19/2024, 7:38:23 AM)*
-- [[Mary Ruefle - The Book]] *(10/16/2024, 11:13:52 AM)*
-- [[Jonathan Rosen - The Talmud and The Internet]] *(9/30/2024, 10:48:12 AM)*
 - [[Mary Midgley - Science As Salvation]] *(9/29/2024, 10:19:19 PM)*
 - [[Peter Handke - Quiet Places - collected essays]] *(9/29/2024, 3:45:59 PM)*
-- [[Arundhati Roy - highlights from Azadi]] *(8/28/2024, 12:58:49 PM)*
 - [[Martha Gellhorn - politics is everything]] *(8/5/2024, 3:31:27 PM)*
 - [[Stafford A-Ritual-to-Read-to-Each-Other]] *(7/20/2024, 1:48:17 PM)*
 - [[Steve Lewis - art on the other side]] *(7/20/2024, 1:45:48 PM)*
@@ -35,13 +38,11 @@
 - [[Douglass Carmichael - the loss of Christianity]] *(7/17/2024, 1:54:11 PM)*
 - [[Jacqueline Rose - The Plague]] *(7/7/2024, 3:56:10 PM)*
 - [[KateSoper-Post-growth-living]] *(6/30/2024, 11:16:59 AM)*
-- [[Devall and Sessions  - Deep Ecology]] *(6/13/2024, 10:23:49 AM)*
 - [[Bleier_1988_FeministApproachesToScience]] *(5/26/2024, 4:06:25 PM)*
 - [[Essays on the work of Charles Taylor]] *(5/26/2024, 1:18:51 PM)*
 - [[Oreskes and Conway - The Big Myth]] *(5/26/2024, 11:23:31 AM)*
 - [[Nobody's Looking at You notes]] *(5/26/2024, 11:23:12 AM)*
 - [[Martha Nussbaum - Upheavals of thought]] *(5/26/2024, 11:21:07 AM)*
-- [[Lewis Hyde - Remembered Forgotten]] *(5/26/2024, 11:20:43 AM)*
 - [[Kornbluh_2023_immediacy]] *(5/26/2024, 11:19:01 AM)*
 - [[H Segal - Intro to the work of Melanie Klein]] *(5/26/2024, 11:17:34 AM)*
 - [[Greg Tate _2016_ FLYBOY2]] *(5/26/2024, 11:17:10 AM)*
@@ -97,4 +98,4 @@
 - [[Tolstoy_1908_ALetterToAHindu]] *(4/2/2022, 11:03:25 AM)*
 - [[Donna Thompson - ancient dreams]] *(5/15/2021, 3:56:10 PM)*
 
-*This list contains 96 files and was last updated on 1/12/2026, 9:04:29 AM*
+*This list contains 97 files and was last updated on 2/1/2026, 7:13:46 AM*
