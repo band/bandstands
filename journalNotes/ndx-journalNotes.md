@@ -1,6 +1,6 @@
 # Files in journalNotes
 
-- [[ElizabethSawin - Patterns of Domination]] *(2/1/2026, 7:06:51 AM)*
+- [[ElizabethSawin - Patterns of Domination]] *(2/6/2026, 8:59:55 AM)*
 - [[2025-06-19-17 Camus - a fabricated quote]] *(7/25/2025, 5:05:37 PM)*
 - [[20250725-AdamTooze]] *(7/25/2025, 12:57:54 PM)*
 - [[2025-07-03 Humans of New York]] *(7/3/2025, 10:59:21 AM)*
@@ -178,4 +178,4 @@
 - [[2021-06-06 Our nationalistic future]] *(6/6/2021, 2:11:33 PM)*
 - [[2021-03-28 David Swedlow]] *(5/9/2021, 1:30:34 PM)*
 
-*This list contains 177 files and was last updated on 2/1/2026, 7:08:52 AM*
+*This list contains 177 files and was last updated on 2/6/2026, 3:38:40 PM*

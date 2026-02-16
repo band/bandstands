@@ -1,5 +1,6 @@
 # Files in readingNotes
 
+- [[Lewis Hyde - Remembered Forgotten]] *(2/15/2026, 3:54:25 PM)*
 - [[Devall and Sessions  - Deep Ecology]] *(2/1/2026, 7:13:43 AM)*
 - [[Jonathan Rosen - The Talmud and The Internet]] *(2/1/2026, 7:13:10 AM)*
 - [[Arundhati Roy - highlights from Azadi]] *(2/1/2026, 7:12:57 AM)*
@@ -8,7 +9,6 @@
 - [[Yuval Harari - Nexus]] *(2/1/2026, 7:12:28 AM)*
 - [[Charles Taylor - A Secular Age]] *(2/1/2026, 7:12:05 AM)*
 - [[Toby Lester - Da Vinci's Ghost]] *(2/1/2026, 7:11:13 AM)*
-- [[Lewis Hyde - Remembered Forgotten]] *(2/1/2026, 7:10:50 AM)*
 - [[Kochanski - RESISTANCE]] *(1/12/2026, 9:04:26 AM)*
 - [[Amia Srinivasan - Return of the Unconscious]] *(12/25/2025, 6:21:00 PM)*
 - [[Margalit - Ethics of Memory]] *(11/29/2025, 7:31:18 AM)*
@@ -98,4 +98,4 @@
 - [[Tolstoy_1908_ALetterToAHindu]] *(4/2/2022, 11:03:25 AM)*
 - [[Donna Thompson - ancient dreams]] *(5/15/2021, 3:56:10 PM)*
 
-*This list contains 97 files and was last updated on 2/1/2026, 7:13:46 AM*
+*This list contains 97 files and was last updated on 2/15/2026, 3:54:28 PM*
