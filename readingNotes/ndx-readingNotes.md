@@ -1,6 +1,7 @@
 # Files in readingNotes
 
-- [[Lewis Hyde - Remembered Forgotten]] *(2/15/2026, 3:54:25 PM)*
+- [[Jacqueline Rose - The Plague]] *(4/5/2026, 12:06:39 PM)*
+- [[Lewis Hyde - Remembered Forgotten]] *(3/26/2026, 4:13:35 PM)*
 - [[Devall and Sessions  - Deep Ecology]] *(2/1/2026, 7:13:43 AM)*
 - [[Jonathan Rosen - The Talmud and The Internet]] *(2/1/2026, 7:13:10 AM)*
 - [[Arundhati Roy - highlights from Azadi]] *(2/1/2026, 7:12:57 AM)*
@@ -36,7 +37,6 @@
 - [[Steve Lewis - art on the other side]] *(7/20/2024, 1:45:48 PM)*
 - [[2022 Nomad Century notes]] *(7/19/2024, 9:09:53 AM)*
 - [[Douglass Carmichael - the loss of Christianity]] *(7/17/2024, 1:54:11 PM)*
-- [[Jacqueline Rose - The Plague]] *(7/7/2024, 3:56:10 PM)*
 - [[KateSoper-Post-growth-living]] *(6/30/2024, 11:16:59 AM)*
 - [[Bleier_1988_FeministApproachesToScience]] *(5/26/2024, 4:06:25 PM)*
 - [[Essays on the work of Charles Taylor]] *(5/26/2024, 1:18:51 PM)*
@@ -98,4 +98,4 @@
 - [[Tolstoy_1908_ALetterToAHindu]] *(4/2/2022, 11:03:25 AM)*
 - [[Donna Thompson - ancient dreams]] *(5/15/2021, 3:56:10 PM)*
 
-*This list contains 97 files and was last updated on 3/14/2026, 4:30:03 PM*
+*This list contains 97 files and was last updated on 4/17/2026, 3:05:27 PM*

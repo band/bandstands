@@ -1,6 +1,6 @@
 # Jacqueline Rose - The Plague  
 
-APAvar: Rose, Jacqueline (2023). The Plague: Living Death in Our Times. Farrar, Strauss and Giroux.  
+APA: Rose, Jacqueline (2023). The Plague: Living Death in Our Times. Farrar, Strauss and Giroux.  
 Link: <https://worldcat.org/en/title/1374903661>  
 
 page 5:  

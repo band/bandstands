@@ -53,3 +53,67 @@ Two rules for analysts:
 page 156 the agent of one's own recollections:  
 > For those whose goal is an end to conflict, then, better to become intimate with the self that clings to differences. And better to forget about it. For those whose goal is an end to conflict, then, better to become intimate with the self that clings to differences. And better to forget about it.  
 
+page 166:  
+> That Crown of Forgetfulness ... the way it is set against conflict, and not just any conflict but the centuries-old division between Christianity and Islam. "Ogier the Dane" is pure Orientallism, that politics of difference animating the violence of Christian imperialsim.  
+
+pages 180 - 181:  
+> When it comes to collective memory -- the kind that calls for a _national_ historic site -- you can't begin to remember in a way that allows you to forget until the collective itself recognizes and responds to the history at hand.  
+
+page 193:  
+> In the alternating rhythms of memory and forgetting, it was the second generation after Franco's death that broke the pact of silence that their parents had found necessary to make the transition to democracy.  
+
+page 204: (Imre Kertész)  
+> " We must create our values ourselves, day by day, with that persistent though invisible ethical work that will give them life, and perhaps turn them into the foundation of a new European culture."  
+
+page 205: (Ruth Kluger)  
+> As for "the various Shoah museums," they "tell you what you ought to think.... They impede critical faculty."  
+
+page 220:  
+> With the 1865 end of the U.S. Civil War came calls on both sides to forget the conflict as soon as possible.
+> ...
+> Fine, but such entreaties leave many questions unanswered. Who exactly forgets? What will they commit to oblivion, and what will they preserve? And what story will remain once that sorting is done?  
+
+page 221:  
+> The "Lost Cause": the phrase refers in general to a set of claims about the Old South and the Civil War (that slaves were happy, ... that an avaricious industrial North destroyed a genteel, organic civilization), but in specific the phrase refers to the claimed autonomy of individual states, their freedom from federal interference.  
+
+page 224: (Frederick Douglass)  
+> The American people are "destitute of political memory," Douglass once said, "We are more likely to forget too soon, than to remember too long, the history of the American conflict with slavery."  
+
+page 229:  
+> If national identity presumes collective forgetting, thenthe struggle over how to remember the Civil War poses a question: What form shall the abstraction "the United States of America" take?  
+
+page 231:  
+> But of course to speak of mutual enemies is a displacement of antagonism rather than its transcendence.  
+> And transcendence is what is needed for the kind of forgetting that amounts to freedom from history.  
+
+page 233:  
+> If, in the psychology of individuals, unresolved traumatic memories present themselves symptomatically (as obsessions, acting out, ... nightmares, ....) does something similar hold for the psychology of nations? Does unexamined history reappear in some form of collective acting out, nightmare, flashback, and so on? If so, then forced forgetting doesn't resolve or transcend a violent past but obliges it to live on by displacement.  
+
+page 252:  
+> When we say we _consign_ something to oblivion, we suggest simultaneously that it is to be forgotten and yet also remembered," says Søren Kierkegaard. ...
+> I suppose that this paradox describes accurately the kind of stance to the past that make reconciliation possible: it is necessary to forget _and_ remember at the same time.  
+
+page 268:  
+> Psychotherapeutic work includes becoming conscious of memory's transfer habit and dropping it so as to experience more directly not just the therapist but any other person.  
+
+page 270: (Agnes Martin)  
+> "I gave up facts entirely in order to have an empty mind for inspiration to come into .... You have to practice quiet, empty mind. I gave up the intellect entirely. I had a hard time giving up evolution and atomic theory but I managed it ....  And I never have ideas myself. I'm very careful not to have ideas."   
+
+page 274:  
+> Agnosia is not amnesia. _Nothing can be forgotten that was not first in mind._   
+
+page 283:  
+> We may think of myth as representing things from the primeval past, but a case like this shows that it is sometimes better to say that myth offers a map of present conditions, giving them authority by framing them as primeval. In a oral culture, each generation is free to reimagine its heritage in a form that matches the past to the present.  
+
+page 294:  
+> The literary critic Barbara Johnson writes that it ws Thoreau's great gift to wake us to "our own lost losses." Not losses simply -- we all have those -- but the losses we are not even aware of. If we are ever to recover them, remembering that we have forgotten is the first step.  
+
+page 302:  
+> .... one of Marcel Proust's great themes, the trade-off between the delight or anxiety of fresh perception and the comfort or dullness of the habitual. Habit's first duty is to help us feel at home is our surroundings, a virtue Proust readily acknowledges, call habit "that skillful, slow-moving housekeeper" .... But on the whole, he is a declared enemy of habit. Its comforts anesthesize and stupefy ....  
+
+page 305:  
+> These essences or truths are not so much in the memories themselves as in the uncanny coincidence of past and present that points to something exclusive to neither and therefore lying outside time.  
+
+page 308:  
+> " .... the true paradise is the paradise we have lost."  
+
