@@ -14,10 +14,10 @@ page 179:
  
 pages 223-4: (after India's 1998 nuclear weapons test)  
 > After the tests our newspapers and TV channels were saturated with triumphant bombast, much of it couched in the language of masculinity and virility. The most unlikely people, including writers, actors, and artists, joined in the celebrations. A new public language, previously unacceptable, suddenly became acceptable. It became painfully clear that nuclear weapons were lethal even if they weren't used. The idea that India had proudly, openly declared itself a nuclear power seemed to have altered our collective imagination, turned it radioactive.  
-> 
+> ...
 (from the essay "The End of Imagination"):  
 	"Why does it all seem so familiar? It is because even as you watch, reality dissolves and seamlessly rushes forward into the silent, black-and-white images from old films -- scenes of people being hounded out of their lives, rounded up and herded into camps? Of massacres, of mayhem, of endless columns of broken people making their way to nowhere? Why is the hall so quiet? Have I been seeing too many films? Am I mad? Or am I right? Could those images be the inevitable culmination of what we have set into motion?"
-	
+
 page 235: (about protest work against the Narmada dams)  
 > I wanted everybody to be able to do the kind of work that big funders wouldn't easily fund. Because all of us realized that big money always tended to soften edges and support the status quo. Sometimes brazenly, and sometimes in sophisticated, roundabout ways. Small money is always more subversive.  
 
