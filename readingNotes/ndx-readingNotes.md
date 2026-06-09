@@ -1,6 +1,6 @@
 # Files in readingNotes
 
-- [[Balle - on the calculation of volume]] *(6/3/2026, 4:19:08 PM)*
+- [[Balle - on the calculation of volume]] *(6/9/2026, 4:48:36 PM)*
 - [[Pollan_2026_onThought]] *(5/9/2026, 4:51:03 PM)*
 - [[Arundhati Roy - Mother Mary Comes to Me]] *(4/20/2026, 2:56:17 PM)*
 - [[Jacqueline Rose - The Plague]] *(4/5/2026, 12:06:39 PM)*
@@ -101,4 +101,4 @@
 - [[Tolstoy_1908_ALetterToAHindu]] *(4/2/2022, 11:03:25 AM)*
 - [[Donna Thompson - ancient dreams]] *(5/15/2021, 3:56:10 PM)*
 
-*This list contains 100 files and was last updated on 6/3/2026, 4:19:11 PM*
+*This list contains 100 files and was last updated on 6/9/2026, 4:48:39 PM*
