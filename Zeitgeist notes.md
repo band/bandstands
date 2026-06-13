@@ -68,6 +68,9 @@ from [[2023-05-14 Notes on Gnosticism]]:
 
 2025-01-26: improving the scientific imaginary: [[David Byrne - The world is a song]]  
 
+2026-06-13: What we face is a series of attempts to solve ongoing politico-economic crises with adaptation techniques. [[Lovink_20260613_nettime-interview-Anna-Verena-Nosthoff-Cybernetics]]  
+
+
 
 
 

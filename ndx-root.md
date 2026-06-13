@@ -1,9 +1,9 @@
 # Files in Root
 
-- [[Sarah Schulman - Solidarity]] *(4/12/2026, 3:51:34 PM)*
+- [[Sarah Schulman - Solidarity]] *(6/13/2026, 3:37:12 PM)*
+- [[Zeitgeist notes]] *(6/13/2026, 3:36:18 PM)*
 - [[The Last Time You Used Algebra]] *(3/14/2026, 4:47:09 PM)*
 - [[Lowry Pressly - The Right to Oblivion]] *(1/13/2026, 11:20:35 AM)*
-- [[Zeitgeist notes]] *(1/26/2025, 10:46:56 AM)*
 - [[The socials - notes on praxis]] *(12/16/2024, 8:02:43 AM)*
 - [[The Guest House - Jalaluddin Rumi]] *(11/28/2024, 10:44:58 AM)*
 - [[North American Time]] *(11/13/2024, 9:30:54 AM)*
@@ -24,4 +24,4 @@
 - [[Akwaeke Emezi - revolutionary imagination]] *(9/30/2022, 3:57:24 PM)*
 - [[Decentralized organizations and social defenses - notes]] *(7/29/2022, 9:44:33 AM)*
 
-*This list contains 23 files and was last updated on 6/7/2026, 1:18:10 PM*
+*This list contains 23 files and was last updated on 6/13/2026, 3:37:15 PM*
