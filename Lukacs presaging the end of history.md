@@ -10,8 +10,8 @@ At this point bourgeois thought must come up against an insuperable obstacle, fo
 
 In the second case, history is transformed into the irrational rule of blind forces which is embodied at best in the 'spirit of the people' or in 'great men'. It can therefore only be described pragmatically but it cannot be rationally understood. Its only possible organisation would be aesthetic, as if it were a work of art. Or else, as in the philosophy of history of the Kantians, it must be seen as the instrument, senseless in itself, by means of which timeless, suprahistorical, ethical principles are realised.
 
-3 And also of the 'pessimism' which perpetuates the present state of affairs and represents it as the uttermost limit of human development just as much as does 'optimism'. In this respect (and in this respect alone) Hegel and Schopenhauer are on a par with each other.  
-4 Marx,  _The Poverty of Philosophy_, p. 135.  
+3. And also of the 'pessimism' which perpetuates the present state of affairs and represents it as the uttermost limit of human development just as much as does 'optimism'. In this respect (and in this respect alone) Hegel and Schopenhauer are on a par with each other.  
+4. Marx,  _The Poverty of Philosophy_, p. 135.  
 
 -----
 

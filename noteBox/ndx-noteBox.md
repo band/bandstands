@@ -1,5 +1,6 @@
 # Files in noteBox
 
+- [[Rovelli - Edge of Armageddon]] *(6/25/2026, 9:50:31 PM)*
 - [[A Familiar Disaster]] *(5/22/2026, 9:19:52 AM)*
 - [[2021-08-25 Beth Sawin on slowing down]] *(11/29/2025, 7:29:19 AM)*
 - [[Vandana Shiva via Ken Homer]] *(11/29/2025, 7:23:56 AM)*
@@ -175,4 +176,4 @@
 - [[2021-07-17-17-31-41]] *(7/18/2021, 2:56:15 PM)*
 - [[2021-07-12-07-38-35]] *(7/13/2021, 2:31:39 PM)*
 
-*This list contains 174 files and was last updated on 6/13/2026, 3:34:37 PM*
+*This list contains 175 files and was last updated on 7/3/2026, 8:48:36 AM*

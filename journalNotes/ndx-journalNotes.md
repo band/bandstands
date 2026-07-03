@@ -7,6 +7,7 @@
 - [[2025-07-03 Humans of New York]] *(7/3/2025, 10:59:21 AM)*
 - [[David Roberts - narratives all the way down]] *(5/24/2025, 12:25:49 PM)*
 - [[2023-05-14 Notes on Gnosticism]] *(11/29/2024, 3:04:30 PM)*
+- [[Massive Wiki - some affordances]] *(10/25/2024, 4:01:24 PM)*
 - [[2021-08-19-07 The Ides of August]] *(8/18/2024, 7:42:27 AM)*
 - [[2021-07-22 the education of children]] *(8/18/2024, 7:41:51 AM)*
 - [[2021-07-18 Samuel Beckett]] *(8/18/2024, 7:40:33 AM)*
@@ -179,4 +180,4 @@
 - [[2021-06-06 Our nationalistic future]] *(6/6/2021, 2:11:33 PM)*
 - [[2021-03-28 David Swedlow]] *(5/9/2021, 1:30:34 PM)*
 
-*This list contains 178 files and was last updated on 6/13/2026, 3:34:37 PM*
+*This list contains 179 files and was last updated on 7/3/2026, 8:50:29 AM*
