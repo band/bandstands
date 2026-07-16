@@ -1,6 +1,6 @@
 # Files in Root
 
-- [[Sarah Schulman - Solidarity]] *(7/4/2026, 3:55:17 PM)*
+- [[Sarah Schulman - Solidarity]] *(7/16/2026, 12:32:28 PM)*
 - [[Lukacs presaging the end of history]] *(7/3/2026, 8:54:13 AM)*
 - [[Zeitgeist notes]] *(6/13/2026, 3:36:18 PM)*
 - [[The Last Time You Used Algebra]] *(3/14/2026, 4:47:09 PM)*
@@ -23,4 +23,4 @@
 - [[Akwaeke Emezi - revolutionary imagination]] *(9/30/2022, 3:57:24 PM)*
 - [[Decentralized organizations and social defenses - notes]] *(7/29/2022, 9:44:33 AM)*
 
-*This list contains 22 files and was last updated on 7/4/2026, 3:55:20 PM*
+*This list contains 22 files and was last updated on 7/16/2026, 12:32:31 PM*

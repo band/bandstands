@@ -1,7 +1,7 @@
 # Sarah Schulman - Solidarity  
 
 APA: Schulman, S. (2025). _The FANTASY and NECESSITY of SOLIDARITY_. Thesis.
-
+Link: <https://openlibrary.org/works/OL41941442W/The_Fantasy_and_Necessity_of_Solidarity>  
 
 pages 3-4:  
 > Solidarity is the essential human process of recognizing that other people are real and their experiences matter. It is based in learning to evaluate the state of the world by the collective and not only by our own, individual experience. Solidarity is the action behind the revelation that each of us, individually, are not the only people with dreams.  
