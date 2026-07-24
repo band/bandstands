@@ -1,5 +1,6 @@
 # Files in readingNotes
 
+- [[Octavia Butler - The Last Interview]] *(7/24/2026, 9:18:10 AM)*
 - [[Balle - on the calculation of volume]] *(6/9/2026, 4:48:36 PM)*
 - [[Pollan_2026_onThought]] *(5/9/2026, 4:51:03 PM)*
 - [[Arundhati Roy - Mother Mary Comes to Me]] *(4/20/2026, 2:56:17 PM)*
@@ -101,4 +102,4 @@
 - [[Tolstoy_1908_ALetterToAHindu]] *(4/2/2022, 11:03:25 AM)*
 - [[Donna Thompson - ancient dreams]] *(5/15/2021, 3:56:10 PM)*
 
-*This list contains 100 files and was last updated on 7/4/2026, 3:52:07 PM*
+*This list contains 101 files and was last updated on 7/24/2026, 9:18:13 AM*

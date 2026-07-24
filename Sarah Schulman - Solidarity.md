@@ -1,6 +1,6 @@
 # Sarah Schulman - Solidarity  
 
-APA: Schulman, S. (2025). _The FANTASY and NECESSITY of SOLIDARITY_. Thesis.
+APA: Schulman, S. (2025). _The FANTASY and NECESSITY of SOLIDARITY_. Thesis.  
 Link: <https://openlibrary.org/works/OL41941442W/The_Fantasy_and_Necessity_of_Solidarity>  
 
 pages 3-4:  
