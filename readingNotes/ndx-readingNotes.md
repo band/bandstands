@@ -1,5 +1,8 @@
 # Files in readingNotes
 
+- [[Scott Anderson - King of Kings]] *(10/15/2026, 4:13:27 PM)*
+- [[Ian Shapiro - After The Fall]] *(10/9/2026, 4:46:01 PM)*
+- [[neiman-call-it-evil]] *(9/21/2026, 4:42:33 PM)*
 - [[Octavia Butler - The Last Interview]] *(7/24/2026, 9:18:10 AM)*
 - [[Balle - on the calculation of volume]] *(6/9/2026, 4:48:36 PM)*
 - [[Pollan_2026_onThought]] *(5/9/2026, 4:51:03 PM)*
@@ -102,4 +105,4 @@
 - [[Tolstoy_1908_ALetterToAHindu]] *(4/2/2022, 11:03:25 AM)*
 - [[Donna Thompson - ancient dreams]] *(5/15/2021, 3:56:10 PM)*
 
-*This list contains 101 files and was last updated on 7/24/2026, 9:18:13 AM*
+*This list contains 104 files and was last updated on 10/15/2026, 4:15:31 PM*

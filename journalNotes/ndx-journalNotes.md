@@ -1,5 +1,6 @@
 # Files in journalNotes
 
+- [[2021-09-19 Adrienne Rich In those years]] *(10/15/2026, 4:16:09 PM)*
 - [[Lovink_20260613_nettime-interview-Anna-Verena-Nosthoff-Cybernetics]] *(6/13/2026, 3:32:21 PM)*
 - [[ElizabethSawin - Patterns of Domination]] *(2/6/2026, 8:59:55 AM)*
 - [[2025-06-19-17 Camus - a fabricated quote]] *(7/25/2025, 5:05:37 PM)*
@@ -152,7 +153,6 @@
 - [[2022-03-02-07-39 remarks]] *(3/4/2022, 2:33:24 PM)*
 - [[2022-02-19 brief thoughts]] *(2/19/2022, 1:31:20 PM)*
 - [[2022-01-22 JMikolay Thread - writing well without getting stuck]] *(1/25/2022, 11:53:30 AM)*
-- [[2021-09-19 Adrienne Rich In those years]] *(11/25/2021, 10:11:18 PM)*
 - [[2021-09-17-13-32 moral case for guaranteed income]] *(11/25/2021, 3:17:55 PM)*
 - [[2021-09-02-13-39 Beth Sawin on multisolving]] *(11/25/2021, 3:17:35 PM)*
 - [[2021-11-25 Donna Thomson A Truer Thanksgiving Story]] *(11/25/2021, 2:50:12 PM)*
@@ -180,4 +180,4 @@
 - [[2021-06-06 Our nationalistic future]] *(6/6/2021, 2:11:33 PM)*
 - [[2021-03-28 David Swedlow]] *(5/9/2021, 1:30:34 PM)*
 
-*This list contains 179 files and was last updated on 7/21/2026, 4:11:50 PM*
+*This list contains 179 files and was last updated on 10/15/2026, 4:16:12 PM*
