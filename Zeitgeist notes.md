@@ -70,6 +70,10 @@ from [[2023-05-14 Notes on Gnosticism]]:
 
 2026-06-13: What we face is a series of attempts to solve ongoing politico-economic crises with adaptation techniques. [[Lovink_20260613_nettime-interview-Anna-Verena-Nosthoff-Cybernetics]]  
 
+2026-10-13: today's notable post from phoebebawmann on Threads:  
+The climate crisis is not a test of whether individuals can become sufficiently virtuous consumers. It is a test of whether governments can confront industries powerful enough to resist meaningful regulation.
+<https://www.threads.com/share/IJbQrUngw/>  
+
 
 
 
