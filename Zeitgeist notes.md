@@ -74,6 +74,9 @@ from [[2023-05-14 Notes on Gnosticism]]:
 The climate crisis is not a test of whether individuals can become sufficiently virtuous consumers. It is a test of whether governments can confront industries powerful enough to resist meaningful regulation.
 <https://www.threads.com/share/IJbQrUngw/>  
 
+2026-11-09: from [[Ruth Ben-Ghiat Strongmen - Mussolini to the Present]] page 254:  
+> Democracy needs ... compelling narratives that make the case for the merits and advantages of open societies. Liberal values don't have to seem "tepid and boring," the philosopher Martha Nussbaum argues, if compassion and love are recognized as fundamental to the democratic model of politics.  
+
 
 
 
