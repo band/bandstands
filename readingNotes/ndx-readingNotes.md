@@ -1,5 +1,6 @@
 # Files in readingNotes
 
+- [[SamuelHuntingtonsGreatIdeaWasTotallyWrong]] *(11/12/2026, 12:46:00 PM)*
 - [[Scott Anderson - King of Kings]] *(10/15/2026, 4:13:27 PM)*
 - [[Ian Shapiro - After The Fall]] *(10/9/2026, 4:46:01 PM)*
 - [[neiman-call-it-evil]] *(9/21/2026, 4:42:33 PM)*
@@ -105,4 +106,4 @@
 - [[Tolstoy_1908_ALetterToAHindu]] *(4/2/2022, 11:03:25 AM)*
 - [[Donna Thompson - ancient dreams]] *(5/15/2021, 3:56:10 PM)*
 
-*This list contains 104 files and was last updated on 11/9/2026, 9:40:23 AM*
+*This list contains 105 files and was last updated on 11/12/2026, 12:46:00 PM*
