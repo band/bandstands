@@ -1,5 +1,6 @@
 # Files in Root
 
+- [[Labutut - When We Cease to Understand the World]] *(11/15/2026, 4:59:37 PM)*
 - [[Zeitgeist notes]] *(11/9/2026, 2:21:37 PM)*
 - [[Sarah Schulman - Solidarity]] *(7/17/2026, 7:22:25 AM)*
 - [[Lukacs presaging the end of history]] *(7/3/2026, 8:54:13 AM)*
@@ -23,4 +24,4 @@
 - [[Akwaeke Emezi - revolutionary imagination]] *(9/30/2022, 3:57:24 PM)*
 - [[Decentralized organizations and social defenses - notes]] *(7/29/2022, 9:44:33 AM)*
 
-*This list contains 22 files and was last updated on 11/12/2026, 12:44:47 PM*
+*This list contains 23 files and was last updated on 11/15/2026, 4:59:40 PM*

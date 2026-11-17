@@ -1,0 +1,13 @@
+# Labutut - When We Cease to Understand the World
+
+Labatut, Benjamín. _When We Cease to Understand the World_.  
+Kindle Edition. 
+
+pages  165-167:  
+> That afternoon, Heisenberg and Bohr presented their vision of quantum mechanics, which would come to be known as the Copenhagen Interpretation.  
+> Reality, they said to those present, does not exist as something separate from the act of observation. A quantum object has no intrinsic properties. An electron is not in any ﬁxed place until it is measured; it is only in that instant that it appears. Before being measured, it has no attributes; prior to observation, it cannot even be conceived of. It exists in a speciﬁc manner when it is detected by a speciﬁc instrument. Between one measurement and the next, there is no point in asking how it moves, what it is, or where it is located. Like the moon in Buddhism, a particle does not exist: it is the act of measuring that makes it a real object.  
+> What they were proposing was a ruthless rupture with tradition. Physics ought not to concern itself with reality, but rather with what we can say about reality, they said. The being of atoms and their elementary particles was not like that of the objects of everyday experience. They live in worlds of potentialities, Heisenberg explained; they are not things, but possibilities. The transition from the “possible” to the “real” only occurred during the act of observation or measurement. There was, therefore, no independently existing quantum reality. Measured as a wave, an electron appeared as such; measured as a particle, it adopted this other form.  
+> And then they went further.  
+> None of these limits were theoretical: they were not a failure in the model, an experimental limitation or a technical difficulty. There simply existed no “real world” outside that science was capable of studying. “When we speak of the science of our era,” Heisenberg explained, “we are talking about our relationship with nature, not as objective, detached observers, but as actors in a game between man and the world. Science can no longer confront reality in the same way. The method of analysing, explaining and classifying the world has become conscious of its own limitations: these arise from the fact that its interventions alter the objects it proposes to investigate. The light science shines on the world not only changes our vision of reality, but even the behaviour of its fundamental building blocks.” Scientiﬁc method and its object could no longer be prised apart.  
+> The proponents of the Copenhagen Interpretation concluded their lecture with a peremptory verdict: “We consider quantum mechanics to be a closed theory. Its underlying physics and mathematics are no longer amenable to modiﬁcation.”
+
