@@ -1,6 +1,6 @@
-# Balle - on the calculation of volume I
+# Balle - on the calculation of volume
 
-APA: Balle, S. (2024). _On the calculation of volume I_ (B. J. Haveland, Trans.). New Directions Publishing.  
+Balle, S. (2024). _On the calculation of volume I_ (B. J. Haveland, Trans.). New Directions Publishing.  
 Link: <https://openlibrary.org/works/OL36995986W/Om_udregning_af_rumfang_I>  
 
 pages 32 - 33:  
@@ -11,5 +11,11 @@ page 87:
 
 page 113:  
 > There is something reassuring about the sky. It is not like books or plant pots. It is not like jars of olives or boxes of cookies. There is nothing to be done about it. It can be relied upon. It never changes. I cannot influence it and I cannot spoil it. It brooks no intrusion by me, it does not care about monsters on steps.  
+
+Balle, S. (2025). _On the calculation of volume III_ (S.H. Smith & J. Russell, Trans.). New Directions Publishing.  
+
+page 37:  
+> He discovered that much of what he had previously read had not stuck in his memory. It had all been sorted into what he could use, which was funneled into his work, and what he had no use for. Both types were forgotten as soon as they had passed through his hands and he had written his article, given his presentation or lecture or whatever he needed them for. Now he started to think again. He began storing information he had no use for. He started looking around without knowing what to do with what he saw. Collecting unusable pieces of the world. Like grit in the mind. It slowed things down. Now there were sounds when he roamed around in his thoughts. Before, it had been quiet and dark. He had been an owl: silent, efficient, and intent only on the prey he was about to catch.  
+> _Midway upon the journey of our life, I found myself within a forest of dark_, he said. When the day came to a standstill, it was as if he'd suddenly gained a foothold. Now he could hear the sounds of his own footsteps in the darkness.  
 
 
